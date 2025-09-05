@@ -1,23 +1,28 @@
 # Latest Scraper Results
 
-## 2025-09-04 03:25:34
+## 2025-09-05 03:30:22
 
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Line changes detected!**
+
+```diff
++ .
++ Accept all
++ Reject all
++ We use cookies to improve your experience and for marketing. Read our
++ cookie policy
++ manage cookies
++ or
+```
+
+---
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
 No line changes.
-```
-
----
-### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
-
-**Line changes detected!**
-
-```diff
-- 2025 Internship or Graduate - Business Data Analyst
-+ Internship or Graduate - Business Data Analyst
 ```
 
 ---
