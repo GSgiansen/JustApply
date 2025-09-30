@@ -1,34 +1,22 @@
-quantedge.com | 520: Web server is returning an unknown error
-Web server is returning an unknown error
-Error code 520
-Visit
-cloudflare.com
-for more information.
-2025-09-29 03:35:12 UTC
-You
-Browser
-Working
-Los Angeles
-Cloudflare
-Working
-www.quantedge.com
-Host
-Error
-What happened?
-There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.
-What can I do?
-If you are a visitor of this website:
-Please try again in a few minutes.
-If you are the owner of this website:
-There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).
-Additional troubleshooting resources
-.
-Cloudflare Ray ID:
-98686dcd3fea100b
-•
-Your IP:
-Click to reveal
-68.220.58.244
-•
-Performance & security by
-Cloudflare
+Careers | Quantedge
+top of page
+Skip to Main Content
+About Us
+Investor Enquiries
+Careers
+Locations
+Alerts & Advisories
+Use tab to navigate through the menu items.
+Quantedge is constantly on the lookout for driven team players. We provide an intellectually challenging environment where talented individuals can work together to produce exceptional results.
+​
+We are currently recruiting for the following roles:
+​
+​
+2025 - IT Infrastructure Engineer - Singapore
+​
+2026 - Quantitative Investment and Trading Summer Internship – Singapore
+​
+Offers will be made on a rolling basis.
+Terms of Use
+Copyright © 2020 - 2025 Quantedge Inc. All rights reserved.
+bottom of page
