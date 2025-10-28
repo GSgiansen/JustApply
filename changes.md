@@ -1,14 +1,23 @@
 # Latest Scraper Results
 
-## 2025-10-27 03:51:15
+## 2025-10-28 03:40:21
 
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-- Kuala Lumpur | Singapore
-+ Singapore
+- New York Privy HQ
+```
+
+---
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
+- London
+- Software Engineer
 ```
 
 ---
