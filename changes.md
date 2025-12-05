@@ -1,7 +1,16 @@
 # Latest Scraper Results
 
-## 2025-12-04 03:51:41
+## 2025-12-05 03:49:53
 
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
+
+**Line changes detected!**
+
+```diff
+- X
+```
+
+---
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
@@ -11,27 +20,13 @@ No line changes.
 ```
 
 ---
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
 
 **Line changes detected!**
 
 ```diff
-- Liquidity Manager
-- Singapore x2
-- Treasury Operations Manager
-- View Details x2
-- We are seeking a Liquidity Manager to service our multi strategy crypto trading business
-- We are seeking a Treasury Operations Manager to service our multi strategy crypto trading business
-```
-
----
-### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
-
-**Line changes detected!**
-
-```diff
-+ Careers & Culture
-- Culture & Careers
++ 2026 Long/Short Equity Support Research intern, Hong Kong (12 weeks)
+- Long/Short Equity Support Research Intern, Hong Kong (12weeks summer internship)
 ```
 
 ---
