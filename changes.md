@@ -1,14 +1,7 @@
 # Latest Scraper Results
 
-## 2025-12-13 03:47:31
+## 2025-12-14 03:59:57
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
-
-**Line changes detected!**
-
-```diff
-- London
-- Senior Software Engineer, Pricing and Derived Data
-```
+**No changes for today**
 
 ---
