@@ -14,7 +14,6 @@ Portfolio Manager
 Trader
 Software Engineer (C++)
 Quantitative Researcher
-Junior Software Engineer (C++)
 Who We Are
 Technology
 Newsroom
