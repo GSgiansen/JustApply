@@ -252,7 +252,7 @@ Business Acceleration Team
 Private Equity & Venture Capital
 Finance & Accounting
 Find Open Roles
-12 Open Roles
+8 Open Roles
 ROLE
 2026 Future of Finance Accelerator - APAC
 FOCUS
@@ -266,12 +266,6 @@ Trading Research
 LOCATION
 Hong Kong
 ROLE
-2026 Economist Summer Intern
-FOCUS
-Data Sourcing & Strategy
-LOCATION
-Hong Kong   |   Singapore
-ROLE
 2026 Trader Summer Intern, Hong Kong (12-week program)
 FOCUS
 Trading
@@ -284,29 +278,11 @@ Broker Relations
 LOCATION
 Hong Kong
 ROLE
-2026 Regulatory Reporting Summer Intern, Singapore
-FOCUS
-Trade Support & Reporting
-LOCATION
-Singapore
-ROLE
-2026 Securities Lending Trader Summer Intern, Singapore
-FOCUS
-Trade Support & Reporting
-LOCATION
-Singapore
-ROLE
 2026 Operations Summer Intern, Singapore
 FOCUS
 Operations
 LOCATION
 Singapore
-ROLE
-2026 Compliance Summer Intern, Hong Kong
-FOCUS
-Compliance
-LOCATION
-Hong Kong
 ROLE
 Quantitative Alpha Researcher Intern
 FOCUS
@@ -325,7 +301,6 @@ FOCUS
 Systematic Investing
 LOCATION
 Singapore
-Load More
 P72 Careers - Footer
 Point72
 About Us
