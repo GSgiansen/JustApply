@@ -1,6 +1,7 @@
 Trading - Grasshopper
 Who we are
 Technology
+Asset Management
 Our Culture
 Careers
 Trading
@@ -16,9 +17,10 @@ Software Engineer (C++)
 Quantitative Researcher
 Who We Are
 Technology
-Newsroom
+Asset Management
 Careers
-Contact
+Newsroom
+Contact Us
 Privacy Policy
 Terms & Conditions
 © Grasshopper Pte Ltd
