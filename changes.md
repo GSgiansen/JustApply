@@ -1,13 +1,27 @@
 # Latest Scraper Results
 
-## 2026-01-13 04:02:22
+## 2026-01-14 04:08:00
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
+- © 2026 Stripe, Inc.
++ © 2026 Stripe, LLC
+```
+
+---
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+
+**Line changes detected!**
+
+```diff
+- Finance x2
+- GL Accountant
+- Kuala Lumpur
+- View Details
+- We are seeking a detail-oriented and highly organized General Ledger (GL) Accountant to manage and oversee the integrity of our financial records and reporting
 ```
 
 ---
@@ -16,25 +30,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Asset Management x2
-- Contact
-+ Contact Us
-```
-
----
-### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
-
-**Line changes detected!**
-
-```diff
-+ 2026 Equities Financing Trader Summer Intern, Singapore
-- 8 Open Roles
-+ 9 Open Roles
-+ FOCUS
-+ LOCATION
-+ ROLE
-+ Singapore
-+ Trade Support & Reporting
+- Software Engineer (C++)
++ Software Engineer, C++
 ```
 
 ---

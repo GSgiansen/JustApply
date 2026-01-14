@@ -13,7 +13,7 @@ Trading
 Available Positions:
 Portfolio Manager
 Trader
-Software Engineer (C++)
+Software Engineer, C++
 Quantitative Researcher
 Who We Are
 Technology
