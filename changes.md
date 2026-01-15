@@ -1,14 +1,13 @@
 # Latest Scraper Results
 
-## 2026-01-14 04:08:00
+## 2026-01-15 04:04:40
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-- © 2026 Stripe, Inc.
-+ © 2026 Stripe, LLC
+No line changes.
 ```
 
 ---
@@ -17,21 +16,26 @@
 **Line changes detected!**
 
 ```diff
-- Finance x2
-- GL Accountant
-- Kuala Lumpur
-- View Details
-- We are seeking a detail-oriented and highly organized General Ledger (GL) Accountant to manage and oversee the integrity of our financial records and reporting
++ DeFi
+- DeFi Solutions
++ OTC Trading
+- Structured Products
 ```
 
 ---
-### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
 
 **Line changes detected!**
 
 ```diff
-- Software Engineer (C++)
-+ Software Engineer, C++
+- 2026 Operations Summer Intern, Singapore
++ 8 Open Roles
+- 9 Open Roles
+- FOCUS
+- LOCATION
+- Operations
+- ROLE
+- Singapore
 ```
 
 ---
