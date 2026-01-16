@@ -26,9 +26,9 @@ Tel Aviv
 Senior Software Engineer - Analytics Front Office
 Chicago, Greenwich, New York City
 Senior Software Engineer, C/FICCO Data
-London
-Senior Software Engineer, C/FICCO Data
 New York City
+Senior Software Engineer, C/FICCO Data
+London
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
@@ -42,11 +42,11 @@ Montréal
 Software Developer Intern
 Amsterdam
 Software Developer Intern
-Montréal
+London
 Software Developer Intern
 Chicago
 Software Developer Intern
-London
+Montréal
 Software Developer Intern (C++)
 Singapore
 Software Engineer
