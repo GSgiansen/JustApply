@@ -59,7 +59,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-4
+3
 jobs matched
 Clear filters
 What do you want to do?
@@ -143,7 +143,7 @@ English
 English
 Français (Canada)
 Jobs search results
-4
+3
 jobs matched
 filter_list
 Student Researcher, 2026
@@ -164,24 +164,6 @@ Zürich, Switzerland
 Minimum qualifications
 Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences, or equivalent practical experience.
 Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Generative Media, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).
-Learn more
-share
-link
-Copy link
-email
-Email a friend
-Associate Product Marketing Manager Intern, Summer 2026 (English)
-corporate_fare
-Google
-place
-Singapore
-bar_chart
-Intern & Apprentice
-Google |
-Singapore
-Minimum qualifications
-Currently enrolled in a full-time Bachelor's degree program.
-Ability to communicate in English fluently to support client relationships in the region.
 Learn more
 share
 link
@@ -226,7 +208,7 @@ link
 Copy link
 email
 Email a friend
-1‑4 of 4
+1‑3 of 3
 Follow Life at Google on
 More about us
 About us
