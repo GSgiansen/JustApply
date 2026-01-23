@@ -330,7 +330,7 @@ Nonprofits
 Retail
 Integrations & custom solutions
 Stripe App Marketplace
-Partner ecosystem
+Stripe Partner ecosystem
 Professional services
 Developers
 Documentation

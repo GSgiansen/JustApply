@@ -1,14 +1,14 @@
 # Latest Scraper Results
 
-## 2026-01-22 04:09:56
+## 2026-01-23 04:04:47
 
-### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-+ Apply filters
-+ Clear filters
+- Partner ecosystem
++ Stripe Partner ecosystem
 ```
 
 ---
@@ -17,10 +17,39 @@
 **Line changes detected!**
 
 ```diff
-+ Chicago
-+ Senior Software Engineer - Trading Systems (C++)
-- Software Developer Intern
-+ Software Engineer
+No line changes.
+```
+
+---
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+
+**Line changes detected!**
+
+```diff
++ 2026 2H Technology / Quant Intern
++ As a Technology / Quant intern at Caladan, you will gain first-hand experience working closely with top engineers, quants and traders as part of small teams doing real work
++ Singapore
++ View Details
+```
+
+---
+### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
+
+**Line changes detected!**
+
+```diff
+- Software Engineer, C++
+```
+
+---
+### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
+
+**Line changes detected!**
+
+```diff
++ 2026 Internship - Regulatory Reporting
++ London
++ View opportunity
 ```
 
 ---
