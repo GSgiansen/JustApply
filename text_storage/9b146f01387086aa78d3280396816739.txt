@@ -20,9 +20,9 @@ Montréal
 Full Stack Software Developer
 Montréal
 Python Software Engineer, Trading Platform
-London
-Python Software Engineer, Trading Platform
 Chicago, New York City
+Python Software Engineer, Trading Platform
+London
 Senior Software Engineer
 London
 Senior Software Engineer
@@ -30,9 +30,9 @@ Tel Aviv
 Senior Software Engineer - Analytics Front Office
 Chicago, Greenwich, New York City
 Senior Software Engineer, C/FICCO Data
-London
-Senior Software Engineer, C/FICCO Data
 New York City
+Senior Software Engineer, C/FICCO Data
+London
 Senior Software Engineer, Pricing and Derived Data
 London
 Senior Software Engineer - Trading Systems (C++)
