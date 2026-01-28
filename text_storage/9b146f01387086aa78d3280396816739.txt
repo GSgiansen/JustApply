@@ -20,9 +20,9 @@ Montréal
 Full Stack Software Developer
 Montréal
 Python Software Engineer, Trading Platform
-London
-Python Software Engineer, Trading Platform
 Chicago, New York City
+Python Software Engineer, Trading Platform
+London
 Senior Software Engineer
 London
 Senior Software Engineer
@@ -38,9 +38,9 @@ London
 Senior Software Engineer - Trading Systems (C++)
 Chicago
 Software Developer
-Montréal
-Software Developer
 Chicago
+Software Developer
+Montréal
 Software Developer (C++)
 Singapore
 Software Developer (Data Analytics)
@@ -48,21 +48,21 @@ Montréal
 Software Developer Intern
 Montréal
 Software Engineer
-Chicago
+London
 Software Engineer
-London
-Software Engineer, Market Data - Cumberland
-London
+Chicago
 Software Engineer, Market Data - Cumberland
 Chicago
 Software Engineer, Market Data - Cumberland
 New York City
+Software Engineer, Market Data - Cumberland
+London
 Software Engineer, Python, GD1
 London
 Software Engineer, Research – Cumberland Systematic
-Chicago
-Software Engineer, Research – Cumberland Systematic
 London
+Software Engineer, Research – Cumberland Systematic
+New York City
 Software Engineer, Trading – Cumberland Systematic
 London
 Who we are
