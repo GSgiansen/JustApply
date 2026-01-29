@@ -124,7 +124,6 @@ Talent & Engagement
 Technology & Engineering
 Trading & Transaction Management
 Treasury
-Long/Short Investing
 Global Macro Investing
 Systematic Investing
 Point72 Academy
@@ -187,8 +186,8 @@ User Experience
 Business Acceleration Team
 Private Equity & Venture Capital
 Finance & Accounting
+Fundamental Equities
 Treasury
-Long/Short Investing
 Global Macro Investing
 Systematic Investing
 Point72 Academy
@@ -251,6 +250,7 @@ User Experience
 Business Acceleration Team
 Private Equity & Venture Capital
 Finance & Accounting
+Fundamental Equities
 Find Open Roles
 8 Open Roles
 ROLE
