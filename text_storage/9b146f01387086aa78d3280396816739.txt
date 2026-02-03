@@ -30,9 +30,9 @@ Tel Aviv
 Senior Software Engineer - Analytics Front Office
 Chicago, Greenwich, New York City
 Senior Software Engineer, C/FICCO Data
-London
-Senior Software Engineer, C/FICCO Data
 New York City
+Senior Software Engineer, C/FICCO Data
+London
 Senior Software Engineer, Pricing and Derived Data
 London
 Senior Software Engineer - Trading Systems (C++)
@@ -48,9 +48,9 @@ Montréal
 Software Engineer, Market Data - Cumberland
 Chicago
 Software Engineer, Market Data - Cumberland
-New York City
-Software Engineer, Market Data - Cumberland
 London
+Software Engineer, Market Data - Cumberland
+New York City
 Software Engineer, Python, GD1
 London
 Software Engineer, Research – Cumberland Systematic
