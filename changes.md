@@ -1,13 +1,17 @@
 # Latest Scraper Results
 
-## 2026-02-06 04:45:35
+## 2026-02-07 04:27:48
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+### [https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&](https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Engineering
++ First Year Software Engineering Internship 2026- NYC
++ Internship
++ United States - NY New York
++ View role x2
 ```
 
 ---
