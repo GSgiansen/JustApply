@@ -91,6 +91,7 @@ Temporary
 Intern
 Organizations
 expand_less
+DeepMind
 GFiber
 Google
 Verily Life Sciences

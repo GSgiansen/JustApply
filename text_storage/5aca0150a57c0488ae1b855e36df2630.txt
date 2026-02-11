@@ -300,6 +300,7 @@ Identity
 Invoicing
 Issuing
 Link
+Managed Payments
 Payments
 Payment Links
 Payouts

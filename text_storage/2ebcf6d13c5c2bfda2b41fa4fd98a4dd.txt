@@ -10,7 +10,6 @@ Investment Management
 Securities
 Real Estate
 Sightway Capital
-Venn
 Ventures
 Insights
 Topics
@@ -111,7 +110,6 @@ Securities
 Sightway Capital
 Ventures
 Real Estate
-Venn
 Careers
 Open Roles
 Internships
