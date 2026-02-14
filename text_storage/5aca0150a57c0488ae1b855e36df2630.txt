@@ -50,6 +50,7 @@ Infrastructure & Corporate Tech
 Legal
 Machine Learning
 Operations
+Technical Account Management
 People
 Recruiting
 People Functions
