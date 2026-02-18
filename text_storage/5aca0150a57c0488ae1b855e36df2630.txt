@@ -86,14 +86,6 @@ San Francisco Bridge HQ
 Washington DC
 Toronto
 Mexico City
-Asia Pacific
-Sydney
-Melbourne
-Jakarta
-Bengaluru
-Tokyo
-Singapore
-Bangkok
 Europe
 Paris
 Berlin
@@ -105,6 +97,15 @@ Bucharest
 Madrid
 Barcelona
 Stockholm
+Luxembourg
+Asia Pacific
+Sydney
+Melbourne
+Jakarta
+Bengaluru
+Tokyo
+Singapore
+Bangkok
 Latin America
 São Paulo
 Mexico City
@@ -116,16 +117,6 @@ North America
 United States
 Canada
 Mexico
-Asia Pacific
-Australia
-Hong Kong
-Indonesia
-India
-Japan
-Malaysia
-New Zealand
-South Korea
-Thailand
 Europe
 Austria
 Belgium
@@ -144,6 +135,16 @@ Romania
 Spain
 Sweden
 Switzerland
+Asia Pacific
+Australia
+Hong Kong
+Indonesia
+India
+Japan
+Malaysia
+New Zealand
+South Korea
+Thailand
 Latin America
 Argentina
 Brazil
