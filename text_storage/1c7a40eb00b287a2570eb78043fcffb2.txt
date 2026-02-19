@@ -50,18 +50,6 @@ All Offices
 - Amsterdam
 - - Kraków
 Engineering & Trading
-2026 2H Technology / Quant Intern
-Singapore
-As a Technology / Quant intern at Caladan, you will gain first-hand experience working closely with top engineers, quants and traders as part of small teams doing real work
-View Details
-DevOps Engineer
-Ho Chi Minh City
-Caladan is a data-driven quantitative trading firm active in the exciting and emerging field of digital assets
-View Details
-Research Assistant (Part Time)
-Amsterdam
-We are seeking a motivated Research Assistant to join our team on a part-time basis, the workload will be variable but also can also be flexible to your situation
-View Details
 Senior Software Engineer
 Singapore
 As a Senior Engineer you’ll be surrounded by smart and motivated colleagues with complimentary skillsets, offering a great platform for you to contribute ideas, commit code and help the team achieve tangible results
@@ -70,13 +58,25 @@ Software Engineer (Ho Chi Minh)
 Ho Chi Minh City
 As a Software Engineer at Caladan you will be part of a team responsible for owning a business area or application end to end
 View Details
-Software Engineer (Krakow)
-Kraków
-Our Software Engineering teams work as semi independent units, responsible for owning a business area or application end to end
+Research Assistant (Part Time)
+Amsterdam
+We are seeking a motivated Research Assistant to join our team on a part-time basis, the workload will be variable but also can also be flexible to your situation
 View Details
 Trade Monitoring (Ho Chi Minh)
 Ho Chi Minh City
 We are seeking a proactive and detail-oriented Operations Monitoring & Support Specialist to join our dynamic team
+View Details
+Software Engineer (Krakow)
+Kraków
+Our Software Engineering teams work as semi independent units, responsible for owning a business area or application end to end
+View Details
+DevOps Engineer
+Ho Chi Minh City
+Caladan is a data-driven quantitative trading firm active in the exciting and emerging field of digital assets
+View Details
+2026 2H Technology / Quant Intern
+Singapore
+As a Technology / Quant intern at Caladan, you will gain first-hand experience working closely with top engineers, quants and traders as part of small teams doing real work
 View Details
 Finance
 GL Accountant
@@ -89,13 +89,13 @@ Singapore
 We’re seeking a Legal Counsel (Digital Asset Derivatives & Trading) to support our Singapore legal function across commercial, corporate, and regulatory matters — with a strong focus on derivatives and financial markets documentation for digital asset trading and market-making activities
 View Details
 Operations
-Investment Operations
-Singapore
-We are looking for an Investment Operations Associate to join our Business Operations team
-View Details
 Post Trade Operations [US Coverage]
 Kuala Lumpur
 We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions
+View Details
+Investment Operations
+Singapore
+We are looking for an Investment Operations Associate to join our Business Operations team
 View Details
 No Jobs Found
 At Caladan we take our work seriously but not ourselves. Here you’ll find a radically self-directed environment and a level of trust that is highly unusual for our industry. See our
