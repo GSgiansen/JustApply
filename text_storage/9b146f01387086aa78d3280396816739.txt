@@ -22,9 +22,9 @@ Montréal
 Junior Software Development Engineer in Test
 Singapore
 Python Software Engineer, Trading Platform
-London
-Python Software Engineer, Trading Platform
 Chicago, New York City
+Python Software Engineer, Trading Platform
+London
 Senior Software Engineer
 Tel Aviv
 Senior Software Engineer - Analytics Front Office
@@ -56,9 +56,9 @@ London
 Software Engineer, Python, GD1
 London
 Software Engineer, Research – Cumberland Systematic
-London
-Software Engineer, Research – Cumberland Systematic
 New York City
+Software Engineer, Research – Cumberland Systematic
+London
 Software Engineer, Trading – Cumberland Systematic
 London
 Software Engineer, Unified Platform
