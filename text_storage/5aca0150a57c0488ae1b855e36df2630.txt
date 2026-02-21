@@ -292,6 +292,7 @@ Authorization Boost
 Billing
 Capital
 Checkout
+Crypto
 Climate
 Connect
 Data Pipeline
