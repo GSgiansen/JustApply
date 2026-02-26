@@ -1,14 +1,16 @@
 # Latest Scraper Results
 
-## 2026-02-25 04:50:28
+## 2026-02-26 04:48:23
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-- Senior Software Engineer
-+ Senior Software Engineer - Analytics Middle Office
++ London
++ Senior Software Engineer - Risk Technology
+- Software Engineer, Python, GD1
++ Software Engineer, Python, Global Delta One
 ```
 
 ---

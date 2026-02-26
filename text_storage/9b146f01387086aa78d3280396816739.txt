@@ -22,9 +22,9 @@ Montréal
 Junior Software Development Engineer in Test
 Singapore
 Python Software Engineer, Trading Platform
-Chicago, New York City
-Python Software Engineer, Trading Platform
 London
+Python Software Engineer, Trading Platform
+Chicago, New York City
 Senior Software Engineer
 Tel Aviv
 Senior Software Engineer - Analytics Front Office
@@ -37,6 +37,8 @@ Senior Software Engineer, C/FICCO Data
 London
 Senior Software Engineer, C/FICCO Data
 New York City
+Senior Software Engineer - Risk Technology
+London
 Senior Software Engineer - Trading Desk (C++)
 Chicago
 Software Developer
@@ -48,23 +50,23 @@ Montréal
 Software Developer Intern
 Montréal
 Software Engineer, Market Data - Cumberland
-New York City
-Software Engineer, Market Data - Cumberland
 Chicago
 Software Engineer, Market Data - Cumberland
+New York City
+Software Engineer, Market Data - Cumberland
 London
-Software Engineer, Python, GD1
+Software Engineer, Python, Global Delta One
+London
+Software Engineer, Research – Cumberland Systematic
 London
 Software Engineer, Research – Cumberland Systematic
 New York City
-Software Engineer, Research – Cumberland Systematic
-London
 Software Engineer, Trading – Cumberland Systematic
 London
 Software Engineer, Unified Platform
-London
-Software Engineer, Unified Platform
 Chicago
+Software Engineer, Unified Platform
+London
 Who we are
 Work at DRW
 Access Our Liquidity
