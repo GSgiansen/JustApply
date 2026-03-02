@@ -14,7 +14,6 @@ Available Positions:
 Portfolio Manager
 Trader
 Quantitative Researcher
-Quantitative Researcher
 Who We Are
 Technology
 Asset Management
