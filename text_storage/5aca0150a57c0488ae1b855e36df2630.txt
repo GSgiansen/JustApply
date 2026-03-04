@@ -60,6 +60,8 @@ Climate
 Connect
 Crypto
 Mobile
+Link
+Metronome
 Money Movement and Storage
 New Financial Products
 Payments
@@ -69,7 +71,6 @@ Privy
 Revenue & Financial Automation
 Stripe Tax
 Terminal
-Link
 Risk & Financial Crimes
 Security
 Tech Programs
