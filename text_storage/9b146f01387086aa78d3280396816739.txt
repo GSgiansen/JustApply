@@ -20,13 +20,13 @@ Location
 C++ Software Developer
 Montréal
 Python Software Engineer, Trading Platform
-London
-Python Software Engineer, Trading Platform
 Chicago, New York City
+Python Software Engineer, Trading Platform
+London
+Senior Software Engineer
+London
 Senior Software Engineer
 Tel Aviv
-Senior Software Engineer
-London
 Senior Software Engineer - Analytics Front Office
 Chicago, Greenwich, New York City
 Senior Software Engineer - Analytics Middle Office
@@ -50,21 +50,21 @@ Singapore
 Software Engineer, C++
 Hong Kong, Singapore
 Software Engineer - Cumberland/FICCO Tools Engineering
-Greenwich
+New York City
 Software Engineer - Cumberland/FICCO Tools Engineering
-New York City
+Greenwich
 Software Engineer, Market Data - Cumberland
 London
 Software Engineer, Market Data - Cumberland
-New York City
+Chicago
 Software Engineer, Market Data - Cumberland
-Chicago
+New York City
 Software Engineer - Prediction Markets
-Chicago
+New York City
 Software Engineer - Prediction Markets
 London
 Software Engineer - Prediction Markets
-New York City
+Chicago
 Software Engineer, Python, Global Delta One
 London
 Software Engineer, Research – Cumberland Systematic
