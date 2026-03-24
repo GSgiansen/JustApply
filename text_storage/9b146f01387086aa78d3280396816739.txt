@@ -32,9 +32,11 @@ Austin, Chicago, Greenwich, New York City
 Senior Software Engineer, C++ (Algo Trading team)
 Tel Aviv
 Senior Software Engineer, C/FICCO Data
+New York City
+Senior Software Engineer, C/FICCO Data
 London
 Senior Software Engineer, C/FICCO Data
-New York City
+Chicago
 Senior Software Engineer - Risk Technology
 London
 Senior Software Engineer - Trading Desk (C++)
@@ -60,9 +62,9 @@ New York City
 Software Engineer - Prediction Markets
 New York City
 Software Engineer - Prediction Markets
-London
-Software Engineer - Prediction Markets
 Chicago
+Software Engineer - Prediction Markets
+London
 Software Engineer, Python, Global Delta One
 London
 Software Engineer, Research – Cumberland Systematic
