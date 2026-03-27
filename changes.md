@@ -1,16 +1,16 @@
 # Latest Scraper Results
 
-## 2026-03-26 05:03:03
+## 2026-03-27 05:04:33
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-+ Junior Software Development Engineer in Test
-+ Singapore
-- Software Engineer - Prediction Markets x3
-+ Software Engineer - Prediction Markets (Python) x3
++ Chicago, New York City
+- Hong Kong, Singapore
+- Software Engineer, C++
++ Software Engineer, Prediction Markets - Execution (C++)
 ```
 
 ---
@@ -19,9 +19,9 @@
 **Line changes detected!**
 
 ```diff
+- Engineering
+- First Year Software Engineering Internship 2026- NYC
 - Internship
-- Investment and Client Solutions
-- Product & Capital Strategy Intern [Summer 2026]
 - United States - NY New York
 - View role x2
 ```
