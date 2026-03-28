@@ -40,7 +40,6 @@ Current job openings
 Careers
 All Departments
 Engineering & Trading
-Finance
 Operations
 All Offices
 - Ho Chi Minh City
@@ -72,11 +71,6 @@ View Details
 DevOps Engineer
 Ho Chi Minh City
 Caladan is a data-driven quantitative trading firm active in the exciting and emerging field of digital assets
-View Details
-Finance
-GL Accountant
-Kuala Lumpur
-We are seeking a detail-oriented and highly organized General Ledger (GL) Accountant to manage and oversee the integrity of our financial records and reporting
 View Details
 Operations
 Post Trade Operations [US Coverage]
