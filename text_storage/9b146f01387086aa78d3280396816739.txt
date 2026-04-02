@@ -15,6 +15,8 @@ Sort by:
 All
 Category
 Location
+AI Full Stack Software Developer
+Montréal
 C++ Software Developer
 Montréal
 Full Stack Software Developer
@@ -22,13 +24,13 @@ Montréal
 Junior Software Development Engineer in Test
 Singapore
 Python Software Engineer, Trading Platform
-Chicago, New York City
+London
 Python Software Engineer, Trading Platform
-London
-Senior Software Engineer
-London
+Chicago, New York City
 Senior Software Engineer
 Tel Aviv
+Senior Software Engineer
+London
 Senior Software Engineer - Analytics Front Office
 Chicago, Greenwich, New York City
 Senior Software Engineer - Analytics Middle Office
@@ -38,9 +40,9 @@ Tel Aviv
 Senior Software Engineer, C/FICCO Data
 London
 Senior Software Engineer, C/FICCO Data
-New York City
-Senior Software Engineer, C/FICCO Data
 Chicago
+Senior Software Engineer, C/FICCO Data
+New York City
 Senior Software Engineer - Risk Technology
 London
 Senior Software Engineer - Trading Desk (C++)
@@ -66,23 +68,23 @@ New York City
 Software Engineer, Prediction Markets - Execution (C++)
 Chicago, New York City
 Software Engineer - Prediction Markets (Python)
-New York City
-Software Engineer - Prediction Markets (Python)
 Chicago
 Software Engineer - Prediction Markets (Python)
 London
+Software Engineer - Prediction Markets (Python)
+New York City
 Software Engineer, Python, Global Delta One
 London
 Software Engineer, Research – Cumberland Systematic
 London
 Software Engineer, Research – Cumberland Systematic
-New York City
+London
 Software Engineer, Trading – Cumberland Systematic
 London
 Software Engineer, Unified Platform
-London
-Software Engineer, Unified Platform
 Chicago
+Software Engineer, Unified Platform
+London
 Who we are
 Work at DRW
 Access Our Liquidity
