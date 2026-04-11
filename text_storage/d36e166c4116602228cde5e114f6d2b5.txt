@@ -6,11 +6,9 @@ Career Programs
 Working at Meta
 Blog
 Podcasts
-Search Meta Careers
-Search
 Get personalized job recommendations from AI
-The Meta AI recruiting assistant can recommend jobs that may interest you and answer your questions about the hiring process.
-Start using AI
+The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
+Upload resume for job recommendations
 Hide filters
 0 Items
 Save this search
@@ -38,6 +36,7 @@ Location
 Singapore
 Apply filters
 Clear filters
+Search
 There are currently no open roles matching your search.
 Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
 Job Search
