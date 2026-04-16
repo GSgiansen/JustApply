@@ -28,11 +28,11 @@ London
 Python Software Engineer, Trading Platform
 Chicago, New York City
 Senior Software Engineer
-London
+Tel Aviv
 Senior Software Engineer
 Singapore
 Senior Software Engineer
-Tel Aviv
+London
 Senior Software Engineer - Analytics Front Office
 Austin, Chicago, Greenwich, Houston, New York City
 Senior Software Engineer - Analytics Middle Office
@@ -53,26 +53,24 @@ Senior Software Engineer, Trading Platform GUI
 London
 Software Developer
 Montréal
-Software Developer (Data Analytics)
-Montréal
 Software Development Engineer in Test / Python Developer
 Singapore
-Software Engineer - Cumberland/FICCO Tools Engineering
-Chicago
-Software Engineer - Cumberland/FICCO Tools Engineering
-New York City
 Software Engineer - Cumberland/FICCO Tools Engineering
 Greenwich
 Software Engineer - Cumberland/FICCO Tools Engineering
 London
+Software Engineer - Cumberland/FICCO Tools Engineering
+Chicago
+Software Engineer - Cumberland/FICCO Tools Engineering
+New York City
 Software Engineer - Equity Index Options
 London
 Software Engineer, Market Data - Cumberland
-New York City
+Chicago
 Software Engineer, Market Data - Cumberland
 London
 Software Engineer, Market Data - Cumberland
-Chicago
+New York City
 Software Engineer, Prediction Markets - Execution (C++)
 Chicago, New York City
 Software Engineer - Prediction Markets (Python)
@@ -90,9 +88,9 @@ London
 Software Engineer, Trading – Cumberland Systematic
 London
 Software Engineer, Unified Platform
-Chicago
-Software Engineer, Unified Platform
 London
+Software Engineer, Unified Platform
+Chicago
 Who we are
 Work at DRW
 Access Our Liquidity
