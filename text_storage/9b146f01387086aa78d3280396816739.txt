@@ -24,9 +24,9 @@ Montréal
 Junior Software Development Engineer in Test
 Singapore
 Python Software Engineer, Trading Platform
-London
-Python Software Engineer, Trading Platform
 Chicago, New York City
+Python Software Engineer, Trading Platform
+London
 Senior Software Engineer
 Singapore
 Senior Software Engineer
@@ -35,15 +35,13 @@ Senior Software Engineer - Analytics Front Office
 Austin, Chicago, Greenwich, Houston, New York City
 Senior Software Engineer - Analytics Middle Office
 Austin, Chicago, Greenwich, New York City
-Senior Software Engineer, C++ (Algo Trading team)
-Tel Aviv
-Senior Software Engineer, C/FICCO Data
-Chicago
 Senior Software Engineer, C/FICCO Data
 New York City
 Senior Software Engineer, C/FICCO Data
 London
-Senior Software Engineer, Mid-Frequency Platform
+Senior Software Engineer, C/FICCO Data
+Chicago
+Senior Software Engineer, Mid-Frequency Platform, UP Reference Data Team
 Chicago
 Senior Software Engineer - Risk Technology
 London
@@ -60,11 +58,11 @@ Singapore
 Software Engineer - Cumberland/FICCO Tools Engineering
 Greenwich
 Software Engineer - Cumberland/FICCO Tools Engineering
+London
+Software Engineer - Cumberland/FICCO Tools Engineering
 Chicago
 Software Engineer - Cumberland/FICCO Tools Engineering
 New York City
-Software Engineer - Cumberland/FICCO Tools Engineering
-London
 Software Engineer - Equity Index Options
 London
 Software Engineer, Market Data - Cumberland
@@ -76,9 +74,9 @@ New York City
 Software Engineer, Prediction Markets - Execution (C++)
 Chicago, New York City
 Software Engineer - Prediction Markets (Python)
-New York City
-Software Engineer - Prediction Markets (Python)
 Chicago
+Software Engineer - Prediction Markets (Python)
+New York City
 Software Engineer - Prediction Markets (Python)
 London
 Software Engineer, Python, Global Delta One
