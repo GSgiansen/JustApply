@@ -298,7 +298,7 @@ Climate
 Connect
 Data Pipeline
 Elements
-Financial Accounts
+Treasury
 Financial Connections
 Identity
 Invoicing
