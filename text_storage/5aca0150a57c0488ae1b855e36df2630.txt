@@ -332,6 +332,7 @@ Hospitality, travel, and leisure
 Insurance
 Media and entertainment
 Nonprofits
+Public sector
 Retail
 Integrations & custom solutions
 Stripe App Marketplace
