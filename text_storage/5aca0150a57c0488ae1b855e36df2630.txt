@@ -306,7 +306,7 @@ Issuing
 Link
 Managed Payments
 Payments
-Payment Links
+Payment links
 Payouts
 Radar
 Revenue Recognition
@@ -359,6 +359,7 @@ Your privacy choices
 Coverage transparency
 More resources
 Company
+Product roadmap
 Jobs
 Newsroom
 Stripe Press
