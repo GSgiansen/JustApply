@@ -1,14 +1,7 @@
 # Latest Scraper Results
 
-## 2026-05-02 05:31:51
+## 2026-05-03 05:53:02
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
-
-**Line changes detected!**
-
-```diff
-+ Chicago
-- London
-```
+**No changes for today**
 
 ---
