@@ -22,13 +22,13 @@ Montréal
 Junior Software Development Engineer in Test
 Singapore
 Python Software Engineer, Trading Platform
-Chicago, New York City
-Python Software Engineer, Trading Platform
 London
-Senior Software Engineer
-Singapore
+Python Software Engineer, Trading Platform
+Chicago, New York City
 Senior Software Engineer
 Tel Aviv
+Senior Software Engineer
+Singapore
 Senior Software Engineer - Analytics Front Office
 Austin, Chicago, Greenwich, Houston, New York City
 Senior Software Engineer - Analytics Middle Office
@@ -58,27 +58,27 @@ Singapore
 Software Engineer - Cumberland/FICCO Tools Engineering
 Greenwich
 Software Engineer - Cumberland/FICCO Tools Engineering
-New York City
-Software Engineer - Cumberland/FICCO Tools Engineering
 Chicago
+Software Engineer - Cumberland/FICCO Tools Engineering
+New York City
 Software Engineer - Cumberland/FICCO Tools Engineering
 London
 Software Engineer - Equity Index Options
 London
 Software Engineer, Market Data - Cumberland
-London
+New York City
 Software Engineer, Market Data - Cumberland
 Chicago
 Software Engineer, Market Data - Cumberland
-New York City
+London
 Software Engineer, Prediction Markets - Execution (C++)
 Chicago, New York City
 Software Engineer - Prediction Markets (Python)
-New York City
-Software Engineer - Prediction Markets (Python)
 Chicago
 Software Engineer - Prediction Markets (Python)
 London
+Software Engineer - Prediction Markets (Python)
+New York City
 Software Engineer, Python, Global Delta One
 London
 Software Engineer, Research – Cumberland Systematic
