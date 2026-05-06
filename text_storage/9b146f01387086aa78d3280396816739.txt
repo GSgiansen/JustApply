@@ -22,9 +22,9 @@ Montréal
 Junior Software Development Engineer in Test
 Singapore
 Python Software Engineer, Trading Platform
-London
-Python Software Engineer, Trading Platform
 Chicago, New York City
+Python Software Engineer, Trading Platform
+London
 Senior Software Engineer
 Tel Aviv
 Senior Software Engineer
@@ -39,6 +39,10 @@ Senior Software Engineer, C/FICCO Data
 New York City
 Senior Software Engineer, C/FICCO Data
 Chicago
+Senior Software Engineer - Data Integration
+London
+Senior Software Engineer - DeFi
+Chicago
 Senior Software Engineer, Finance (Clojure/Python)
 Chicago, New York City
 Senior Software Engineer, Mid-Frequency Platform, UP Reference Data Team
@@ -49,6 +53,8 @@ Senior Software Engineer - Trading Desk (C++)
 Chicago
 Senior Software Engineer, Trading Platform GUI
 London
+Senior Software Engineer, Trading Team
+London, Singapore
 Senior Software Engineer, Unified Platform (Reference Data)
 London
 Software Developer
@@ -56,11 +62,11 @@ Montréal
 Software Development Engineer in Test / Python Developer
 Singapore
 Software Engineer - Cumberland/FICCO Tools Engineering
-Greenwich
+New York City
 Software Engineer - Cumberland/FICCO Tools Engineering
 Chicago
 Software Engineer - Cumberland/FICCO Tools Engineering
-New York City
+Greenwich
 Software Engineer - Cumberland/FICCO Tools Engineering
 London
 Software Engineer - Equity Index Options
@@ -68,17 +74,17 @@ London
 Software Engineer, Market Data - Cumberland
 New York City
 Software Engineer, Market Data - Cumberland
-Chicago
-Software Engineer, Market Data - Cumberland
 London
+Software Engineer, Market Data - Cumberland
+Chicago
 Software Engineer, Prediction Markets - Execution (C++)
 Chicago, New York City
 Software Engineer - Prediction Markets (Python)
-Chicago
+New York City
 Software Engineer - Prediction Markets (Python)
 London
 Software Engineer - Prediction Markets (Python)
-New York City
+London
 Software Engineer, Python, Global Delta One
 London
 Software Engineer, Research – Cumberland Systematic
@@ -88,9 +94,9 @@ London
 Software Engineer, Trading – Cumberland Systematic
 London
 Software Engineer, Unified Platform
-London
-Software Engineer, Unified Platform
 Chicago
+Software Engineer, Unified Platform
+London
 Who we are
 Work at DRW
 Access Our Liquidity
