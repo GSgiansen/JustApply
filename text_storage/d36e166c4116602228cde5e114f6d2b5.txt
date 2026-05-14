@@ -6,6 +6,7 @@ Career Programs
 Working at Meta
 Blog
 Podcasts
+Meta AI
 Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
