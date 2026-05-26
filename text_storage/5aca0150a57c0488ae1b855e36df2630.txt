@@ -1,292 +1,169 @@
-Internal error!
+Stripe Jobs
 Stripe logo
-Products
-Solutions
-Developers
-Resources
-Pricing
-Sign in
-Contact sales
-Stripe logo
-Back
-Products
-Solutions
-Developers
-Resources
-Pricing
-Sign in
-Payments
-Payments
-Online payments
-Managed Payments
-Merchant of record solution
-Payment links
-No-code payments
-Checkout
-Prebuilt payment UIs
-Elements
-Flexible UI components
-Payment methods
-Access to 100+
-Terminal
-In-person payments
-Radar
-Fraud prevention
-Authorization Boost
-Acceptance optimizations
-Link
-Accelerated checkout
-Revenue
-Billing
-Recurring revenue
-Usage-based billing
-Metered billing
-Subscriptions
-Subscription management
-Invoicing
-One-time or recurring
-Tax
-Sales tax & VAT automation
-Revenue Recognition
-Accounting automation
-Stripe Sigma
-Custom reports
-Data Pipeline
-Data sync
-Money Management
-Treasury
-Business finances
-Global Payouts
-Payouts to third parties
-Capital
-Business financing
-Crypto
-Wallet, stablecoin issuing, and card infrastructure
-Crypto Onramp
-Embeddable crypto purchases
-Platforms and marketplaces
-Connect
-Payments for platforms
-Capital for platforms
-Customer financing
-Treasury for platforms
-Embedded financial services
-Issuing
-Physical and virtual cards
-More
-Product roadmap
-See what’s ahead
-Atlas
-Startup incorporation
-Climate
-Carbon removal
-Identity
-Online identity verification
-Financial Connections
-Linked financial account data
-Stripe Sessions 2026
-See how Stripe is building the economic infrastructure for AI.
-Watch now
-By stage
-Enterprises
-Startups
-By use case
-Agentic commerce
-Crypto
-Ecommerce
-Embedded finance
-Finance automation
-Global businesses
-In-app payments
-Marketplaces
-Platforms
-SaaS
-By industry
-AI companies
-Creator economy
-Hospitality, travel, and leisure
-Insurance
-Media and entertainment
-Nonprofits
-Retail
-Ecosystem
-Partners
-Stripe App Marketplace
-Documentation
-Stripe docs
-API reference
-Libraries and SDKs
-Stripe Apps
-Guides
-Accept online payments
-Implement a prebuilt checkout
-Build a platform or marketplace
-Manage subscriptions
-Offer usage-based billing
-Issue stablecoin-backed cards
-Resources
-App integrations
-Code samples
-Developers blog
-API status
-Learn
-Blog
-Customer stories
-Guides
-Support
-Get support
-Managed support plans
-Professional services
-Company
-Product roadmap
-Sessions annual conference
 Jobs
-Newsroom
-Stripe Press
-Contact
-Contact sales
-Become a partner
-Start now
-Contact sales
-Payments
-Payments
-Online payments
-Managed Payments
-Merchant of record solution
-Payment links
-No-code payments
-Checkout
-Prebuilt payment UIs
-Elements
-Flexible UI components
-Payment methods
-Access to 100+
-Terminal
-In-person payments
-Radar
-Fraud prevention
-Authorization Boost
-Acceptance optimizations
-Link
-Accelerated checkout
-Revenue
-Billing
-Recurring revenue
-Usage-based billing
-Metered billing
-Subscriptions
-Subscription management
-Invoicing
-One-time or recurring
-Tax
-Sales tax & VAT automation
-Revenue Recognition
-Accounting automation
-Stripe Sigma
-Custom reports
-Data Pipeline
-Data sync
-Money Management
-Treasury
-Business finances
-Global Payouts
-Payouts to third parties
-Capital
-Business financing
-Crypto
-Wallet, stablecoin issuing, and card infrastructure
-Crypto Onramp
-Embeddable crypto purchases
-Platforms and marketplaces
-Connect
-Payments for platforms
-Capital for platforms
-Customer financing
-Treasury for platforms
-Embedded financial services
-Issuing
-Physical and virtual cards
-More
-Product roadmap
-See what’s ahead
-Atlas
-Startup incorporation
-Climate
-Carbon removal
-Identity
-Online identity verification
-Financial Connections
-Linked financial account data
-Stripe Sessions 2026
-See how Stripe is building the economic infrastructure for AI.
-Watch now
-By stage
-Enterprises
-Startups
-By use case
-Agentic commerce
-Crypto
-Ecommerce
-Embedded finance
-Finance automation
-Global businesses
-In-app payments
-Marketplaces
-Platforms
-SaaS
-By industry
-AI companies
-Creator economy
-Hospitality, travel, and leisure
-Insurance
-Media and entertainment
-Nonprofits
-Public sector
-Retail
-Ecosystem
-Partners
-Stripe App Marketplace
-Documentation
-Stripe docs
-API reference
-Libraries and SDKs
-Stripe Apps
-Guides
-Accept online payments
-Implement a prebuilt checkout
-Build a platform or marketplace
-Manage subscriptions
-Offer usage-based billing
-Issue stablecoin-backed cards
-Resources
-App integrations
-Code samples
-Developers blog
-API status
-Learn
-Blog
-Customer stories
-Guides
-Support
-Get support
-Managed support plans
-Professional services
-Company
-Product roadmap
-Sessions annual conference
+Our opportunity
+Life at Stripe
+Benefits
+University
+See open roles
+Open mobile navigation
 Jobs
-Newsroom
-Stripe Press
-Contact
-Contact sales
-Become a partner
-Internal error!
-Sorry, an internal error occurred. We've been notified and are on it!
-You can
-return to our front page
-, or
-drop us a line
-if you can't find what you're looking for.
+Our opportunity
+Life at Stripe
+Benefits
+University
+See open roles
+Close mobile navigation
+Expand economic access across the globe
+Bridge open roles
+Privy open roles
+Opens the multi-select filter menu
+Teams
+Administrative
+Communications
+Corporate Development
+Corporate Security
+Corporate Strategy
+Data & Data Science
+Data Platform
+Design
+Executive
+Finance
+Controllership
+Finance & Strategy
+Internal Audit
+Investor Relations
+Tax
+Treasury
+Workplace
+Global Partnerships
+Go-to-Market
+Customer Success
+Global Strategic Pursuits
+GTM Partnerships
+Marketing
+Revenue Operations
+Sales
+Scaled Sales
+Solutions Architect
+Infrastructure & Corporate Tech
+Legal
+Machine Learning
+Operations
+Technical Account Management
+People
+Recruiting
+People Functions
+Products
+Banking as a Service
+Climate
+Connect
+Crypto
+Mobile
+Link
+Metronome
+Money Movement and Storage
+New Financial Products
+Payments
+Platform
+Professional Services
+Privy
+Revenue & Financial Automation
+Stripe Tax
+Terminal
+Risk & Financial Crimes
+Security
+Tech Programs
+University
+Opens the multi-select filter menu
+Office Locations (1)
+North America
+Atlanta
+Chicago
+New York
+Seattle
+South San Francisco HQ
+San Francisco Bridge HQ
+Washington DC
+Toronto
+Mexico City
+Europe
+Paris
+Berlin
+London
+Dublin HQ
+Amsterdam
+Warsaw
+Bucharest
+Madrid
+Barcelona
+Stockholm
+Luxembourg
+Asia Pacific
+Sydney
+Melbourne
+Jakarta
+Bengaluru
+Tokyo
+Singapore
+Bangkok
+Latin America
+São Paulo
+Mexico City
+Middle East
+Dubai
+Opens the multi-select filter menu
+Remote Locations
+North America
+United States
+Canada
+Mexico
+Europe
+Austria
+Belgium
+Czechia
+Estonia
+France
+Germany
+Great Britain
+Ireland
+Israel
+Italy
+Netherlands
+Poland
+Portugal
+Romania
+Spain
+Sweden
+Switzerland
+Asia Pacific
+Australia
+Hong Kong
+Indonesia
+India
+Japan
+Malaysia
+New Zealand
+South Korea
+Thailand
+Latin America
+Argentina
+Brazil
+Chile
+Mexico
+Opens the multi-select filter menu
+Tags (1)
+Bridge
+Privy
+University
+Showing roles across across 1 location and all teams. 1 tag selected.
+Clear all filters
+Role
+Team
+Location
+Software Engineering, New Grad
+University
+Singapore
 Stripe logo
 United States (English)
 Australia
@@ -479,6 +356,7 @@ Licenses
 Sitemap
 Cookie settings
 Your privacy choices
+Coverage transparency
 More resources
 Company
 Product roadmap
