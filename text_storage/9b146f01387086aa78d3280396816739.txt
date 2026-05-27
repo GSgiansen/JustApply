@@ -32,11 +32,11 @@ Austin, Chicago, Greenwich, Houston, New York City
 Senior Software Engineer - Analytics Middle Office
 Austin, Chicago, Greenwich, New York City
 Senior Software Engineer, C/FICCO Data
+New York City
+Senior Software Engineer, C/FICCO Data
 Chicago
 Senior Software Engineer, C/FICCO Data
 London
-Senior Software Engineer, C/FICCO Data
-New York City
 Senior Software Engineer - Data Integration
 London
 Senior Software Engineer - DeFi
@@ -64,9 +64,9 @@ Singapore
 Software Engineer - Cumberland/FICCO Tools Engineering
 New York City
 Software Engineer - Cumberland/FICCO Tools Engineering
-Chicago
-Software Engineer - Cumberland/FICCO Tools Engineering
 London
+Software Engineer - Cumberland/FICCO Tools Engineering
+Chicago
 Software Engineer - Cumberland/FICCO Tools Engineering
 Greenwich
 Software Engineer - Equity Index Options
