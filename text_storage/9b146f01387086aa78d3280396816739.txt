@@ -20,13 +20,13 @@ Montréal
 Full Stack Software Developer
 Montréal
 Python Software Engineer, Trading Platform
-London
-Python Software Engineer, Trading Platform
 Chicago, New York City
-Senior Software Engineer
-Tel Aviv
+Python Software Engineer, Trading Platform
+London
 Senior Software Engineer
 Singapore
+Senior Software Engineer
+Tel Aviv
 Senior Software Engineer - Analytics Front Office
 Austin, Chicago, Greenwich, Houston, New York City
 Senior Software Engineer - Analytics Middle Office
@@ -44,7 +44,7 @@ Chicago
 Senior Software Engineer, Finance (Clojure/Python)
 Chicago, New York City
 Senior Software Engineer, Mid-Frequency Platform - UP Reference Data Team
-Chicago
+London
 Senior Software Engineer - Risk Technology
 London
 Senior Software Engineer - Trading Desk (C++)
@@ -62,27 +62,27 @@ Montréal
 Software Development Engineer in Test / Python Developer
 Singapore
 Software Engineer - Cumberland/FICCO Tools Engineering
-New York City
-Software Engineer - Cumberland/FICCO Tools Engineering
-London
+Greenwich
 Software Engineer - Cumberland/FICCO Tools Engineering
 Chicago
 Software Engineer - Cumberland/FICCO Tools Engineering
-Greenwich
+London
+Software Engineer - Cumberland/FICCO Tools Engineering
+New York City
 Software Engineer - Equity Index Options
 London
 Software Engineer, Market Data - Cumberland
 New York City
 Software Engineer, Market Data - Cumberland
-London
-Software Engineer, Market Data - Cumberland
 Chicago
+Software Engineer, Market Data - Cumberland
+London
 Software Engineer - Prediction Markets (Python)
 Chicago
+Software Engineer - Prediction Markets (Python)
+London
 Software Engineer - Prediction Markets (Python)
 New York City
-Software Engineer - Prediction Markets (Python)
-London
 Software Engineer, Python, Global Delta One
 London
 Software Engineer, Research – Cumberland Systematic
