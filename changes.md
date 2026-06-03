@@ -1,32 +1,46 @@
 # Latest Scraper Results
 
-## 2026-06-02 07:20:00
+## 2026-06-03 08:09:14
 
-### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
-
-**Line changes detected!**
-
-```diff
-- Search
-+ Search by technology, team, location, or ref. code
-```
-
----
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Amsterdam
++ London
++ Senior Software Engineer, Trading Platform, C++ x2
 ```
 
 ---
-### [https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&](https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&)
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
 
 **Line changes detected!**
 
 ```diff
-+ Instagram x2
+- API Liquidity x5
++ Caladan API x5
+```
+
+---
+### [https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads)
+
+**Line changes detected!**
+
+```diff
+- , x2
+- 2026 Internship/Graduate - Quantitative Research/Trading
+- 2026 Internship/Graduate - Technology
+- Copy URL
+- Hong Kong x2
+- Select sector
+- Shanghai
+- Singapore x3
+- Students and New Grads
++ There are currently no matching jobs.
+- View opportunity
++ {{ job.title }}
++ {{ location }}
 ```
 
 ---

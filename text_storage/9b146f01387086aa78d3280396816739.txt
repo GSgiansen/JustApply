@@ -20,13 +20,13 @@ Montréal
 Full Stack Software Developer
 Montréal
 Python Software Engineer, Trading Platform
-London
-Python Software Engineer, Trading Platform
 Chicago, New York City
-Senior Software Engineer
-Tel Aviv
+Python Software Engineer, Trading Platform
+London
 Senior Software Engineer
 Singapore
+Senior Software Engineer
+Tel Aviv
 Senior Software Engineer - Analytics Front Office
 Austin, Chicago, Greenwich, Houston, New York City
 Senior Software Engineer - Analytics Middle Office
@@ -34,9 +34,9 @@ Austin, Chicago, Greenwich, New York City
 Senior Software Engineer, C/FICCO Data
 Chicago
 Senior Software Engineer, C/FICCO Data
-London
-Senior Software Engineer, C/FICCO Data
 New York City
+Senior Software Engineer, C/FICCO Data
+London
 Senior Software Engineer - Data Integration
 London
 Senior Software Engineer - DeFi
@@ -49,6 +49,10 @@ Senior Software Engineer - Risk Technology
 London
 Senior Software Engineer - Trading Desk (C++)
 Chicago
+Senior Software Engineer, Trading Platform, C++
+London
+Senior Software Engineer, Trading Platform, C++
+Amsterdam
 Senior Software Engineer, Trading Platform GUI
 London
 Senior Software Engineer, Trading Team
@@ -66,11 +70,11 @@ Singapore
 Software Engineer - Cumberland/FICCO Tools Engineering
 Chicago
 Software Engineer - Cumberland/FICCO Tools Engineering
-New York City
-Software Engineer - Cumberland/FICCO Tools Engineering
 London
 Software Engineer - Cumberland/FICCO Tools Engineering
 Greenwich
+Software Engineer - Cumberland/FICCO Tools Engineering
+New York City
 Software Engineer - Equity Index Options
 London
 Software Engineer, Market Data - Cumberland
@@ -80,11 +84,11 @@ London
 Software Engineer, Market Data - Cumberland
 Chicago
 Software Engineer - Prediction Markets (Python)
+Chicago
+Software Engineer - Prediction Markets (Python)
 London
 Software Engineer - Prediction Markets (Python)
 New York City
-Software Engineer - Prediction Markets (Python)
-Chicago
 Software Engineer, Python, Global Delta One
 London
 Software Engineer, Research – Cumberland Systematic

@@ -4,10 +4,10 @@ Who We Are
 Meet the Team
 Events
 What We Do
+Caladan API
 Market Making
 OTC Trading
 DeFi
-API Liquidity
 Investments
 Careers
 Writing
@@ -15,10 +15,10 @@ Who We Are
 Meet the Team
 Events
 What We Do
+Caladan API
 Market Making
 OTC Trading
 DeFi
-API Liquidity
 Investments
 Careers
 Writing
@@ -26,10 +26,10 @@ Who We Are
 Meet the Team
 Events
 What We Do
+Caladan API
 Market Making
 OTC Trading
 DeFi
-API Liquidity
 Investments
 Careers
 Writing
@@ -37,10 +37,10 @@ Who We Are
 Meet the Team
 Events
 What We Do
+Caladan API
 Market Making
 OTC Trading
 DeFi
-API Liquidity
 Investments
 Careers
 Writing
@@ -94,10 +94,10 @@ careers@caladan.xyz
 Linkedin
 Youtube
 WHO WE ARE
+Caladan API
 Market-making
 OTC Trading
 DeFi
-API Liquidity
 Investments
 Careers
 Writing
