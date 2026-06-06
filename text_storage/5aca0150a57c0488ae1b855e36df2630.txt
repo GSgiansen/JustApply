@@ -293,26 +293,26 @@ Authorization Boost
 Billing
 Capital
 Checkout
-Crypto
 Climate
 Connect
+Crypto
 Data Pipeline
 Elements
-Treasury
 Financial Connections
 Identity
 Invoicing
 Issuing
 Link
 Managed Payments
-Payments
 Payment links
+Payments
 Payouts
 Radar
 Revenue Recognition
 Stripe Sigma
 Tax
 Terminal
+Treasury
 Solutions
 Enterprises
 Startups
