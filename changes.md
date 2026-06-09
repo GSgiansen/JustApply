@@ -1,7 +1,23 @@
 # Latest Scraper Results
 
-## 2026-06-08 07:26:21
+## 2026-06-09 06:43:12
 
-**No changes for today**
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
+No line changes.
+```
+
+---
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+
+**Line changes detected!**
+
+```diff
+- Events x4
+- Meet the Team x4
+```
 
 ---
