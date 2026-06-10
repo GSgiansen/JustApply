@@ -32,11 +32,11 @@ Austin, Chicago, Greenwich, Houston, New York City
 Senior Software Engineer - Analytics Middle Office
 Austin, Chicago, Greenwich, New York City
 Senior Software Engineer, C/FICCO Data
-New York City
+London
 Senior Software Engineer, C/FICCO Data
 Chicago
 Senior Software Engineer, C/FICCO Data
-London
+New York City
 Senior Software Engineer - Data Integration
 London
 Senior Software Engineer - DeFi
@@ -50,9 +50,9 @@ London
 Senior Software Engineer - Trading Desk (C++)
 Chicago
 Senior Software Engineer, Trading Platform, C++
-London
-Senior Software Engineer, Trading Platform, C++
 Amsterdam
+Senior Software Engineer, Trading Platform, C++
+London
 Senior Software Engineer, Trading Platform GUI
 London
 Senior Software Engineer, Trading Team
