@@ -1,24 +1,33 @@
 # Latest Scraper Results
 
-## 2026-06-10 07:02:04
+## 2026-06-11 07:25:16
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Chicago
+- Chicago, New York City
 ```
 
 ---
-### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
+### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
 
 **Line changes detected!**
 
 ```diff
-- London
-- QRT Travel Grant to ICML 2026 - Apply Here
-- View opportunity
+- Software Engineer, C++
+```
+
+---
+### [https://www.quantedge.com/careers](https://www.quantedge.com/careers)
+
+**Line changes detected!**
+
+```diff
++ A journey in the pursuit of excellence.
+- The pursuit of excellence is a journey.
 ```
 
 ---
