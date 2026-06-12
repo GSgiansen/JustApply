@@ -21,6 +21,7 @@ Opens the multi-select filter menu
 Teams
 Administrative
 Communications
+Consumer
 Corporate Development
 Corporate Security
 Corporate Strategy
@@ -46,11 +47,13 @@ Revenue Operations
 Sales
 Scaled Sales
 Solutions Architect
+Infrastructure
 Infrastructure & Corporate Tech
 Legal
 Machine Learning
 Operations
 Technical Account Management
+Paystack
 People
 Recruiting
 People Functions
@@ -71,22 +74,23 @@ Privy
 Revenue & Financial Automation
 Stripe Tax
 Terminal
+Reliability
 Risk & Financial Crimes
+SaaS
 Security
+Startups
 Tech Programs
 University
 Opens the multi-select filter menu
 Office Locations (1)
-North America
-Atlanta
-Chicago
-New York
-Seattle
-South San Francisco HQ
-San Francisco Bridge HQ
-Washington DC
-Toronto
-Mexico City
+Asia Pacific
+Sydney
+Melbourne
+Jakarta
+Bengaluru
+Tokyo
+Singapore
+Bangkok
 Europe
 Paris
 Berlin
@@ -99,25 +103,33 @@ Madrid
 Barcelona
 Stockholm
 Luxembourg
-Asia Pacific
-Sydney
-Melbourne
-Jakarta
-Bengaluru
-Tokyo
-Singapore
-Bangkok
 Latin America
 São Paulo
+Mexico City
+North America
+Atlanta
+Chicago
+New York
+Seattle
+South San Francisco HQ
+San Francisco Bridge HQ
+Washington DC
+Toronto
 Mexico City
 Middle East
 Dubai
 Opens the multi-select filter menu
 Remote Locations
-North America
-United States
-Canada
-Mexico
+Asia Pacific
+Australia
+Hong Kong
+Indonesia
+India
+Japan
+Malaysia
+New Zealand
+South Korea
+Thailand
 Europe
 Austria
 Belgium
@@ -136,20 +148,14 @@ Romania
 Spain
 Sweden
 Switzerland
-Asia Pacific
-Australia
-Hong Kong
-Indonesia
-India
-Japan
-Malaysia
-New Zealand
-South Korea
-Thailand
 Latin America
 Argentina
 Brazil
 Chile
+Mexico
+North America
+United States
+Canada
 Mexico
 Opens the multi-select filter menu
 Tags (1)

@@ -1,33 +1,41 @@
 # Latest Scraper Results
 
-## 2026-06-11 07:25:16
+## 2026-06-12 07:16:14
 
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Line changes detected!**
+
+```diff
++ Consumer
++ Infrastructure
++ Paystack
++ Reliability
++ SaaS
++ Startups
+```
+
+---
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-+ Chicago
-- Chicago, New York City
+- London
+- Senior Software Engineer, Unified Platform - Reference Data
 ```
 
 ---
-### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
+### [https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads)
 
 **Line changes detected!**
 
 ```diff
-- Software Engineer, C++
-```
-
----
-### [https://www.quantedge.com/careers](https://www.quantedge.com/careers)
-
-**Line changes detected!**
-
-```diff
-+ A journey in the pursuit of excellence.
-- The pursuit of excellence is a journey.
+- ,
+- 2026 Internship/Graduate - Technology
+- Hong Kong
+- Singapore
+- View opportunity
 ```
 
 ---
