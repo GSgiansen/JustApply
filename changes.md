@@ -1,20 +1,28 @@
 # Latest Scraper Results
 
-## 2026-06-16 08:42:45
+## 2026-06-17 08:25:05
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-+ Austin, Chicago, Greenwich, Houston, New York City
-- Austin, Chicago, Greenwich, New York City
-+ Chicago
-- Chicago, New York City
-- Python Software Engineer, Trading Platform
-+ Senior Software Engineer - Analytics Front Office
-- Senior Software Engineer - Trading Desk (C++)
-+ Senior Software Engineer, C++ (Algo)
+No line changes.
+```
+
+---
+### [https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads)
+
+**Line changes detected!**
+
+```diff
+- , x2
+- 2026 Internship/Graduate - Quantitative Research/Trading
+- Hong Kong
+- Shanghai
+- Singapore
++ There are currently no matching jobs.
+- View opportunity
 ```
 
 ---
