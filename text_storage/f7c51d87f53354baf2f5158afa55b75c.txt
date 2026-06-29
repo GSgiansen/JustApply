@@ -2,4 +2,4 @@ Robot Challenge Screen
 Our system thinks you might be a robot!
 We're really sorry about this, but it's getting harder and harder to tell the difference between humans and bots these days.
 Please complete the captcha below to prove you're a human and proceed to the page you're trying to reach.
-This page requires cookies to be enabled in your browser settings. Please check this setting and enable cookies (if disabled). sid:565
+This page requires cookies to be enabled in your browser settings. Please check this setting and enable cookies (if disabled). sid:343
