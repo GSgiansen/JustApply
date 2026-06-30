@@ -356,6 +356,7 @@ Resources
 Guides
 Customer stories
 Blog
+Community
 Sessions annual conference
 Privacy & terms
 Prohibited & restricted businesses
