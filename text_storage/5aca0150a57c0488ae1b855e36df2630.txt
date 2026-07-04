@@ -163,14 +163,8 @@ Tags (1)
 Bridge
 Privy
 University
-Showing roles across across 1 location and all teams. 1 tag selected.
+No open roles match your search. Try removing filters or changing your search terms.
 Clear all filters
-Role
-Team
-Location
-Software Engineering, New Grad
-University
-Singapore
 Stripe logo
 United States (English)
 Australia
