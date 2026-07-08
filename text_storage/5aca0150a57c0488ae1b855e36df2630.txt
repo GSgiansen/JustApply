@@ -185,6 +185,9 @@ English
 Canada
 English
 Français
+China
+简体中文
+English
 Croatia
 English
 Italiano
