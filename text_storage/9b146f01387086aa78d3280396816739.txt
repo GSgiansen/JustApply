@@ -22,9 +22,9 @@ Montréal
 Python Software Engineer, Trading Platform
 London
 Senior Software Engineer
-Singapore
-Senior Software Engineer
 Tel Aviv
+Senior Software Engineer
+Singapore
 Senior Software Engineer - Analytics Front Office
 Austin, Chicago, Greenwich, Houston, New York City
 Senior Software Engineer - Analytics Middle Office
@@ -34,9 +34,9 @@ Chicago
 Senior Software Engineer, C/FICCO Data
 Chicago
 Senior Software Engineer, C/FICCO Data
-New York City
-Senior Software Engineer, C/FICCO Data
 London
+Senior Software Engineer, C/FICCO Data
+New York City
 Senior Software Engineer - Data Integration
 London
 Senior Software Engineer - DeFi
@@ -66,23 +66,23 @@ Singapore
 Software Engineer - Cumberland/FICCO Tools Engineering
 Remote
 Software Engineer - Cumberland/FICCO Tools Engineering
-New York City
-Software Engineer - Cumberland/FICCO Tools Engineering
 Chicago
 Software Engineer - Cumberland/FICCO Tools Engineering
 London
-Software Engineer, Market Data - Cumberland
+Software Engineer - Cumberland/FICCO Tools Engineering
 New York City
 Software Engineer, Market Data - Cumberland
 Chicago
 Software Engineer, Market Data - Cumberland
 London
+Software Engineer, Market Data - Cumberland
+New York City
+Software Engineer - Prediction Markets (Python)
+Chicago
 Software Engineer - Prediction Markets (Python)
 New York City
 Software Engineer - Prediction Markets (Python)
 London
-Software Engineer - Prediction Markets (Python)
-Chicago
 Software Engineer, Research – Cumberland Systematic
 London
 Software Engineer, Research – Cumberland Systematic
