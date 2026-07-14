@@ -349,6 +349,7 @@ API reference
 API status
 API changelog
 Libraries and SDKs
+Stripe Projects
 Developer blog
 Resources
 Guides
