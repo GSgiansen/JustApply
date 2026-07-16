@@ -62,17 +62,19 @@ London
 Senior Software Engineer, Unified Platform - Trade Management, Trade and Order Processing, Platform Services
 Chicago
 Software Developer
+Chicago
+Software Developer
 Montréal
 Software Developer
-Chicago
+Montréal
 Software Developer (C++)
 Singapore
 Software Developer Intern
 Chicago
 Software Developer Intern
-Amsterdam
-Software Developer Intern
 London
+Software Developer Intern
+Amsterdam
 Software Developer Intern
 Montréal
 Software Developer Intern (C++)
@@ -80,19 +82,19 @@ Singapore
 Software Development Engineer in Test / Python Developer
 Singapore
 Software Engineer - Cumberland/FICCO Tools Engineering
-Chicago
-Software Engineer - Cumberland/FICCO Tools Engineering
 New York City
+Software Engineer - Cumberland/FICCO Tools Engineering
+Chicago
 Software Engineer - Cumberland/FICCO Tools Engineering
 London
 Software Engineer - Cumberland/FICCO Tools Engineering
 Remote
 Software Engineer, Market Data - Cumberland
+New York City
+Software Engineer, Market Data - Cumberland
 London
 Software Engineer, Market Data - Cumberland
 Chicago
-Software Engineer, Market Data - Cumberland
-New York City
 Software Engineer - Prediction Markets (Python)
 Chicago
 Software Engineer - Prediction Markets (Python)
