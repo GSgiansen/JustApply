@@ -1,14 +1,7 @@
 # Latest Scraper Results
 
-## 2026-07-18 05:18:50
+## 2026-07-19 05:45:08
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
-
-**Line changes detected!**
-
-```diff
-- Singapore
-- Software Developer (C++)
-```
+**No changes for today**
 
 ---
