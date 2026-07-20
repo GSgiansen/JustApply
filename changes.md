@@ -1,7 +1,15 @@
 # Latest Scraper Results
 
-## 2026-07-19 05:45:08
+## 2026-07-20 06:02:41
 
-**No changes for today**
+### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
+
+**Line changes detected!**
+
+```diff
+- Portfolio Manager
+- Quantitative Researcher
+- Trader
+```
 
 ---

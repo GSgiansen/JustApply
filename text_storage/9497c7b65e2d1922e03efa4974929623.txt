@@ -11,9 +11,6 @@ Newsroom
 Contact Us
 Trading
 Available Positions:
-Portfolio Manager
-Trader
-Quantitative Researcher
 Who We Are
 Technology
 Asset Management
