@@ -91,6 +91,7 @@ Jakarta
 Bengaluru
 Tokyo
 Singapore
+Taipei
 Bangkok
 Europe
 Paris
