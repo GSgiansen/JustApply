@@ -54,7 +54,6 @@ Legal
 Machine Learning
 Operations
 Technical Account Management
-Paystack
 People
 Recruiting
 People Functions
