@@ -1,322 +1,78 @@
-Stripe Jobs
-Stripe logo
-Jobs
-Our opportunity
-Life at Stripe
-Benefits
-University
-See open roles
-Open mobile navigation
-Jobs
-Our opportunity
-Life at Stripe
-Benefits
-University
-See open roles
-Close mobile navigation
-Expand economic access across the globe
-Bridge open roles
-Privy open roles
-Opens the multi-select filter menu
+Stripe Careers | Open Roles
+Opportunity
+Compatibility
+Emerging talent
+Open roles
+Open roles
+Help implement the conditions for prosperity.
+Work on problems that matter at scale.
+Assess your fit
+Search
+Filter by
+Company
 Teams
-Administrative
-Communications
-Consumer
-Corporate Development
-Corporate Security
-Corporate Strategy
-Data & Data Science
-Data Platform
-Design
-Executive
-Finance
-Controllership
-Finance & Strategy
-Internal Audit
-Investor Relations
-Tax
-Treasury
-Workplace
-Global Operations
-Global Partnerships
-Go-to-Market
-Customer Success
-Global Strategic Pursuits
-GTM Partnerships
-Marketing
-Revenue Operations
-Sales
-Scaled Sales
-Solutions Architect
-Infrastructure
-Infrastructure & Corporate Tech
-Legal
-Machine Learning
-Operations
-Technical Account Management
-People
-Recruiting
-People Functions
-Products
-Banking as a Service
-Intercept
-Connect
-Crypto
-Mobile
-Link
-Metronome
-Money Movement and Storage
-New Financial Products
-Payments
-Platform
-Professional Services
-Privy
-Revenue & Financial Automation
-Stripe Tax
-Terminal
-Reliability
-Risk & Financial Crimes
-SaaS
-Security
-Startups
-Tech Programs
-University
-Opens the multi-select filter menu
-Office Locations (1)
-Asia Pacific
-Sydney
-Melbourne
-Jakarta
-Bengaluru
-Tokyo
-Singapore
-Taipei
-Bangkok
-Europe
-Paris
-Berlin
-London
-Dublin HQ
-Amsterdam
-Warsaw
-Bucharest
-Madrid
-Barcelona
-Stockholm
-Luxembourg
-Latin America
-São Paulo
-Mexico City
-North America
-Atlanta
-Chicago
-New York
-Seattle
-South San Francisco HQ
-San Francisco Bridge HQ
-Washington DC
-Toronto
-Mexico City
-Middle East
-Dubai
-Opens the multi-select filter menu
-Remote Locations
-Asia Pacific
-Australia
-Hong Kong
-Indonesia
-India
-Japan
-Malaysia
-New Zealand
-South Korea
-Thailand
-Europe
-Austria
-Belgium
-Czechia
-Estonia
-France
-Germany
-Great Britain
-Ireland
-Israel
-Italy
-Netherlands
-Poland
-Portugal
-Romania
-Spain
-Sweden
-Switzerland
-Latin America
-Argentina
-Brazil
-Chile
-Mexico
-North America
-United States
-Canada
-Mexico
-Opens the multi-select filter menu
-Tags (1)
-Bridge
-Privy
-University
-No open roles match your search. Try removing filters or changing your search terms.
+Office location
+Role type
+0
+filters
+selected
 Clear all filters
-Stripe logo
-United States (English)
-Australia
-English
-Austria
-Deutsch
-English
-Belgium
-Nederlands
-Français
-Deutsch
-English
-Brazil
-Português
-English
-Bulgaria
-English
-Canada
-English
-Français
-China
-简体中文
-English
-Croatia
-English
-Italiano
-Cyprus
-English
-Czech Republic
-English
-Denmark
-English
-Estonia
-English
-Finland
-English
-Svenska
-France
-Français
-English
-Germany
-Deutsch
-English
-Gibraltar
-English
-Greece
-English
-Hong Kong
-English
-简体中文
-Hungary
-English
-India
-English
-Ireland
-English
-Italy
-Italiano
-English
-Japan
-日本語
-English
-Latvia
-English
-Liechtenstein
-Deutsch
-English
-Lithuania
-English
-Luxembourg
-Français
-Deutsch
-English
-Malaysia
-English
-简体中文
-Malta
-English
-Mexico
-Español
-English
-Netherlands
-Nederlands
-English
-New Zealand
-English
-Norway
-English
-Poland
-English
-Portugal
-Português
-English
-Romania
-English
-Singapore
-English
-简体中文
-Slovakia
-English
-Slovenia
-English
-Italiano
-Spain
-Español
-English
-Sweden
-Svenska
-English
-Switzerland
-Deutsch
-Français
-Italiano
-English
-Thailand
-ไทย
-English
-United Arab Emirates
-English
-United Kingdom
-English
-United States
-English
-Español
-简体中文
-Products & pricing
+Operations Associate, New Grad (Mexico)
+Operations
+Mexico City
+Software Engineer, Connect Tax Reporting
+Connect
+Bucharest
+Software Engineer, Intern
+University
+Bengaluru
+Software Engineer, New Grad, Developer & End User Experience Platform
+University
+Toronto
+Tech Ops Team Lead
+Operations
+Bengaluru
+Help us improve the conditions for economic growth and prosperity
+We embrace diverse perspectives, ideas, and backgrounds at Stripe. We’re committed to providing equal employment opportunities for all applicants and employees. Stripe doesn’t discriminate on the basis of any protected characteristic, including race, color, ancestry, national origin, religion (including religious dress), creed, age, disability (mental and physical), sex, gender (including pregnancy, childbirth, breastfeeding, or related medical conditions), sexual orientation, gender identity, gender expression, medical condition, genetic information, family care or medical leave status, marital status, domestic partner status, military and veteran status (including military spouse status), or any other characteristic protected by US federal, state or local laws, or the laws of the country or jurisdiction where you work.
+This commitment is also reflected in our candidate experience. We will work with your needs and provide any assistance we can. If you are a nursing mother or have individual needs related to a disability, please reach out to
+accommodations@stripe.com
+.
+If you’re having trouble submitting an application or experiencing other technical difficulties with this site, please reach out to
+candidatefeedback-applications@stripe.com
+.
+Products and pricing
 Pricing
 Atlas
 Authorization Boost
 Billing
 Capital
+Capital for platforms
 Checkout
 Climate
 Connect
 Crypto
+Crypto Onramp
 Data Pipeline
 Elements
 Financial Connections
+Global Payouts
 Identity
 Invoicing
 Issuing
 Link
 Managed Payments
 Payment links
+Payment methods
 Payments
-Payouts
 Radar
 Revenue Recognition
 Stripe Sigma
+Subscriptions
 Tax
 Terminal
 Treasury
+Treasury for platforms
+Usage-based billing
 Solutions
 Enterprises
 Startups
@@ -328,6 +84,7 @@ Finance automation
 Global businesses
 In-app payments
 Marketplaces
+Money management
 Platforms
 SaaS
 AI companies
@@ -340,10 +97,6 @@ Nonprofits
 Professional services
 Public sector
 Retail
-Integrations & custom solutions
-Stripe App Marketplace
-Stripe Partner ecosystem
-Professional services
 Developers
 Documentation
 API reference
@@ -352,30 +105,38 @@ API changelog
 Libraries and SDKs
 Stripe Projects
 Developer blog
+Integrations and custom solutions
+Stripe App Marketplace
+Stripe Partner ecosystem
+Professional services
 Resources
+Product roadmap
 Guides
 Customer stories
 Blog
 Community
 Sessions annual conference
-Privacy & terms
-Prohibited & restricted businesses
+Privacy and terms
+Prohibited and restricted businesses
 Licenses
 Sitemap
 Cookie settings
 Your privacy choices
-Coverage transparency
 More resources
 Company
-Product roadmap
-Jobs
+Careers
 Newsroom
 Stripe Press
 Contact sales
 Support
 Get support
 Managed support plans
-CA residents:
-+1 888 926 2289
+CA residents: +1 888 926 2289
 Sign in
-© 2026 Stripe, LLC
+United States
+(
+English
+)
+©
+2026
+Stripe, LLC.

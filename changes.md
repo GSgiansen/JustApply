@@ -1,13 +1,243 @@
 # Latest Scraper Results
 
-## 2026-07-29 05:45:24
+## 2026-07-30 05:35:18
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-- Paystack
++ (
++ )
+- +1 888 926 2289
++ . x2
++ 0
++ 2026
+- Administrative
+- Amsterdam
+- Argentina
+- Asia Pacific x2
++ Assess your fit
+- Atlanta
+- Australia x2
+- Austria x2
+- Bangkok
+- Banking as a Service
+- Barcelona
+- Belgium x2
+- Benefits x2
++ Bengaluru
+- Berlin
+- Brazil x2
+- Bridge
+- Bridge open roles
+- Bulgaria
+- CA residents:
++ CA residents: +1 888 926 2289
+- Canada x2
++ Capital for platforms
++ Careers
+- Chicago
+- Chile
+- China
+- Close mobile navigation
+- Communications
++ Company
++ Compatibility
+- Consumer
+- Controllership
+- Corporate Development
+- Corporate Security
+- Corporate Strategy
+- Coverage transparency
+- Croatia
+- Crypto
++ Crypto Onramp
+- Customer Success
+- Cyprus
+- Czech Republic
+- Czechia
+- Data & Data Science
+- Data Platform
+- Denmark
+- Design
+- Deutsch x6
+- Dubai
+- Dublin HQ
++ Emerging talent
+- English x45
+- Español x3
+- Estonia x2
+- Europe x2
+- Executive
+- Expand economic access across the globe
++ Filter by
+- Finance
+- Finance & Strategy
+- Finland
+- France x2
+- Français x5
+- GTM Partnerships
+- Germany x2
+- Gibraltar
+- Global Operations
+- Global Partnerships
++ Global Payouts
+- Global Strategic Pursuits
+- Go-to-Market
+- Great Britain
+- Greece
++ Help implement the conditions for prosperity.
++ Help us improve the conditions for economic growth and prosperity
+- Hong Kong x2
+- Hungary
++ If you’re having trouble submitting an application or experiencing other technical difficulties with this site, please reach out to
+- India x2
+- Indonesia
+- Infrastructure
+- Infrastructure & Corporate Tech
+- Integrations & custom solutions
++ Integrations and custom solutions
+- Intercept
+- Internal Audit
+- Investor Relations
+- Ireland x2
+- Israel
+- Italiano x4
+- Italy x2
+- Jakarta
+- Japan x2
+- Jobs x3
+- Latin America x2
+- Latvia
+- Legal
+- Liechtenstein
+- Life at Stripe x2
+- Link
+- Lithuania
+- London
+- Luxembourg x2
+- Machine Learning
+- Madrid
+- Malaysia x2
+- Malta
+- Marketing
+- Melbourne
+- Metronome
+- Mexico x3
+- Mexico City
+- Middle East
+- Mobile
+- Money Movement and Storage
++ Money management
+- Nederlands x2
+- Netherlands x2
+- New Financial Products
+- New York
+- New Zealand x2
+- No open roles match your search. Try removing filters or changing your search terms.
+- North America x2
+- Norway
+- Office Locations (1)
++ Office location
+- Open mobile navigation
++ Open roles x2
+- Opens the multi-select filter menu x4
++ Operations
++ Operations Associate, New Grad (Mexico)
++ Opportunity
+- Our opportunity x2
+- Paris
++ Payment methods
+- Payments
+- Payouts
+- People
+- People Functions
+- Platform
+- Poland x2
+- Portugal x2
+- Português x2
+- Privacy & terms
++ Privacy and terms
+- Privy x2
+- Privy open roles
+- Products
+- Products & pricing
++ Products and pricing
+- Professional Services
+- Prohibited & restricted businesses
++ Prohibited and restricted businesses
+- Recruiting
+- Reliability
+- Remote Locations
+- Revenue & Financial Automation
+- Revenue Operations
+- Risk & Financial Crimes
++ Role type
+- Romania x2
+- SaaS
+- Sales
+- San Francisco Bridge HQ
+- Scaled Sales
++ Search
+- Seattle
+- Security
+- See open roles x2
+- Singapore x2
+- Slovakia
+- Slovenia
++ Software Engineer, Connect Tax Reporting
++ Software Engineer, Intern
++ Software Engineer, New Grad, Developer & End User Experience Platform
+- Solutions Architect
+- South Korea
+- South San Francisco HQ
+- Spain x2
+- Startups
+- Stockholm
++ Stripe Careers | Open Roles
+- Stripe Jobs
+- Stripe Tax
+- Stripe logo x2
++ Stripe, LLC.
++ Subscriptions
+- Svenska x2
+- Sweden x2
+- Switzerland x2
+- Sydney
+- São Paulo
+- Tags (1)
+- Taipei
+- Tax
++ Tech Ops Team Lead
+- Tech Programs
+- Technical Account Management
+- Terminal
+- Thailand x2
++ This commitment is also reflected in our candidate experience. We will work with your needs and provide any assistance we can. If you are a nursing mother or have individual needs related to a disability, please reach out to
+- Tokyo
+- Treasury
++ Treasury for platforms
+- United Arab Emirates
+- United Kingdom
+- United States
+- United States (English)
+- University x2
++ Usage-based billing
+- Warsaw
+- Washington DC
++ We embrace diverse perspectives, ideas, and backgrounds at Stripe. We’re committed to providing equal employment opportunities for all applicants and employees. Stripe doesn’t discriminate on the basis of any protected characteristic, including race, color, ancestry, national origin, religion (including religious dress), creed, age, disability (mental and physical), sex, gender (including pregnancy, childbirth, breastfeeding, or related medical conditions), sexual orientation, gender identity, gender expression, medical condition, genetic information, family care or medical leave status, marital status, domestic partner status, military and veteran status (including military spouse status), or any other characteristic protected by US federal, state or local laws, or the laws of the country or jurisdiction where you work.
++ Work on problems that matter at scale.
+- Workplace
++ accommodations@stripe.com
++ candidatefeedback-applications@stripe.com
++ filters
++ selected
++ ©
+- © 2026 Stripe, LLC
+- ไทย
+- 日本語
+- 简体中文 x5
 ```
 
 ---
@@ -16,65 +246,24 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
+- London
+- Senior Software Engineer, Mid-Frequency Platform - UP Reference Data Team
 ```
 
 ---
-### [https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads)
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
 
 **Line changes detected!**
 
 ```diff
-- , x3
-- . x2
-- . © 2026 Qube Research & Technologies Limited. All rights reserved.
-- 2026 Internship/Graduate - Quantitative Research/Trading
-- 2026 Internship/Graduate - Technology
-- About Us
-- About us
-- Any specific enquiries related to campus, internships and graduate programmes, please contact
-- Careers x2
-- Careers | QRT
-- Commitments
-- Contact Us
-- Contact us
-- Copy URL
-- Disclosures and Reports
-- Experience
-- External Contributors
-- For general recruitment you may contact
-- Fraud and impersonation warnings
-- Hong Kong x2
-- Location
-+ Our system thinks you might be a robot!
-- Please apply online.
-+ Please complete the captcha below to prove you're a human and proceed to the page you're trying to reach.
-- Privacy policy
-- QRT is an equal opportunity employer. We welcome diversity and consider it essential to our success. QRT empowers employees to work openly to achieve collective success. In addition to professional achievement, we offer initiatives and programs to enable employees to achieve a healthy work-life balance.
-- Qube Research & Technologies Limited is authorised and regulated by the Financial Conduct Authority. Qube Research & Technologies Hong Kong Limited is licensed by the Hong Kong Securities and Futures Commission. Qube Research & Technologies Paris SAS is authorised and regulated by the French Authorities des Marches Financiers. Qube Research & Technologies Singapore Pte. Ltd is authorised and regulated by the Monetary Authority of Singapore. Qube Research and Technologies (DIFC) Limited is regulated by the Dubai Financial Services Authority. Qube Research and Technologies Switzerland AG is regulated by the Swiss Financial Market Supervisory Authority and is affiliated with
-+ Robot Challenge Screen
-- Sector
-- Select sector
-- Shanghai
-- Singapore x3
-- Students and New Grads
-+ This page requires cookies to be enabled in your browser settings. Please check this setting and enable cookies (if disabled). sid:343
-- View opportunity x2
-- We are proud of our exceptionally talented and diverse teams who are driving QRT’s innovation and growth
-+ We're really sorry about this, but it's getting harder and harder to tell the difference between humans and bots these days.
-- campus@qube-rt.com
-- global-recruitment@qube-rt.com
-- https://www.finos.ch
-- | x2
-```
-
----
-### [https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&](https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&)
-
-**Line changes detected!**
-
-```diff
-- Interviewing at Two Sigma x2
++ 5 Open Roles
+- 6 Open Roles
+- Broker Relations
+- Corporate Access, off-cycle internship (6-months) – Japanese speaking
+- FOCUS
+- Hong Kong
+- LOCATION
+- ROLE
 ```
 
 ---

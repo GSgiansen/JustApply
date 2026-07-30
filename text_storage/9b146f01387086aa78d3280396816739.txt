@@ -34,9 +34,9 @@ Chicago
 Senior Software Engineer, C++ (Algo)
 Chicago
 Senior Software Engineer, C/FICCO Data
-Chicago
-Senior Software Engineer, C/FICCO Data
 London
+Senior Software Engineer, C/FICCO Data
+Chicago
 Senior Software Engineer, C/FICCO Data
 New York City
 Senior Software Engineer - Data Integration
@@ -45,8 +45,6 @@ Senior Software Engineer - DeFi
 Chicago
 Senior Software Engineer, Finance (Clojure)
 Chicago, New York City
-Senior Software Engineer, Mid-Frequency Platform - UP Reference Data Team
-London
 Senior Software Engineer, Trading Platform, C++
 Amsterdam
 Senior Software Engineer, Trading Platform, C++
@@ -66,37 +64,37 @@ Montréal
 Software Developer
 Montréal
 Software Developer Intern
-London
-Software Developer Intern
 Chicago
 Software Developer Intern
 Amsterdam
 Software Developer Intern
 Montréal
+Software Developer Intern
+London
 Software Developer Intern (C++)
 Singapore
 Software Development Engineer in Test / Python Developer
 Singapore
+Software Engineer - Cumberland/FICCO Tools Engineering
+New York City
 Software Engineer - Cumberland/FICCO Tools Engineering
 Remote
 Software Engineer - Cumberland/FICCO Tools Engineering
 Chicago
 Software Engineer - Cumberland/FICCO Tools Engineering
 London
-Software Engineer - Cumberland/FICCO Tools Engineering
-New York City
-Software Engineer, Market Data - Cumberland
-Chicago
 Software Engineer, Market Data - Cumberland
 New York City
 Software Engineer, Market Data - Cumberland
 London
+Software Engineer, Market Data - Cumberland
+Chicago
+Software Engineer - Prediction Markets (Python)
+New York City
 Software Engineer - Prediction Markets (Python)
 London
 Software Engineer - Prediction Markets (Python)
 Chicago
-Software Engineer - Prediction Markets (Python)
-New York City
 Software Engineer, Research – Cumberland Systematic
 London
 Software Engineer, Research – Cumberland Systematic
