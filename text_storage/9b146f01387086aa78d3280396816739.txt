@@ -17,8 +17,6 @@ Category
 Location
 AI Full Stack Software Developer
 Montréal
-Full Stack Software Developer
-Montréal
 Python Software Engineer, Trading Platform
 London
 Python Software Engineer, Trading Platform
@@ -34,13 +32,11 @@ Chicago
 Senior Software Engineer, C++ (Algo)
 Chicago
 Senior Software Engineer, C/FICCO Data
+New York City
+Senior Software Engineer, C/FICCO Data
 London
 Senior Software Engineer, C/FICCO Data
 Chicago
-Senior Software Engineer, C/FICCO Data
-New York City
-Senior Software Engineer - Data Integration
-London
 Senior Software Engineer - DeFi
 Chicago
 Senior Software Engineer, Finance (Clojure)
@@ -53,42 +49,48 @@ Senior Software Engineer, Trading Platform GUI
 London
 Senior Software Engineer, Trading Team
 London, Singapore
+Senior Software Engineer, Treasury (Ruby/Python)
+Chicago
+Senior Software Engineer, Unified Platform - Digital Assets
+London
 Senior Software Engineer, Unified Platform - Trade Management and Trade & Order Processing
 London
 Senior Software Engineer, Unified Platform - Trade Management, Trade and Order Processing, Platform Services
 Chicago
 Software Developer
+Montréal
+Software Developer
+Montréal
+Software Developer
 Chicago
-Software Developer
+Software Developer Intern
 Montréal
-Software Developer
-Montréal
+Software Developer Intern
+London
 Software Developer Intern
 Chicago
 Software Developer Intern
 Amsterdam
-Software Developer Intern
-Montréal
-Software Developer Intern
-London
 Software Developer Intern (C++)
 Singapore
+Software Developer (Research)
+Montréal
 Software Development Engineer in Test / Python Developer
 Singapore
+Software Engineer - Cumberland/FICCO Tools Engineering
+London
+Software Engineer - Cumberland/FICCO Tools Engineering
+Chicago
 Software Engineer - Cumberland/FICCO Tools Engineering
 New York City
 Software Engineer - Cumberland/FICCO Tools Engineering
 Remote
-Software Engineer - Cumberland/FICCO Tools Engineering
+Software Engineer, Market Data - Cumberland
 Chicago
-Software Engineer - Cumberland/FICCO Tools Engineering
+Software Engineer, Market Data - Cumberland
 London
 Software Engineer, Market Data - Cumberland
 New York City
-Software Engineer, Market Data - Cumberland
-London
-Software Engineer, Market Data - Cumberland
-Chicago
 Software Engineer - Prediction Markets (Python)
 New York City
 Software Engineer - Prediction Markets (Python)

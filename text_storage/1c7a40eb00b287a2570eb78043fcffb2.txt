@@ -56,12 +56,14 @@ Current job openings
 Careers
 All Departments
 Engineering & Trading
+Expeditions
 Operations
 All Offices
 - Ho Chi Minh City
 - Kuala Lumpur
 - Singapore
 - - Kraków
+- New York
 Engineering & Trading
 Senior Software Engineer
 Singapore
@@ -74,6 +76,11 @@ View Details
 Software Engineer (Krakow)
 Kraków
 Our Software Engineering teams work as semi independent units, responsible for owning a business area or application end to end
+View Details
+Expeditions
+Institutional Partnerships Manager
+New York
+At Caladan, we believe that accessing digital asset liquidity should be seamless, fast, and tailored
 View Details
 Operations
 Post Trade Operations [US Coverage]
