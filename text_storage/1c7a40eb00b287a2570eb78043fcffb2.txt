@@ -62,7 +62,6 @@ All Offices
 - Ho Chi Minh City
 - Kuala Lumpur
 - Singapore
-- - Kraków
 - New York
 Engineering & Trading
 Senior Software Engineer
@@ -72,10 +71,6 @@ View Details
 Software Engineer (Ho Chi Minh)
 Ho Chi Minh City
 As a Software Engineer at Caladan you will be part of a team responsible for owning a business area or application end to end
-View Details
-Software Engineer (Krakow)
-Kraków
-Our Software Engineering teams work as semi independent units, responsible for owning a business area or application end to end
 View Details
 2027 2H Technology / Quant Intern
 Singapore

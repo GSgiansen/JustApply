@@ -60,7 +60,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-0
+3
 jobs matched
 Clear filters
 What do you want to do?
@@ -145,13 +145,71 @@ English
 English
 Français (Canada)
 Jobs search results
-0
+3
 jobs matched
 filter_list
-search
-No results
-Search again or try updating your filters
-Clear filters
+Software Engineering or SRE, PhD Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a PhD degree in Computer Science or a related technical field in the EMEA region, and in your penultimate/final year of education.
+Experience working with data structures and algorithms during coursework/projects, research, internships, or practical experience in school or work (e.g., open-source coding).
+Experience with one or more general purpose programming languages (e.g., Java, C/C++, Python, JavaScript, Go, etc.).
+Learn more
+share
+Share Software Engineering or SRE, PhD Intern, 2027
+link
+Copy link
+email
+Email a friend
+Research Scientist PhD Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a PhD degree in Computer Science or a related technical field in the EMEA region, and in your penultimate/final year of education.
+Experience in one or more research areas; natural language understanding/processing, computer vision, LLMs, machine learning, algorithmic foundations of optimization, data mining, machine intelligence (Artificial Intelligence), AI/ML algorithms, deep learning or image processing, multimodal, multilingual and reinforcement learning.
+Experience with research from previous internships, full-time industry experience, personal projects, lab work, or published papers (being listed as author).
+Learn more
+share
+Share Research Scientist PhD Intern, 2027
+link
+Copy link
+email
+Email a friend
+Data Science PhD Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a PhD program in Statistics, Biostatistics, Computer Science, Mathematics, Operations Research, or a related technical field involving experimental design and quantitative analysis of experimental data, and in your penultimate year of study.
+Experience working with datasets using Python, R, SAS, MATLAB, or other statistical software.
+Experience with methods of statistical data analysis (e.g., linear models, hypothesis testing, multi-level models, Bayesian methods, etc.).
+Learn more
+share
+Share Data Science PhD Intern, 2027
+link
+Copy link
+email
+Email a friend
+Showing 1 to 3 of 3 rows
+1‑3 of 3
 Follow Life at Google on
 More about us
 About us
