@@ -70,7 +70,6 @@ Washington, DC
 West Palm Beach / Miami
 Dubai, UAE
 London
-Milan
 Paris
 Warsaw, PL
 Bengaluru, India
@@ -95,7 +94,6 @@ Washington, DC
 West Palm Beach / Miami
 Dubai, UAE
 London
-Milan
 Paris
 Warsaw, PL
 Bengaluru, India
