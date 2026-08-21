@@ -13,6 +13,7 @@ Trading
 Available Positions:
 Portfolio Manager
 Trader
+Senior Metals Trader
 Who We Are
 Technology
 Asset Management

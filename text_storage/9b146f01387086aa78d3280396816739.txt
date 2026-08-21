@@ -18,33 +18,33 @@ Location
 AI Full Stack Software Developer
 Montréal
 Python Software Engineer, Trading Platform
-London
-Python Software Engineer, Trading Platform
 New York City
-Senior Software Engineer
-Tel Aviv
+Python Software Engineer, Trading Platform
+London
 Senior Software Engineer
 Singapore
+Senior Software Engineer
+Tel Aviv
 Senior Software Engineer - Analytics Front Office
 Austin, Chicago, Greenwich, Houston, New York City
 Senior Software Engineer, C++ (Algo)
 Chicago
 Senior Software Engineer, C/FICCO Data
-London
+Chicago
 Senior Software Engineer, C/FICCO Data
 New York City
 Senior Software Engineer, C/FICCO Data
-Chicago
+London
 Senior Software Engineer - DeFi
 Chicago
 Senior Software Engineer, Finance (Clojure)
 Chicago, New York City
 Senior Software Engineer, Trading Platform, C++
-Chicago
+London
 Senior Software Engineer, Trading Platform, C++
 Amsterdam
 Senior Software Engineer, Trading Platform, C++
-London
+Chicago
 Senior Software Engineer, Trading Team
 London, Singapore
 Senior Software Engineer, Treasury and Reference Data (Java/Ruby/Python)
@@ -58,21 +58,21 @@ Chicago
 Software Developer
 Montréal
 Software Developer
+Chicago
+Software Developer
 London
 Software Developer
 Montréal
-Software Developer
-Chicago
 Software Developer - DevOps
 Montréal
 Software Developer Intern
-Montréal
+Amsterdam
 Software Developer Intern
 London
 Software Developer Intern
 Chicago
 Software Developer Intern
-Amsterdam
+Montréal
 Software Developer Intern (C++)
 Singapore
 Software Developer (Research)
@@ -82,19 +82,15 @@ Chicago
 Software Engineer (Commodities Data Team)
 London
 Software Engineer - Cumberland/FICCO Tools Engineering
-London
-Software Engineer - Cumberland/FICCO Tools Engineering
 Greenwich
+Software Engineer - Cumberland/FICCO Tools Engineering
+London
 Software Engineer - Cumberland/FICCO Tools Engineering
 Chicago
 Software Engineer - Cumberland/FICCO Tools Engineering
 New York City
 Software Engineer Intern (Data Engineering)
 Singapore
-Software Engineer - Prediction Markets (Python)
-London
-Software Engineer - Prediction Markets (Python)
-New York City
 Software Engineer, Research – Cumberland Systematic
 London
 Software Engineer, Research – Cumberland Systematic
