@@ -1,7 +1,15 @@
 # Latest Scraper Results
 
-## 2026-08-23 03:44:46
+## 2026-08-24 03:47:44
 
-**No changes for today**
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+
+**Line changes detected!**
+
+```diff
++ - - Kraków
++ Kraków
+- Singapore
+```
 
 ---

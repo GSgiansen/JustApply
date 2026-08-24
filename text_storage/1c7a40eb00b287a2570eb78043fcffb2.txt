@@ -62,6 +62,7 @@ All Offices
 - Ho Chi Minh City
 - Kuala Lumpur
 - Singapore
+- - Kraków
 - New York
 Engineering & Trading
 Senior Software Engineer
@@ -81,7 +82,7 @@ Singapore
 Caladan is seeking a Quant Trader to design, implement and manage systematic trading strategies across digital asset markets
 View Details
 Trading Platform Engineer
-Singapore
+Kraków
 As a Trading Platform Engineer you'll keep the systems that carry our orders to market fast, observable and dependable
 View Details
 Expeditions
