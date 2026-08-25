@@ -1,15 +1,23 @@
 # Latest Scraper Results
 
-## 2026-08-24 03:47:44
+## 2026-08-25 03:42:47
 
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-+ - - Kraków
-+ Kraków
-- Singapore
+No line changes.
+```
+
+---
+### [https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads)
+
+**Line changes detected!**
+
+```diff
+- 2026 Internship/Graduate - Quantitative Research/Trading
++ 2027 Internship/Graduate - Quantitative Research/Trading
 ```
 
 ---
