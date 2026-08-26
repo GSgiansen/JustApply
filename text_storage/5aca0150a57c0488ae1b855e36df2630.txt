@@ -92,6 +92,7 @@ Platforms
 SaaS
 AI companies
 Creator economy
+Fintech
 Gaming
 Hospitality, travel, and leisure
 Insurance
