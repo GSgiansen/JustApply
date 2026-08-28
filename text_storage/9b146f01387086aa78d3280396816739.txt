@@ -18,31 +18,29 @@ Location
 AI Full Stack Software Developer
 Montréal
 Python Software Engineer, Trading Platform
-New York City
-Python Software Engineer, Trading Platform
 London
+Python Software Engineer, Trading Platform
+New York City
 Senior Software Engineer
 Singapore
 Senior Software Engineer
 Tel Aviv
-Senior Software Engineer - Analytics Front Office
-Austin, Chicago, Greenwich, Houston, New York City
 Senior Software Engineer, C++ (Algo)
 Chicago
 Senior Software Engineer, C/FICCO Data
 London
 Senior Software Engineer, C/FICCO Data
-Chicago
-Senior Software Engineer, C/FICCO Data
 New York City
+Senior Software Engineer, C/FICCO Data
+Chicago
 Senior Software Engineer - DeFi
+Chicago
+Senior Software Engineer, Trading Platform, C++
 Chicago
 Senior Software Engineer, Trading Platform, C++
 Amsterdam
 Senior Software Engineer, Trading Platform, C++
 London
-Senior Software Engineer, Trading Platform, C++
-Chicago
 Senior Software Engineer, Trading Team
 London, Singapore
 Senior Software Engineer, Treasury and Reference Data (Java/Ruby/Python)
@@ -54,11 +52,11 @@ Chicago
 Senior Software Engineer, Unified Platform - Trade Management, Trade & Order Processing, Platform Services
 London
 Software Developer
-Montréal
+London
 Software Developer
 Chicago
 Software Developer
-London
+Montréal
 Software Developer
 Montréal
 Software Developer - DevOps
@@ -68,9 +66,9 @@ London
 Software Developer Intern
 Montréal
 Software Developer Intern
-Chicago
-Software Developer Intern
 Amsterdam
+Software Developer Intern
+Chicago
 Software Developer Intern (C++)
 Singapore
 Software Developer (Research)
@@ -80,13 +78,13 @@ Chicago
 Software Engineer (Commodities Data Team)
 London
 Software Engineer - Cumberland/FICCO Tools Engineering
-Greenwich
-Software Engineer - Cumberland/FICCO Tools Engineering
 London
 Software Engineer - Cumberland/FICCO Tools Engineering
-Chicago
-Software Engineer - Cumberland/FICCO Tools Engineering
 New York City
+Software Engineer - Cumberland/FICCO Tools Engineering
+Greenwich
+Software Engineer - Cumberland/FICCO Tools Engineering
+Chicago
 Software Engineer Intern (Data Engineering)
 Singapore
 Software Engineer, Research – Cumberland Systematic
