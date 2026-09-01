@@ -17,6 +17,9 @@ Role type
 filters
 selected
 Clear all filters
+Operations Associate, Apprenticeship
+Operations
+Bengaluru
 Operations Associate, New Grad (Mexico)
 Operations
 Mexico City
@@ -25,10 +28,34 @@ Connect
 Bucharest
 Software Engineer, Intern
 University
+London
+Software Engineer, Intern
+University
+Bucharest
+Software Engineer, Intern
+University
 Bengaluru
-Software Engineer, Intern (Summer)
+Software Engineer, Intern (Summer or Winter)
+University
+Toronto
+Software Engineer, Intern (Summer or Winter)
 University
 Dublin HQ
+Software Engineer, New Grad
+University
+Toronto
+Software Engineer, New Grad
+University
+London
+Software Engineer, New Grad
+University
+Bucharest
+Software Engineer, New Grad
+University
+Dublin HQ
+Software Engineer, New Grad - Frontend
+University
+Barcelona
 Tech Operations Associate, New Grad (Mexico)
 Operations
 Mexico City
