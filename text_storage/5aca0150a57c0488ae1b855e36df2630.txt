@@ -40,6 +40,15 @@ University
 Toronto
 Software Engineer, Intern (Summer or Winter)
 University
+New York
+Software Engineer, Intern (Summer or Winter)
+University
+Seattle
+Software Engineer, Intern (Summer or Winter)
+University
+South San Francisco HQ
+Software Engineer, Intern (Summer or Winter)
+University
 Dublin HQ
 Software Engineer, New Grad
 University
@@ -53,6 +62,15 @@ Bucharest
 Software Engineer, New Grad
 University
 Dublin HQ
+Software Engineer, New Grad
+University
+New York
+Software Engineer, New Grad
+University
+Seattle
+Software Engineer, New Grad
+University
+South San Francisco HQ
 Software Engineer, New Grad - Frontend
 University
 Barcelona
