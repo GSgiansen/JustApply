@@ -22,9 +22,9 @@ New York City
 Python Software Engineer, Trading Platform
 London
 Senior Software Engineer
-Singapore
-Senior Software Engineer
 Tel Aviv
+Senior Software Engineer
+Singapore
 Senior Software Engineer, C++ (Algo)
 Chicago
 Senior Software Engineer, C/FICCO Data
@@ -35,12 +35,14 @@ Senior Software Engineer, C/FICCO Data
 London
 Senior Software Engineer - DeFi
 Chicago
-Senior Software Engineer, Trading Platform, C++
-London
+Senior Software Engineer, Finance (Clojure)
+Chicago
 Senior Software Engineer, Trading Platform, C++
 Chicago
 Senior Software Engineer, Trading Platform, C++
 Amsterdam
+Senior Software Engineer, Trading Platform, C++
+London
 Senior Software Engineer, Trading Team
 London, Singapore
 Senior Software Engineer, Treasury and Reference Data (Java/Ruby/Python)
@@ -52,11 +54,11 @@ Chicago
 Senior Software Engineer, Unified Platform - Trade Management, Trade & Order Processing, Platform Services
 London
 Software Developer
-Chicago
-Software Developer
 London
 Software Developer
 Montréal
+Software Developer
+Chicago
 Software Developer
 Montréal
 Software Developer - DevOps
@@ -64,9 +66,9 @@ Montréal
 Software Developer Intern
 London
 Software Developer Intern
-Amsterdam
-Software Developer Intern
 Chicago
+Software Developer Intern
+Amsterdam
 Software Developer Intern
 Montréal
 Software Developer Intern (C++)
@@ -75,14 +77,14 @@ Software Developer (Research)
 Montréal
 Software Engineer (Commodities Data Team)
 London
-Software Engineer - Cumberland/FICCO Tools Engineering
+Software Engineer - Cumberland/FICCO Front Office Systems
 New York City
-Software Engineer - Cumberland/FICCO Tools Engineering
-Greenwich
-Software Engineer - Cumberland/FICCO Tools Engineering
-London
-Software Engineer - Cumberland/FICCO Tools Engineering
+Software Engineer - Cumberland/FICCO Front Office Systems
 Chicago
+Software Engineer - Cumberland/FICCO Front Office Systems
+London
+Software Engineer - Cumberland/FICCO Front Office Systems
+Greenwich
 Software Engineer Intern (Data Engineering)
 Singapore
 Software Engineer, Research – Cumberland Systematic
