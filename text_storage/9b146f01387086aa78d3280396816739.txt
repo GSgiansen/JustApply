@@ -28,19 +28,21 @@ Singapore
 Senior Software Engineer, C++ (Algo)
 Chicago
 Senior Software Engineer, C/FICCO Data
-New York City
-Senior Software Engineer, C/FICCO Data
 Chicago
+Senior Software Engineer, C/FICCO Data
+New York City
 Senior Software Engineer, C/FICCO Data
 London
 Senior Software Engineer - DeFi
 Chicago
 Senior Software Engineer, Finance (Clojure)
 Chicago
-Senior Software Engineer, Trading Platform, C++
-Chicago
+Senior Software Engineer - Research Technology
+London
 Senior Software Engineer, Trading Platform, C++
 Amsterdam
+Senior Software Engineer, Trading Platform, C++
+Chicago
 Senior Software Engineer, Trading Platform, C++
 London
 Senior Software Engineer, Trading Team
@@ -54,11 +56,11 @@ Chicago
 Senior Software Engineer, Unified Platform - Trade Management, Trade & Order Processing, Platform Services
 London
 Software Developer
+Chicago
+Software Developer
 London
 Software Developer
 Montréal
-Software Developer
-Chicago
 Software Developer
 Montréal
 Software Developer - DevOps
@@ -80,9 +82,9 @@ London
 Software Engineer - Cumberland/FICCO Front Office Systems
 New York City
 Software Engineer - Cumberland/FICCO Front Office Systems
-Chicago
-Software Engineer - Cumberland/FICCO Front Office Systems
 London
+Software Engineer - Cumberland/FICCO Front Office Systems
+Chicago
 Software Engineer - Cumberland/FICCO Front Office Systems
 Greenwich
 Software Engineer Intern (Data Engineering)
