@@ -1,22 +1,7 @@
 # Latest Scraper Results
 
-## 2026-09-05 07:15:49
+## 2026-09-06 07:28:17
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
-
-**Line changes detected!**
-
-```diff
-No line changes.
-```
-
----
-### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
-
-**Line changes detected!**
-
-```diff
-+ Trader
-```
+**No changes for today**
 
 ---
