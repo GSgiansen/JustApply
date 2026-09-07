@@ -28,6 +28,9 @@ Connect
 Bucharest
 Software Engineer, Intern
 University
+Singapore
+Software Engineer, Intern
+University
 London
 Software Engineer, Intern
 University
@@ -74,9 +77,6 @@ Seattle
 Software Engineer, New Grad
 University
 South San Francisco HQ
-Software Engineer, New Grad - Frontend
-University
-Barcelona
 1
 2
 Prev
