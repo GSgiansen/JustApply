@@ -18,9 +18,9 @@ Location
 AI Full Stack Software Developer
 Montréal
 Python Software Engineer, Trading Platform
-New York City
-Python Software Engineer, Trading Platform
 London
+Python Software Engineer, Trading Platform
+New York City
 Senior Software Engineer
 Singapore
 Senior Software Engineer
@@ -28,11 +28,11 @@ Tel Aviv
 Senior Software Engineer, C++ (Algo)
 Chicago
 Senior Software Engineer, C/FICCO Data
-Chicago
-Senior Software Engineer, C/FICCO Data
 New York City
 Senior Software Engineer, C/FICCO Data
 London
+Senior Software Engineer, C/FICCO Data
+Chicago
 Senior Software Engineer - DeFi
 Chicago
 Senior Software Engineer, Finance (Clojure)
@@ -40,11 +40,11 @@ Chicago
 Senior Software Engineer - Research Technology
 London
 Senior Software Engineer, Trading Platform, C++
+Amsterdam
+Senior Software Engineer, Trading Platform, C++
 Chicago
 Senior Software Engineer, Trading Platform, C++
 London
-Senior Software Engineer, Trading Platform, C++
-Amsterdam
 Senior Software Engineer, Trading Team
 London, Singapore
 Senior Software Engineer, Treasury and Reference Data (Java/Ruby/Python)
@@ -66,13 +66,13 @@ Chicago
 Software Developer - DevOps
 Montréal
 Software Developer Intern
-London
-Software Developer Intern
-Montréal
-Software Developer Intern
 Amsterdam
 Software Developer Intern
 Chicago
+Software Developer Intern
+Montréal
+Software Developer Intern
+London
 Software Developer Intern (C++)
 Singapore
 Software Developer (Research)
@@ -80,19 +80,21 @@ Montréal
 Software Engineer (Commodities Data Team)
 London
 Software Engineer - Cumberland/FICCO Front Office Systems
-Chicago
-Software Engineer - Cumberland/FICCO Front Office Systems
-Greenwich
+London
 Software Engineer - Cumberland/FICCO Front Office Systems
 New York City
 Software Engineer - Cumberland/FICCO Front Office Systems
-London
+Greenwich
+Software Engineer - Cumberland/FICCO Front Office Systems
+Chicago
 Software Engineer Intern (Data Engineering)
 Singapore
 Software Engineer, Research – Cumberland Systematic
 London
 Software Engineer, Research – Cumberland Systematic
 London
+Software Engineer - Research Technology
+Singapore
 Software Engineer, Trading – Cumberland Systematic
 London
 Systems Software Engineer
