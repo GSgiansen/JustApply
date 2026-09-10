@@ -18,21 +18,21 @@ Location
 AI Full Stack Software Developer
 Montréal
 Python Software Engineer, Trading Platform
-New York City
-Python Software Engineer, Trading Platform
 London
-Senior Software Engineer
-Tel Aviv
+Python Software Engineer, Trading Platform
+New York City
 Senior Software Engineer
 Singapore
+Senior Software Engineer
+Tel Aviv
 Senior Software Engineer, C++ (Algo)
 Chicago
 Senior Software Engineer, C/FICCO Data
+New York City
+Senior Software Engineer, C/FICCO Data
 London
 Senior Software Engineer, C/FICCO Data
 Chicago
-Senior Software Engineer, C/FICCO Data
-New York City
 Senior Software Engineer - DeFi
 Chicago
 Senior Software Engineer, Finance (Clojure)
@@ -56,23 +56,23 @@ Chicago
 Senior Software Engineer, Unified Platform - Trade Management, Trade & Order Processing, Platform Services
 London
 Software Developer
-Chicago
-Software Developer
-Montréal
-Software Developer
 Montréal
 Software Developer
 London
-Software Developer - DevOps
+Software Developer
 Montréal
-Software Developer Intern
+Software Developer
 Chicago
-Software Developer Intern
+Software Developer - DevOps
 Montréal
 Software Developer Intern
 London
 Software Developer Intern
 Amsterdam
+Software Developer Intern
+Chicago
+Software Developer Intern
+Montréal
 Software Developer Intern (C++)
 Singapore
 Software Developer (Research)
@@ -80,13 +80,13 @@ Montréal
 Software Engineer (Commodities Data Team)
 London
 Software Engineer - Cumberland/FICCO Front Office Systems
-Chicago
+London
 Software Engineer - Cumberland/FICCO Front Office Systems
 Greenwich
 Software Engineer - Cumberland/FICCO Front Office Systems
 New York City
 Software Engineer - Cumberland/FICCO Front Office Systems
-London
+Chicago
 Software Engineer Intern (Data Engineering)
 Singapore
 Software Engineer, Research – Cumberland Systematic
