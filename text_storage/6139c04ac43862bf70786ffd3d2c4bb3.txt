@@ -21,17 +21,17 @@ London
 Experience
 Students and New Grads
 Copy URL
+2027 – Graduate or Internship, Infrastructure Engineer
+London
+,
+Paris
+View opportunity
 2027 - Internship, Data Engineering
 London
 ,
 Paris
 View opportunity
-2027 Internship/Graduate - FPGA Engineering
-London
-,
-Paris
-View opportunity
-2027 Internship/Graduate - Infrastructure Engineering
+2027 – Internship or Graduate, FPGA Engineering
 London
 ,
 Paris
@@ -51,7 +51,7 @@ Paris
 ,
 Zurich
 View opportunity
-2027 Internship - Security Engineering
+2027 Internship – Security Engineer
 London
 ,
 Paris
