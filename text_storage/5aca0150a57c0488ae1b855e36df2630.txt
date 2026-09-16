@@ -23,6 +23,15 @@ Bengaluru
 Operations Associate, New Grad (Mexico)
 Operations
 Mexico City
+Product Manager: New Grad Accelerator
+University
+New York
+Product Manager: New Grad Accelerator
+University
+Seattle
+Product Manager: New Grad Accelerator
+University
+South San Francisco HQ
 Software Engineer, Connect Tax Reporting
 Connect
 Bucharest
@@ -68,15 +77,6 @@ Bucharest
 Software Engineer, New Grad
 University
 Dublin HQ
-Software Engineer, New Grad
-University
-New York
-Software Engineer, New Grad
-University
-Seattle
-Software Engineer, New Grad
-University
-South San Francisco HQ
 1
 2
 Prev
