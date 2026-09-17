@@ -1,14 +1,13 @@
 # Latest Scraper Results
 
-## 2026-09-16 08:06:25
+## 2026-09-17 08:12:21
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
 
 **Line changes detected!**
 
 ```diff
-+ Product Manager: New Grad Accelerator x3
-- Software Engineer, New Grad x3
++ YouTube
 ```
 
 ---
@@ -17,10 +16,7 @@
 **Line changes detected!**
 
 ```diff
-- Chicago
-+ London
-- Montréal
-- Senior Software Developer
+No line changes.
 ```
 
 ---
