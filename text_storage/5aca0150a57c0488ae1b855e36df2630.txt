@@ -35,6 +35,18 @@ South San Francisco HQ
 Software Engineer, Connect Tax Reporting
 Connect
 Bucharest
+Software Engineer, Early Career — Immediate Start
+University
+Toronto
+Software Engineer, Early Career — Immediate Start
+University
+New York
+Software Engineer, Early Career — Immediate Start
+University
+Seattle
+Software Engineer, Early Career — Immediate Start
+University
+South San Francisco HQ
 Software Engineer, Intern
 University
 Singapore
@@ -65,18 +77,6 @@ Dublin HQ
 Software Engineer, New Grad
 University
 Singapore
-Software Engineer, New Grad
-University
-Toronto
-Software Engineer, New Grad
-University
-London
-Software Engineer, New Grad
-University
-Bucharest
-Software Engineer, New Grad
-University
-Dublin HQ
 1
 2
 Prev

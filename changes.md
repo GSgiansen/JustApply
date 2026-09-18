@@ -1,13 +1,20 @@
 # Latest Scraper Results
 
-## 2026-09-17 08:12:21
+## 2026-09-18 07:47:23
 
-### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-+ YouTube
+- Bucharest
+- Dublin HQ
+- London
++ New York
++ Seattle
++ Software Engineer, Early Career — Immediate Start x4
+- Software Engineer, New Grad x4
++ South San Francisco HQ
 ```
 
 ---
@@ -16,7 +23,8 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Singapore
++ Software Developer (C++)
 ```
 
 ---
