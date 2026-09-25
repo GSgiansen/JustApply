@@ -1,47 +1,33 @@
-Careers | Quantedge
-Please be cautious of fraudsters and scammers impersonating Quantedge Capital, and its employees.
-Learn more
-Quantedge Global Master Fund
-Our Team
-News & Insights
-Alerts & Advisories
-Investor Enquiries
-Quantedge Global Master Fund
-Our Team
-News & Insights
-Alerts & Advisories
-Social
-Investor Enquiries
-Careers
-A journey in the pursuit of excellence.
-Quantedge is constantly on the lookout for driven team players. We provide an intellectually challenging environment where talented individuals can work together to produce exceptional results.
-Job Openings
-We are currently recruiting for the following role(s):
-Role
-Quantedge Capital 2027 Analyst Recruitment - Technology
-Singapore
-Apply Now
-Copyright © 2026 Quantedge Capital Pte Ltd. All rights reserved.
-Company
-Home
-Quantedge Global Master Fund
-Our Leadership
-Our People
-Careers
-News and Insights
-Locations
-Investor
-Investor Enquiries
-Social
-Legal
-Alerts & Advisories
-Privacy Policy
-Terms of Use
-Copyright © 2026 Quantedge Capital Pte Ltd.
-All rights reserved.
-This website is owned and operated by Quantedge Capital Pte. Ltd. (UEN: 200606536N), a holder of a Capital Markets Services Licence (Licence No. CMS100222) for fund management and regulated by the Monetary Authority of Singapore.
-This website is for informational purposes only and does not constitute a solicitation for investment in the company described herein, nor does it constitute an offer for sale of shares issued by the company or its affiliates. "Quantedge", wherever used, means Quantedge Capital Pte Ltd. and its affiliates, their officers, directors, managing directors, partners and employees.
-"This website" or "Quantedge Site" means the website of Quantedge located at quantedge.com and whatever domains owned by Quantedge that direct the public to the content located at quantedge.com. Please read the
-Terms of Use
-carefully before using the Quantedge Site. Quantedge reserves the right to change, modify, add or remove portions of the Terms of Use at any time for any reason and in our sole discretion. We suggest that you periodically review the Terms of Use for amendments. The Terms of Use will indicate the date they were last amended. By accessing or using the Quantedge Site, you hereby fully accept and agree to abide by the Terms of Use as modified from time to time.
-The Terms of Use are a binding agreement between you and Quantedge, and governs your access and use of the Quantedge Site, which includes any information, data and other content made available on or through (including any requests made by you through) the Quantedge Site. If you do not accept the terms and conditions stated in the Terms of Use, you are not an authorized user of the Quantedge Site and should not use the Quantedge Site.
+quantedge.com | 522: Connection timed out
+Connection timed out
+Error code 522
+Visit
+cloudflare.com
+for more information.
+2026-09-25 08:22:07 UTC
+You
+Browser
+Working
+Minneapolis
+Cloudflare
+Working
+www.quantedge.com
+Host
+Error
+What happened?
+The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.
+What can I do?
+If you're a visitor of this website:
+Please try again in a few minutes.
+If you're the owner of this website:
+Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.
+Additional troubleshooting information here.
+Cloudflare Ray ID:
+a4089e0ed8fbff48
+•
+Your IP:
+Click to reveal
+172.171.12.34
+•
+Performance & security by
+Cloudflare
