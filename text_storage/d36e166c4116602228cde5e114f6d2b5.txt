@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-0 Items
+6 Items
 Save this search
 Sort by
 Relevance
@@ -34,12 +34,54 @@ Full time employment
 Internship
 Short term employment
 Location
+London, UK
 Singapore
+Menlo Park, CA
+New York, NY
+Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-There are currently no open roles matching your search.
-Log in or sign up for Career Profile to save your search and get alerts when opportunities open.
+Production Engineer Intern
+Bellevue, WA
+⋅
+Menlo Park, CA
+Infrastructure
+Production Engineering
+Production Engineer Intern
+London, UK
+Infrastructure
+Production Engineering
+Network Production Engineer Intern
+Dublin, Ireland
+⋅
+London, UK
+Infrastructure
+Network Engineering
+Network Production Engineer Intern
+Menlo Park, CA
+Infrastructure
+Network Engineering
+Research Scientist Intern, AI Alignment
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+Boston, MA
+⋅
+New York, NY
+AI Research
+Artificial Intelligence
+Internship - PhD
+Research
+Machine Learning
+Research Scientist Intern, Optical System Design (PhD)
+Redmond, WA
+⋅
+Menlo Park, CA
+Internship - PhD
+Research
+Page 1 of 1
 Job Search
 Technology Teams
 Artificial Intelligence
