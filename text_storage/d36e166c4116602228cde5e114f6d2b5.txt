@@ -43,12 +43,6 @@ Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
 Production Engineer Intern
-Bellevue, WA
-⋅
-Menlo Park, CA
-Infrastructure
-Production Engineering
-Production Engineer Intern
 London, UK
 Infrastructure
 Production Engineering
@@ -62,6 +56,12 @@ Network Production Engineer Intern
 Menlo Park, CA
 Infrastructure
 Network Engineering
+Production Engineer Intern
+Bellevue, WA
+⋅
+Menlo Park, CA
+Infrastructure
+Production Engineering
 Research Scientist Intern, AI Alignment
 Menlo Park, CA
 ⋅
