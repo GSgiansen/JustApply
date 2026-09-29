@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-6 Items
+7 Items
 Save this search
 Sort by
 Relevance
@@ -42,16 +42,25 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-Production Engineer Intern
-London, UK
-Infrastructure
-Production Engineering
+Data Engineer Intern, Product Analytics (Summer 2027)
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+New York, NY
+Data & Analytics
+Internship - Engineering, Tech & Design
+Data Engineering
 Network Production Engineer Intern
 Dublin, Ireland
 ⋅
 London, UK
 Infrastructure
 Network Engineering
+Production Engineer Intern
+London, UK
+Infrastructure
+Production Engineering
 Network Production Engineer Intern
 Menlo Park, CA
 Infrastructure
