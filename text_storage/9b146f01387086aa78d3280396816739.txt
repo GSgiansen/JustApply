@@ -22,17 +22,17 @@ New York City
 Senior Software Developer
 Montréal
 Senior Software Engineer
-Tel Aviv
-Senior Software Engineer
 Singapore
+Senior Software Engineer
+Tel Aviv
 Senior Software Engineer, C++ (Algo)
 Chicago
 Senior Software Engineer, C/FICCO Data
 London
 Senior Software Engineer, C/FICCO Data
-New York City
-Senior Software Engineer, C/FICCO Data
 Chicago
+Senior Software Engineer, C/FICCO Data
+New York City
 Senior Software Engineer - DeFi
 Chicago
 Senior Software Engineer (Options)
@@ -54,21 +54,21 @@ Chicago
 Senior Software Engineer, Unified Platform - Trade Management, Trade & Order Processing, Platform Services
 London
 Software Developer
-Chicago
+London
 Software Developer
 Montréal
 Software Developer
-London
+Chicago
 Software Developer - DevOps
 Montréal
 Software Developer Intern
-Montréal
-Software Developer Intern
-Amsterdam
-Software Developer Intern
 Chicago
 Software Developer Intern
 London
+Software Developer Intern
+Amsterdam
+Software Developer Intern
+Montréal
 Software Developer Intern (C++)
 Singapore
 Software Developer Intern (Python)
@@ -80,11 +80,11 @@ London
 Software Engineer - Cumberland/FICCO Front Office Systems
 London
 Software Engineer - Cumberland/FICCO Front Office Systems
+New York City
+Software Engineer - Cumberland/FICCO Front Office Systems
 Chicago
 Software Engineer - Cumberland/FICCO Front Office Systems
 Greenwich
-Software Engineer - Cumberland/FICCO Front Office Systems
-New York City
 Software Engineer Intern (Data Engineering)
 Singapore
 Software Engineer, Research – Cumberland Systematic

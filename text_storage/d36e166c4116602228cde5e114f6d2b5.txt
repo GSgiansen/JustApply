@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-7 Items
+8 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,14 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+DFX Engineering Intern
+Sunnyvale, CA
+⋅
+Seattle, WA
+AR/VR
+Facebook Reality Labs
+Engineering
+Hardware
 Data Engineer Intern, Product Analytics (Summer 2027)
 Menlo Park, CA
 ⋅
