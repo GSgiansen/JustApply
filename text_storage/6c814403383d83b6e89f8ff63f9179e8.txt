@@ -61,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-4
+5
 jobs matched
 Clear filters
 What do you want to do?
@@ -146,7 +146,7 @@ English
 English
 Français (Canada)
 Jobs search results
-4
+5
 jobs matched
 filter_list
 Software Engineering or SRE, PhD Intern, 2027
@@ -185,6 +185,27 @@ Experience with research from previous internships, full-time industry experienc
 Learn more
 share
 Share Research Scientist PhD Intern, 2027
+link
+Copy link
+email
+Email a friend
+Forward Deployed Engineering Intern, BS/MS, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a Bachelor's or Master's degree in Computer Science or a related technical field in the EMEA region.
+Relevant internship or practical experience with software development using Python or a similar coding languages.
+Relevant internship or practical experience taking production-grade AI-driven solutions from conception to launch and architecting AI systems on cloud platforms (e.g., Google Cloud Platform (GCP)).
+Relevant internship or practical experience building pipelines for structured and unstructured data using both vector databases and RAG-like architectures to power enterprise AI solutions.
+Learn more
+share
+Share Forward Deployed Engineering Intern, BS/MS, 2027
 link
 Copy link
 email
@@ -229,8 +250,8 @@ link
 Copy link
 email
 Email a friend
-Showing 1 to 4 of 4 rows
-1‑4 of 4
+Showing 1 to 5 of 5 rows
+1‑5 of 5
 Follow Life at Google on
 More about us
 About us

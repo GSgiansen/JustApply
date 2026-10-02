@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-8 Items
+10 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,20 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Mechanical Engineering Intern, Infrastructure
+Menlo Park, CA
+University Grad - Engineering, Tech & Design
+Infrastructure
+AI Infrastructure
+Internship - Engineering, Tech & Design
+Hardware
+Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)
+Menlo Park, CA
+AI Research
+Internship - Engineering, Tech & Design
+Internship - PhD
+Research
+Artificial Intelligence
 DFX Engineering Intern
 Sunnyvale, CA
 ⋅

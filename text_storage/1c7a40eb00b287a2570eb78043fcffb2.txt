@@ -55,16 +55,21 @@ Important Disclosure
 Current job openings
 Careers
 All Departments
-Engineering & Trading
-Expeditions
 Operations
+Technology
+Trading & Sales
 All Offices
 - Ho Chi Minh City
 - Kuala Lumpur
 - Singapore
 - - Kraków
 - New York
-Engineering & Trading
+Operations
+Post Trade Operations [US Coverage]
+Kuala Lumpur
+We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions
+View Details
+Technology
 Senior Software Engineer
 Singapore
 As a Senior Engineer you’ll be surrounded by smart and motivated colleagues with complimentary skillsets, offering a great platform for you to contribute ideas, commit code and help the team achieve tangible results
@@ -73,23 +78,18 @@ Software Engineer (Ho Chi Minh)
 Ho Chi Minh City
 As a Software Engineer at Caladan you will be part of a team responsible for owning a business area or application end to end
 View Details
-Quantitative Trader
-Singapore
-Caladan is seeking a Quant Trader to design, implement and manage systematic trading strategies across digital asset markets
-View Details
 Trading Platform Engineer
 Kraków
 As a Trading Platform Engineer you'll keep the systems that carry our orders to market fast, observable and dependable
 View Details
-Expeditions
+Trading & Sales
 Institutional Partnerships Manager
 New York
 At Caladan, we believe that accessing digital asset liquidity should be seamless, fast, and tailored
 View Details
-Operations
-Post Trade Operations [US Coverage]
-Kuala Lumpur
-We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions
+Quantitative Trader
+Singapore
+Caladan is seeking a Quant Trader to design, implement and manage systematic trading strategies across digital asset markets
 View Details
 No Jobs Found
 At Caladan we take our work seriously but not ourselves. Here you’ll find a radically self-directed environment and a level of trust that is highly unusual for our industry. See our

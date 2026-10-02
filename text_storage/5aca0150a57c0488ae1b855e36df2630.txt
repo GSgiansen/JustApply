@@ -17,6 +17,21 @@ Role type
 filters
 selected
 Clear all filters
+Data Analyst, Intern
+University
+Chicago
+Data Analyst, Intern
+University
+New York
+Data Analyst, Intern
+University
+Seattle
+Data Analyst, Intern
+University
+South San Francisco HQ
+Data Analyst, Intern
+University
+Toronto
 Financial Data Analyst Intern, Technical Operations
 Payments
 Singapore
@@ -38,6 +53,21 @@ Bengaluru
 Operations Associate, New Grad (Mexico)
 Operations
 Mexico City
+PhD Data Scientist, Intern
+University
+Toronto
+PhD Data Scientist, Intern
+University
+Chicago
+PhD Data Scientist, Intern
+University
+New York
+PhD Data Scientist, Intern
+University
+Seattle
+PhD Data Scientist, Intern
+University
+South San Francisco HQ
 Product Manager: New Grad Accelerator
 University
 New York
@@ -47,40 +77,11 @@ Seattle
 Product Manager: New Grad Accelerator
 University
 South San Francisco HQ
-Software Engineer, Connect Tax Reporting
-Connect
-Bucharest
-Software Engineer, Early Career — Immediate Start
-University
-Toronto
-Software Engineer, Early Career — Immediate Start
-University
-New York
-Software Engineer, Early Career — Immediate Start
-University
-Seattle
-Software Engineer, Early Career — Immediate Start
-University
-South San Francisco HQ
-Software Engineer, Intern
-University
-Singapore
-Software Engineer, Intern
-University
-London
-Software Engineer, Intern
-University
-Bucharest
-Software Engineer, Intern
-University
-Bengaluru
-Software Engineer, Intern (Summer or Winter)
-University
-Toronto
 1
 2
+3
 Prev
-1 of 2
+1 of 3
 Next
 Help us improve the conditions for economic growth and prosperity
 We embrace diverse perspectives, ideas, and backgrounds at Stripe. We’re committed to providing equal employment opportunities for all applicants and employees. Stripe doesn’t discriminate on the basis of any protected characteristic, including race, color, ancestry, national origin, religion (including religious dress), creed, age, disability (mental and physical), sex, gender (including pregnancy, childbirth, breastfeeding, or related medical conditions), sexual orientation, gender identity, gender expression, medical condition, genetic information, family care or medical leave status, marital status, domestic partner status, military and veteran status (including military spouse status), or any other characteristic protected by US federal, state or local laws, or the laws of the country or jurisdiction where you work.
