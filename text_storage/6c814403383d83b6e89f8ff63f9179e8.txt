@@ -61,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-5
+9
 jobs matched
 Clear filters
 What do you want to do?
@@ -146,10 +146,48 @@ English
 English
 Français (Canada)
 Jobs search results
-5
+9
 jobs matched
 filter_list
-Software Engineering or SRE, PhD Intern, 2027
+Associate Product Marketing Manager BS/MS Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a Bachelor's or Master's degree program.
+Relevant practical or internship experience in marketing, brand management, strategy consulting, marketing agency, technology or a related field through full time roles, internships, projects or academic classes.
+Learn more
+share
+Share Associate Product Marketing Manager BS/MS Intern, 2027
+link
+Copy link
+email
+Email a friend
+Data Center Facilities Technician Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in an educational program relevant to the job qualifications or an accredited full-time Bachelor's or Master's degree program located in the EMEA region.
+Relevant practical or internship experience in Mechanical/Heating, Ventilation, Air Conditioning (HVAC), or electrical experience (e.g., electrical testing equipment or electrical distribution) in an industrial or commercial environment.
+Learn more
+share
+Share Data Center Facilities Technician Intern, 2027
+link
+Copy link
+email
+Email a friend
+Software Engineering PhD Intern, 2027
 corporate_fare
 Google
 place
@@ -164,12 +202,12 @@ Experience working with data structures and algorithms during coursework/project
 Experience with one or more general purpose programming languages (e.g., Java, C/C++, Python, JavaScript, Go, etc.).
 Learn more
 share
-Share Software Engineering or SRE, PhD Intern, 2027
+Share Software Engineering PhD Intern, 2027
 link
 Copy link
 email
 Email a friend
-Research Scientist PhD Intern, 2027
+Data Center Technician Intern, 2027
 corporate_fare
 Google
 place
@@ -179,12 +217,11 @@ Intern & Apprentice
 Google |
 London, UK
 Minimum qualifications
-Currently enrolled in a PhD degree in Computer Science or a related technical field in the EMEA region, and in your penultimate/final year of education.
-Experience in one or more research areas; natural language understanding/processing, computer vision, LLMs, machine learning, algorithmic foundations of optimization, data mining, machine intelligence (Artificial Intelligence), AI/ML algorithms, deep learning or image processing, multimodal, multilingual and reinforcement learning.
-Experience with research from previous internships, full-time industry experience, personal projects, lab work, or published papers (being listed as author).
+Currently enrolled in an educational program relevant to the job qualifications or an accredited full-time Bachelor's or Master's degree program located in the EMEA region.
+Relevant practical or internship experience in diagnosing and troubleshooting one of the following: operating systems, computer/server hardware, or networking protocols.
 Learn more
 share
-Share Research Scientist PhD Intern, 2027
+Share Data Center Technician Intern, 2027
 link
 Copy link
 email
@@ -206,6 +243,48 @@ Relevant internship or practical experience building pipelines for structured an
 Learn more
 share
 Share Forward Deployed Engineering Intern, BS/MS, 2027
+link
+Copy link
+email
+Email a friend
+Associate Product Manager BS/MS Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a Bachelor's or Master's degree in Product Management, Computer Science, Engineering, Data Science, Mathematics, Statistics or a related technical field in the EMEA region.
+Relevant practical or internship experience, or relevant teaching assistant experience in software development, product management or a technical related field.
+Relevant practical or internship experience preparing and delivering technical presentations to an audience.
+Relevant practical or internship experience leading entrepreneurial efforts or outreach within organizations while building cross-functional relationships.
+Learn more
+share
+Share Associate Product Manager BS/MS Intern, 2027
+link
+Copy link
+email
+Email a friend
+Strategy and Operations MBA Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a MBA degree program in the EMEA region.
+Relevant internship or practical experience in strategy consulting, finance or corporate strategy.
+Relevant internship or practical experience tailoring and delivering reporting and presentations by audience, asking strategic questions, and leading conversations that drive results and efficiencies.
+Relevant internship or practical experience presenting to senior stakeholders, both in presentation and in creating content that is executive-ready.
+Learn more
+share
+Share Strategy and Operations MBA Intern, 2027
 link
 Copy link
 email
@@ -250,8 +329,8 @@ link
 Copy link
 email
 Email a friend
-Showing 1 to 5 of 5 rows
-1‑5 of 5
+Showing 1 to 9 of 9 rows
+1‑9 of 9
 Follow Life at Google on
 More about us
 About us

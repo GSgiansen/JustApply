@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-10 Items
+11 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,15 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Product Design Engineering Intern
+Sunnyvale, CA
+⋅
+Redmond, WA
+⋅
+Seattle, WA
+Facebook Reality Labs
+Meta Quest
+Engineering
 Mechanical Engineering Intern, Infrastructure
 Menlo Park, CA
 University Grad - Engineering, Tech & Design
@@ -99,20 +108,7 @@ Bellevue, WA
 Menlo Park, CA
 Infrastructure
 Production Engineering
-Research Scientist Intern, AI Alignment
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-Boston, MA
-⋅
-New York, NY
-AI Research
-Artificial Intelligence
-Internship - PhD
-Research
-Machine Learning
-Page 1 of 1
+Page 1 of 2
 Job Search
 Technology Teams
 Artificial Intelligence

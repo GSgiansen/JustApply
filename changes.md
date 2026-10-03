@@ -1,65 +1,64 @@
 # Latest Scraper Results
 
-## 2026-10-02 09:12:37
+## 2026-10-03 08:46:07
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
-
-**Line changes detected!**
-
-```diff
-- 1 of 2
-+ 1 of 3
-+ 3
-- Bengaluru
-- Bucharest x2
-+ Chicago x2
-- Connect
-+ Data Analyst, Intern x5
-- London
-+ New York
-+ PhD Data Scientist, Intern x5
-+ Seattle
-- Singapore
-- Software Engineer, Connect Tax Reporting
-- Software Engineer, Early Career — Immediate Start x4
-- Software Engineer, Intern x4
-- Software Engineer, Intern (Summer or Winter)
-+ South San Francisco HQ
-+ University
-```
-
----
 ### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
 
 **Line changes detected!**
 
 ```diff
-- 1‑4 of 4
-+ 1‑5 of 5
-- 4 x2
-+ 5 x2
-+ Copy link
-+ Currently enrolled in a Bachelor's or Master's degree in Computer Science or a related technical field in the EMEA region.
-+ Email a friend
-+ Forward Deployed Engineering Intern, BS/MS, 2027
-+ Google
-+ Google |
-+ Intern & Apprentice
-+ Learn more
-+ London, UK x2
-+ Minimum qualifications
-+ Relevant internship or practical experience building pipelines for structured and unstructured data using both vector databases and RAG-like architectures to power enterprise AI solutions.
-+ Relevant internship or practical experience taking production-grade AI-driven solutions from conception to launch and architecting AI systems on cloud platforms (e.g., Google Cloud Platform (GCP)).
-+ Relevant internship or practical experience with software development using Python or a similar coding languages.
-+ Share Forward Deployed Engineering Intern, BS/MS, 2027
-- Showing 1 to 4 of 4 rows
-+ Showing 1 to 5 of 5 rows
-+ bar_chart
-+ corporate_fare
-+ email
-+ link
-+ place
-+ share
+- 1‑5 of 5
++ 1‑9 of 9
+- 5 x2
++ 9 x2
++ Associate Product Manager BS/MS Intern, 2027
++ Associate Product Marketing Manager BS/MS Intern, 2027
++ Copy link x4
++ Currently enrolled in a Bachelor's or Master's degree in Product Management, Computer Science, Engineering, Data Science, Mathematics, Statistics or a related technical field in the EMEA region.
++ Currently enrolled in a Bachelor's or Master's degree program.
++ Currently enrolled in a MBA degree program in the EMEA region.
+- Currently enrolled in a PhD degree in Computer Science or a related technical field in the EMEA region, and in your penultimate/final year of education.
++ Currently enrolled in an educational program relevant to the job qualifications or an accredited full-time Bachelor's or Master's degree program located in the EMEA region. x2
++ Data Center Facilities Technician Intern, 2027
++ Data Center Technician Intern, 2027
++ Email a friend x4
+- Experience in one or more research areas; natural language understanding/processing, computer vision, LLMs, machine learning, algorithmic foundations of optimization, data mining, machine intelligence (Artificial Intelligence), AI/ML algorithms, deep learning or image processing, multimodal, multilingual and reinforcement learning.
+- Experience with research from previous internships, full-time industry experience, personal projects, lab work, or published papers (being listed as author).
++ Google x4
++ Google | x4
++ Intern & Apprentice x4
++ Learn more x4
++ London, UK x8
++ Minimum qualifications x4
++ Relevant internship or practical experience in strategy consulting, finance or corporate strategy.
++ Relevant internship or practical experience presenting to senior stakeholders, both in presentation and in creating content that is executive-ready.
++ Relevant internship or practical experience tailoring and delivering reporting and presentations by audience, asking strategic questions, and leading conversations that drive results and efficiencies.
++ Relevant practical or internship experience in Mechanical/Heating, Ventilation, Air Conditioning (HVAC), or electrical experience (e.g., electrical testing equipment or electrical distribution) in an industrial or commercial environment.
++ Relevant practical or internship experience in diagnosing and troubleshooting one of the following: operating systems, computer/server hardware, or networking protocols.
++ Relevant practical or internship experience in marketing, brand management, strategy consulting, marketing agency, technology or a related field through full time roles, internships, projects or academic classes.
++ Relevant practical or internship experience leading entrepreneurial efforts or outreach within organizations while building cross-functional relationships.
++ Relevant practical or internship experience preparing and delivering technical presentations to an audience.
++ Relevant practical or internship experience, or relevant teaching assistant experience in software development, product management or a technical related field.
+- Research Scientist PhD Intern, 2027
++ Share Associate Product Manager BS/MS Intern, 2027
++ Share Associate Product Marketing Manager BS/MS Intern, 2027
++ Share Data Center Facilities Technician Intern, 2027
++ Share Data Center Technician Intern, 2027
+- Share Research Scientist PhD Intern, 2027
++ Share Software Engineering PhD Intern, 2027
+- Share Software Engineering or SRE, PhD Intern, 2027
++ Share Strategy and Operations MBA Intern, 2027
+- Showing 1 to 5 of 5 rows
++ Showing 1 to 9 of 9 rows
++ Software Engineering PhD Intern, 2027
+- Software Engineering or SRE, PhD Intern, 2027
++ Strategy and Operations MBA Intern, 2027
++ bar_chart x4
++ corporate_fare x4
++ email x4
++ link x4
++ place x4
++ share x4
 ```
 
 ---
@@ -68,20 +67,26 @@
 **Line changes detected!**
 
 ```diff
-+ 10 Items
-- 8 Items
-+ AI Infrastructure
-+ AI Research
-+ Artificial Intelligence
-+ Hardware
-+ Infrastructure
-+ Internship - Engineering, Tech & Design x2
-+ Internship - PhD
-+ Mechanical Engineering Intern, Infrastructure
-+ Menlo Park, CA x2
-+ Research
-+ Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)
-+ University Grad - Engineering, Tech & Design
+- 10 Items
++ 11 Items
+- AI Research
+- Artificial Intelligence
+- Boston, MA
++ Engineering
++ Facebook Reality Labs
+- Internship - PhD
+- Machine Learning
+- Menlo Park, CA
++ Meta Quest
+- New York, NY
+- Page 1 of 1
++ Page 1 of 2
++ Product Design Engineering Intern
++ Redmond, WA
+- Research
+- Research Scientist Intern, AI Alignment
++ Sunnyvale, CA
+- ⋅
 ```
 
 ---
@@ -90,22 +95,7 @@
 **Line changes detected!**
 
 ```diff
-+ Chicago
-- London
-+ Senior Software Engineer, Low Latency
-+ Singapore
-```
-
----
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
-
-**Line changes detected!**
-
-```diff
-- Engineering & Trading x2
-- Expeditions x2
-+ Technology x2
-+ Trading & Sales x2
+No line changes.
 ```
 
 ---
