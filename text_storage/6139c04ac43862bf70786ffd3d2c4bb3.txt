@@ -43,8 +43,6 @@ Budapest
 ,
 Dubai
 ,
-Geneva
-,
 London
 ,
 Paris
@@ -64,9 +62,6 @@ Paris
 Wrocław
 ,
 Zurich
-View opportunity
-QRT Travel Grant to NeurIPS 2026 – Apply Here
-London
 View opportunity
 Quantitative Researcher – PhD & Postdoc Opportunities
 London

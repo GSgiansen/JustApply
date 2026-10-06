@@ -61,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-9
+10
 jobs matched
 Clear filters
 What do you want to do?
@@ -146,7 +146,7 @@ English
 English
 Français (Canada)
 Jobs search results
-9
+10
 jobs matched
 filter_list
 Associate Product Marketing Manager BS/MS Intern, 2027
@@ -164,6 +164,31 @@ Relevant practical or internship experience in marketing, brand management, stra
 Learn more
 share
 Share Associate Product Marketing Manager BS/MS Intern, 2027
+link
+Copy link
+email
+Email a friend
+Student Researcher, 2027
+corporate_fare
+Google
+place
+Zürich, Switzerland
+; Berlin, Germany
+; +8 more
+; +7 more
+bar_chart
+Intern & Apprentice
+Google |
+Zürich, Switzerland
+; Berlin, Germany
+; +8 more
+; +7 more
+Minimum qualifications
+Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences, or equivalent practical experience.
+Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Generative Media, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).
+Learn more
+share
+Share Student Researcher, 2027
 link
 Copy link
 email
@@ -329,8 +354,8 @@ link
 Copy link
 email
 Email a friend
-Showing 1 to 9 of 9 rows
-1‑9 of 9
+Showing 1 to 10 of 10 rows
+1‑10 of 10
 Follow Life at Google on
 More about us
 About us

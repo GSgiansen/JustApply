@@ -76,29 +76,44 @@ Founded 2017
 Job Listings
 Open roles
 We hire in engineering, quantitative trading, partnerships, and operations. If you do not see a role that fits you, write to us.
-Institutional Partnerships Manager
+Team
+All Teams
 Trading & Sales
+Technology
+Operations
+Location
+All Locations
+Ho Chi Minh City
+Kraków
+Kuala Lumpur
+New York
+Singapore
+Trading & Sales
+Institutional Partnerships Manager
+New York
 At Caladan, we believe that accessing digital asset liquidity should be seamless, fast, and tailored.
 View Details
-Post Trade Operations [US Coverage]
-Operations
-We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions.
-View Details
 Quantitative Trader
-Trading & Sales
+Singapore
 Caladan is seeking a Quant Trader to design, implement and manage systematic trading strategies across digital asset markets.
 View Details
-Senior Software Engineer
 Technology
+Senior Software Engineer
+Singapore
 As a Senior Engineer you’ll be surrounded by smart and motivated colleagues with complimentary skillsets, offering a great platform for you to contribute ideas, commit code and help the team achieve tangible results.
 View Details
 Software Engineer (Ho Chi Minh)
-Technology
+Ho Chi Minh City
 As a Software Engineer at Caladan you will be part of a team responsible for owning a business area or application end to end.
 View Details
-Trading Platform Engineer
-Technology
+Software Engineer (Kraków)
+Kraków
 As a Trading Platform Engineer you'll keep the systems that carry our orders to market fast, observable and dependable.
+View Details
+Operations
+Post Trade Operations [US Coverage]
+Kuala Lumpur
+We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions.
 View Details
 Loading...
 Jobs not found

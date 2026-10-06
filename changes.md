@@ -1,118 +1,118 @@
 # Latest Scraper Results
 
-## 2026-10-05 09:51:48
+## 2026-10-06 09:40:32
 
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Line changes detected!**
+
+```diff
++ Communications
++ Junior Commercial Associate — Works in Progress
++ London
+- Product Manager: New Grad Accelerator
+- South San Francisco HQ
+- University
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
+
+**Line changes detected!**
+
+```diff
++ 10 x2
++ 1‑10 of 10
+- 1‑9 of 9
+- 9 x2
++ ; +7 more x2
++ ; +8 more x2
++ ; Berlin, Germany x2
++ Copy link
++ Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences, or equivalent practical experience.
++ Email a friend
++ Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Generative Media, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).
++ Google
++ Google |
++ Intern & Apprentice
++ Learn more
++ Minimum qualifications
++ Share Student Researcher, 2027
++ Showing 1 to 10 of 10 rows
+- Showing 1 to 9 of 9 rows
++ Student Researcher, 2027
++ Zürich, Switzerland x2
++ bar_chart
++ corporate_fare
++ email
++ link
++ place
++ share
+```
+
+---
+### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
+
+**Line changes detected!**
+
+```diff
++ AR/VR
+- Bellevue, WA
++ Electrical Engineering Intern
++ Engineering
++ Facebook Reality Labs
++ Hardware
+- Infrastructure
++ Internship - Engineering, Tech & Design
+- Menlo Park, CA
++ New York, NY
+- Production Engineer Intern
+- Production Engineering
++ Sunnyvale, CA
+```
+
+---
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
++ London
++ Senior Software Engineer, Trading Platform, C++
+```
+
+---
 ### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
 
 **Line changes detected!**
 
 ```diff
-- !
-+ "I wanted the freedom to build a company and culture based on the core values I believe in – a workplace where people can work, and have fun doing so.”
-- - - Kraków
-- - Ho Chi Minh City
-+ - John Gu, Founder
-- - Kuala Lumpur
-- - New York
-- - Singapore
-+ .
-+ About Us
-- All Departments
-- All Offices
-+ Annual wellness allowance
-- As a Senior Engineer you’ll be surrounded by smart and motivated colleagues with complimentary skillsets, offering a great platform for you to contribute ideas, commit code and help the team achieve tangible results
-+ As a Senior Engineer you’ll be surrounded by smart and motivated colleagues with complimentary skillsets, offering a great platform for you to contribute ideas, commit code and help the team achieve tangible results.
-- As a Software Engineer at Caladan you will be part of a team responsible for owning a business area or application end to end
-+ As a Software Engineer at Caladan you will be part of a team responsible for owning a business area or application end to end.
-- As a Trading Platform Engineer you'll keep the systems that carry our orders to market fast, observable and dependable
-+ As a Trading Platform Engineer you'll keep the systems that carry our orders to market fast, observable and dependable.
-- At Caladan we take our work seriously but not ourselves. Here you’ll find a radically self-directed environment and a level of trust that is highly unusual for our industry. See our
-+ At Caladan you’ll find a radically self-directed environment and a level of trust that is highly unusual for our industry. We give people real latitude to move fast and to be judged on outcomes rather than face time — the same freedom described in
-- At Caladan, we believe that accessing digital asset liquidity should be seamless, fast, and tailored
-+ At Caladan, we believe that accessing digital asset liquidity should be seamless, fast, and tailored.
-+ Benefits
-- Caladan API x3
-- Caladan is seeking a Quant Trader to design, implement and manage systematic trading strategies across digital asset markets
-+ Caladan is seeking a Quant Trader to design, implement and manage systematic trading strategies across digital asset markets.
-- Careers x3
-- Careers - Caladan
-+ Careers | Caladan
-+ Comprehensive health insurance
-+ Contact
-+ Contact Us
-- Contact:
-- Current job openings
-+ Daily catered lunch
-- DeFi x5
-+ Engineering x4
-+ Expeditions x4
-+ Founded 2017 x4
-- Glassdoor
-- Ho Chi Minh City
-+ If you want to work with us but you do not see a role here that fits you, or if you have general questions, please write to us.
-- If you’re interested in working with us but you don’t see a role here that fits you, or if you just have general questions, please reach out:
-- Important Disclosure x3
-+ Important Disclosures
-+ Insights x2
-+ Internships x4
-- Investments x3
-+ Job Listings
-+ Jobs not found
-- Kraków
-- Kuala Lumpur
-- Legal x2
-- Linkedin
-+ Loading...
-- Market Making x4
-- Market making and the other services described on this website are provided by members of the Caladan group outside Singapore. Caladan's Singapore entity does not provide these services.
-+ Market-Making x2
-- Market-making
-- New York
-- No Jobs Found
-+ No role that fits you?
-- OTC Trading x5
-- Of course, we also offer all the usual benefits: unlimited paid leave, generous bonuses, catered lunch, snacks and a game room. Check out
-+ Open roles
-- Operating Principles
-+ Operating Principles.
-+ Operations x3
-+ Options OTC x2
-+ Our benefits vary by location but share the same themes as above.
-+ Our team in action
-+ Own Your Work
-+ Paid parental and childcare leave
-+ Participation in the company bonus pool
-+ Principal trading firm specializing in digital assets since 2017.
-- Privacy Policy x3
-+ Quantitative Trading x4
-+ See Open Roles
-+ Self-Directed x4
-- Singapore x2
-- Skip to content
-+ Something went wrong. Please try again.
-+ Speak with Us
-+ Subscribe to our emails
-+ Team outings and activities
-+ Technology
-- Terms x3
-+ Thank you for subscribing.
-+ Trading products and services are for eligible institutional and professional counterparties only, subject to applicable law. They are not offered or directed to persons in Singapore.
-- WHO WE ARE
-- We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions
-+ We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions.
-+ We hire in engineering, quantitative trading, partnerships, and operations. If you do not see a role that fits you, write to us.
-+ We take our work seriously but not ourselves
-- What We Do x2
-- Who We Are x2
-- Writing x5
-- Youtube
-- careers@caladan.xyz
-- for more on how we work.
-- in Singapore, read what employees say about us on
-- marketing@caladan.xyz
-- © 2025 Caladan. All rights reserved.
-+ © 2026 Caladan. All Rights Reserved.
-+ · x28
++ All Locations
++ All Teams
++ Ho Chi Minh City x2
++ Kraków x2
++ Kuala Lumpur x2
++ Location
++ New York x2
++ Operations
++ Singapore x3
++ Software Engineer (Kraków)
++ Team
+- Technology
+- Trading Platform Engineer
+```
+
+---
+### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
+
+**Line changes detected!**
+
+```diff
+- ,
+- Geneva
+- London
+- QRT Travel Grant to NeurIPS 2026 – Apply Here
+- View opportunity
 ```
 
 ---
