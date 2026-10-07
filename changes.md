@@ -1,53 +1,16 @@
 # Latest Scraper Results
 
-## 2026-10-06 09:40:32
+## 2026-10-07 09:34:24
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-+ Communications
-+ Junior Commercial Associate — Works in Progress
-+ London
-- Product Manager: New Grad Accelerator
-- South San Francisco HQ
-- University
-```
-
----
-### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
-
-**Line changes detected!**
-
-```diff
-+ 10 x2
-+ 1‑10 of 10
-- 1‑9 of 9
-- 9 x2
-+ ; +7 more x2
-+ ; +8 more x2
-+ ; Berlin, Germany x2
-+ Copy link
-+ Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences, or equivalent practical experience.
-+ Email a friend
-+ Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Generative Media, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).
-+ Google
-+ Google |
-+ Intern & Apprentice
-+ Learn more
-+ Minimum qualifications
-+ Share Student Researcher, 2027
-+ Showing 1 to 10 of 10 rows
-- Showing 1 to 9 of 9 rows
-+ Student Researcher, 2027
-+ Zürich, Switzerland x2
-+ bar_chart
-+ corporate_fare
-+ email
-+ link
-+ place
-+ share
+- Chicago
+- PhD Data Scientist, Intern
++ Product Manager: New Grad Accelerator
++ South San Francisco HQ
 ```
 
 ---
@@ -56,19 +19,72 @@
 **Line changes detected!**
 
 ```diff
-+ AR/VR
-- Bellevue, WA
-+ Electrical Engineering Intern
-+ Engineering
-+ Facebook Reality Labs
-+ Hardware
-- Infrastructure
++ +2 more x2
+- 11 Items
++ 16 Items
+- AI Research
+- About Meta x2
+- About us x2
+- Accelerate Eng Talent x2
+- Accessiblity and Engagement x2
+- Account settings x2
++ Analytics x2
+- Artificial Intelligence x3
++ Bellevue, WA x4
+- Benefits x2
+- Brand resources x2
+- Business Operations x2
+- Business Teams x2
+- Career Programs x2
+- Career profile x2
+- Creative x2
+- Culture x2
++ Data & Analytics
+- Data Engineer Intern, Product Analytics (Summer 2027)
+- Data Engineering
++ Data Science x2
++ Data Scientist Intern, Product Analytics (PhD) (Summer 2027)
++ Data Scientist Intern, Product Analytics (Summer 2027)
+- Dublin, Ireland
++ Engineering x3
+- For investors x2
+- Hiring Process x2
+- Infrastructure x4
 + Internship - Engineering, Tech & Design
-- Menlo Park, CA
-+ New York, NY
-- Production Engineer Intern
-- Production Engineering
-+ Sunnyvale, CA
++ Internship - PhD
+- Job Search x2
+- London, UK x2
+- Looking for contractor roles? x2
+- Media gallery x2
++ Menlo Park, CA x2
+- Messages x2
+- Meta Careers Blog x2
+- Meta Tech Podcasts x2
+- Metaverse and Wearables x2
+- My account x2
+- Network Engineering x2
+- Network Production Engineer Intern x2
++ New York, NY x2
+- Partnerships x2
+- Product and Program Management x2
++ Redmond, WA
+- Research x4
+- Research Scientist Intern, Optical System Design (PhD)
+- Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)
+- Research and Data x2
+- Rotational Programs x2
+- Sales and Marketing x2
++ Seattle, WA x2
+- Security x2
++ Software Engineer Intern, Machine Learning (PhD)
++ Software Engineer Intern, Systems and Infrastructure (PhD)
+- Software Engineering x2
++ Software Engineering Intern
+- Students and Grads x2
++ Sunnyvale, CA x2
+- Technology Teams x2
+- Working at Meta x2
++ ⋅ x12
 ```
 
 ---
@@ -77,8 +93,7 @@
 **Line changes detected!**
 
 ```diff
-+ London
-+ Senior Software Engineer, Trading Platform, C++
+No line changes.
 ```
 
 ---
@@ -87,32 +102,8 @@
 **Line changes detected!**
 
 ```diff
-+ All Locations
-+ All Teams
-+ Ho Chi Minh City x2
-+ Kraków x2
-+ Kuala Lumpur x2
-+ Location
-+ New York x2
-+ Operations
-+ Singapore x3
-+ Software Engineer (Kraków)
-+ Team
-- Technology
-- Trading Platform Engineer
-```
-
----
-### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
-
-**Line changes detected!**
-
-```diff
-- ,
-- Geneva
-- London
-- QRT Travel Grant to NeurIPS 2026 – Apply Here
-- View opportunity
++ As a Software Engineer you'll keep the systems that carry our orders to market fast, observable and dependable.
+- As a Trading Platform Engineer you'll keep the systems that carry our orders to market fast, observable and dependable.
 ```
 
 ---

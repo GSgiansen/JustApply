@@ -61,9 +61,6 @@ University
 Toronto
 PhD Data Scientist, Intern
 University
-Chicago
-PhD Data Scientist, Intern
-University
 New York
 PhD Data Scientist, Intern
 University
@@ -77,6 +74,9 @@ New York
 Product Manager: New Grad Accelerator
 University
 Seattle
+Product Manager: New Grad Accelerator
+University
+South San Francisco HQ
 1
 2
 3

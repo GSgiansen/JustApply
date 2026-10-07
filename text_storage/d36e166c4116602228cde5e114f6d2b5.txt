@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-11 Items
+16 Items
 Save this search
 Sort by
 Relevance
@@ -42,14 +42,74 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-Electrical Engineering Intern
-Sunnyvale, CA
+Data Scientist Intern, Product Analytics (PhD) (Summer 2027)
+Menlo Park, CA
+Data & Analytics
+Internship - Engineering, Tech & Design
+Internship - PhD
+Data Science
+Analytics
+Data Scientist Intern, Product Analytics (Summer 2027)
+Menlo Park, CA
 ⋅
 New York, NY
+Data & Analytics
+Internship - Engineering, Tech & Design
+Analytics
+Data Science
+Software Engineering Intern
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+New York, NY
+Internship - Engineering, Tech & Design
+Engineering
+Software Engineer Intern, Machine Learning (PhD)
+Sunnyvale, CA
+⋅
+Bellevue, WA
+⋅
+Redmond, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
++2 more
+Internship - PhD
+Engineering
+Software Engineer Intern, Systems and Infrastructure (PhD)
+Sunnyvale, CA
+⋅
+Bellevue, WA
+⋅
+Redmond, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
++2 more
+Internship - PhD
+Engineering
+Production Engineer Intern
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+New York, NY
+Infrastructure
+Production Engineering
+DFX Engineering Intern
+Sunnyvale, CA
+⋅
+Seattle, WA
 AR/VR
 Facebook Reality Labs
 Internship - Engineering, Tech & Design
-Engineering
 Hardware
 Product Design Engineering Intern
 Sunnyvale, CA
@@ -60,6 +120,15 @@ Seattle, WA
 Facebook Reality Labs
 Meta Quest
 Engineering
+Electrical Engineering Intern
+Sunnyvale, CA
+⋅
+New York, NY
+AR/VR
+Facebook Reality Labs
+Internship - Engineering, Tech & Design
+Engineering
+Hardware
 Mechanical Engineering Intern, Infrastructure
 Menlo Park, CA
 University Grad - Engineering, Tech & Design
@@ -67,123 +136,7 @@ Infrastructure
 AI Infrastructure
 Internship - Engineering, Tech & Design
 Hardware
-Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)
-Menlo Park, CA
-AI Research
-Internship - Engineering, Tech & Design
-Internship - PhD
-Research
-Artificial Intelligence
-DFX Engineering Intern
-Sunnyvale, CA
-⋅
-Seattle, WA
-AR/VR
-Facebook Reality Labs
-Internship - Engineering, Tech & Design
-Hardware
-Research Scientist Intern, Optical System Design (PhD)
-Redmond, WA
-⋅
-Menlo Park, CA
-Internship - PhD
-Research
-Data Engineer Intern, Product Analytics (Summer 2027)
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-New York, NY
-Data & Analytics
-Internship - Engineering, Tech & Design
-Data Engineering
-Network Production Engineer Intern
-Dublin, Ireland
-⋅
-London, UK
-Infrastructure
-Network Engineering
-Production Engineer Intern
-London, UK
-Infrastructure
-Production Engineering
-Network Production Engineer Intern
-Menlo Park, CA
-Infrastructure
-Network Engineering
 Page 1 of 2
-Job Search
-Technology Teams
-Artificial Intelligence
-Creative
-Infrastructure
-Metaverse and Wearables
-Product and Program Management
-Research and Data
-Security
-Software Engineering
-Business Teams
-Business Operations
-Partnerships
-Sales and Marketing
-Career Programs
-Research
-Accelerate Eng Talent
-Students and Grads
-Rotational Programs
-Working at Meta
-Accessiblity and Engagement
-Benefits
-Culture
-Hiring Process
-My account
-Career profile
-Account settings
-Messages
-Meta Careers Blog
-Meta Tech Podcasts
-About us
-About Meta
-Media gallery
-Brand resources
-For investors
-Looking for contractor roles?
-Job Search
-Technology Teams
-Artificial Intelligence
-Creative
-Infrastructure
-Metaverse and Wearables
-Product and Program Management
-Research and Data
-Security
-Software Engineering
-Business Teams
-Business Operations
-Partnerships
-Sales and Marketing
-Career Programs
-Research
-Accelerate Eng Talent
-Students and Grads
-Rotational Programs
-Working at Meta
-Accessiblity and Engagement
-Benefits
-Culture
-Hiring Process
-My account
-Career profile
-Account settings
-Messages
-Meta Careers Blog
-Meta Tech Podcasts
-About us
-About Meta
-Media gallery
-Brand resources
-For investors
-Looking for contractor roles?
 Job Search
 Technology Teams
 Artificial Intelligence
