@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-16 Items
+17 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,11 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Production Systems Engineering Intern
+Menlo Park, CA
+Internship - Engineering, Tech & Design
+Engineering
+Hardware
 DFX Engineering Intern
 Sunnyvale, CA
 ⋅
@@ -51,6 +56,22 @@ Facebook Reality Labs
 Internship - Engineering, Tech & Design
 Hardware
 Engineering
+Product Design Engineering Intern
+Sunnyvale, CA
+⋅
+Redmond, WA
+⋅
+Seattle, WA
+Facebook Reality Labs
+Meta Quest
+Engineering
+Mechanical Engineering Intern, Infrastructure
+Menlo Park, CA
+University Grad - Engineering, Tech & Design
+Infrastructure
+AI Infrastructure
+Internship - Engineering, Tech & Design
+Hardware
 Data Scientist Intern, Product Analytics (PhD) (Summer 2027)
 Menlo Park, CA
 Data & Analytics
@@ -112,31 +133,6 @@ Menlo Park, CA
 New York, NY
 Infrastructure
 Production Engineering
-Product Design Engineering Intern
-Sunnyvale, CA
-⋅
-Redmond, WA
-⋅
-Seattle, WA
-Facebook Reality Labs
-Meta Quest
-Engineering
-Electrical Engineering Intern
-Sunnyvale, CA
-⋅
-New York, NY
-AR/VR
-Facebook Reality Labs
-Internship - Engineering, Tech & Design
-Engineering
-Hardware
-Mechanical Engineering Intern, Infrastructure
-Menlo Park, CA
-University Grad - Engineering, Tech & Design
-Infrastructure
-AI Infrastructure
-Internship - Engineering, Tech & Design
-Hardware
 Page 1 of 2
 Job Search
 Technology Teams
