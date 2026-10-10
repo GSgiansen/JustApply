@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-17 Items
+20 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,27 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Mechanical Engineering Intern
+Menlo Park, CA
+University Grad - Engineering, Tech & Design
+Internship - Engineering, Tech & Design
+Engineering
+Hardware
+Production Systems Engineering Intern
+Menlo Park, CA
+Internship - Engineering, Tech & Design
+Engineering
+Hardware
+Structural Design Engineer - FEA (Intern)
+Sunnyvale, CA
+⋅
+Redmond, WA
+⋅
+Seattle, WA
+Facebook Reality Labs
+Internship - PhD
+Hardware
+Research
 Production Systems Engineering Intern
 Menlo Park, CA
 Internship - Engineering, Tech & Design
@@ -97,42 +118,6 @@ Seattle, WA
 New York, NY
 Internship - Engineering, Tech & Design
 Engineering
-Software Engineer Intern, Machine Learning (PhD)
-Sunnyvale, CA
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-+2 more
-Internship - PhD
-Engineering
-Software Engineer Intern, Systems and Infrastructure (PhD)
-Sunnyvale, CA
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-+2 more
-Internship - PhD
-Engineering
-Production Engineer Intern
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-New York, NY
-Infrastructure
-Production Engineering
 Page 1 of 2
 Job Search
 Technology Teams
