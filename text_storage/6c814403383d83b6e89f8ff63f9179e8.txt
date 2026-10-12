@@ -61,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-10
+11
 jobs matched
 Clear filters
 What do you want to do?
@@ -146,9 +146,28 @@ English
 English
 Français (Canada)
 Jobs search results
-10
+11
 jobs matched
 filter_list
+Business Program Manager MBA Intern, 2027
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a MBA degree program in the EMEA region
+Relevant practical or internship experience in program or project management.
+Learn more
+share
+Share Business Program Manager MBA Intern, 2027
+link
+Copy link
+email
+Email a friend
 Associate Product Marketing Manager BS/MS Intern, 2027
 corporate_fare
 Google
@@ -354,8 +373,8 @@ link
 Copy link
 email
 Email a friend
-Showing 1 to 10 of 10 rows
-1‑10 of 10
+Showing 1 to 11 of 11 rows
+1‑11 of 11
 Follow Life at Google on
 More about us
 About us

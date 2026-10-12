@@ -1,38 +1,36 @@
 # Latest Scraper Results
 
-## 2026-10-11 09:32:21
+## 2026-10-12 10:02:14
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
-
-**Line changes detected!**
-
-```diff
-- .
-- Continue
-- Enter your company website
-- Get industry insights and updates from Stripe
-- Privacy Policy
-- Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
-- Subscribe
-- Subscribed
-- Thanks for subscribing. Look out for Stripe updates in your inbox.
-- at any time.
-- unsubscribe
-```
-
----
-### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
 
 **Line changes detected!**
 
 ```diff
-- Analytics
-+ Data Engineer Intern, Product Analytics (Summer 2027)
-+ Data Engineering
-- Data Science
-- Data Scientist Intern, Product Analytics (Summer 2027)
-+ Seattle, WA
-+ ⋅
+- 10 x2
++ 11 x2
+- 1‑10 of 10
++ 1‑11 of 11
++ Business Program Manager MBA Intern, 2027
++ Copy link
++ Currently enrolled in a MBA degree program in the EMEA region
++ Email a friend
++ Google
++ Google |
++ Intern & Apprentice
++ Learn more
++ London, UK x2
++ Minimum qualifications
++ Relevant practical or internship experience in program or project management.
++ Share Business Program Manager MBA Intern, 2027
+- Showing 1 to 10 of 10 rows
++ Showing 1 to 11 of 11 rows
++ bar_chart
++ corporate_fare
++ email
++ link
++ place
++ share
 ```
 
 ---
