@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-20 Items
+22 Items
 Save this search
 Sort by
 Relevance
@@ -42,17 +42,59 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-Mechanical Engineering Intern
+Research Scientist Intern, Language and Agents (PhD)
+Bellevue, WA
+⋅
 Menlo Park, CA
-University Grad - Engineering, Tech & Design
+AI Research
+Artificial Intelligence
+Generative AI
+Internship - PhD
+Research
+Engineering
+Machine Learning
+Product Design Engineering Intern
+Sunnyvale, CA
+⋅
+Redmond, WA
+⋅
+Seattle, WA
+Facebook Reality Labs
+Meta Quest
+Engineering
+Signal Integrity Intern
+Menlo Park, CA
 Internship - Engineering, Tech & Design
 Engineering
 Hardware
-Production Systems Engineering Intern
+Software Engineer Intern, Systems and Infrastructure (PhD)
+Sunnyvale, CA
+⋅
+Bellevue, WA
+⋅
+Redmond, WA
+⋅
 Menlo Park, CA
-Internship - Engineering, Tech & Design
+⋅
+Seattle, WA
+⋅
++2 more
+Internship - PhD
 Engineering
-Hardware
+Software Engineer Intern, Machine Learning (PhD)
+Sunnyvale, CA
+⋅
+Bellevue, WA
+⋅
+Redmond, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
++2 more
+Internship - PhD
+Engineering
 Software Engineering Intern
 Bellevue, WA
 ⋅
@@ -63,27 +105,12 @@ Seattle, WA
 New York, NY
 Internship - Engineering, Tech & Design
 Engineering
-Data Engineer Intern, Product Analytics (Summer 2027)
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-New York, NY
-Data & Analytics
-Internship - Engineering, Tech & Design
-Data Engineering
-Structural Design Engineer - FEA (Intern)
+Electrical Engineering Intern
 Sunnyvale, CA
 ⋅
-Redmond, WA
-⋅
-Seattle, WA
+New York, NY
+AR/VR
 Facebook Reality Labs
-Internship - PhD
-Hardware
-Research
-Production Systems Engineering Intern
-Menlo Park, CA
 Internship - Engineering, Tech & Design
 Engineering
 Hardware
@@ -96,30 +123,18 @@ Facebook Reality Labs
 Internship - Engineering, Tech & Design
 Hardware
 Engineering
-Product Design Engineering Intern
-Sunnyvale, CA
-⋅
-Redmond, WA
-⋅
-Seattle, WA
-Facebook Reality Labs
-Meta Quest
-Engineering
-Mechanical Engineering Intern, Infrastructure
+Mechanical Engineering Intern
 Menlo Park, CA
 University Grad - Engineering, Tech & Design
-Infrastructure
-AI Infrastructure
 Internship - Engineering, Tech & Design
+Engineering
 Hardware
-Data Scientist Intern, Product Analytics (PhD) (Summer 2027)
+Production Systems Engineering Intern
 Menlo Park, CA
-Data & Analytics
 Internship - Engineering, Tech & Design
-Internship - PhD
-Data Science
-Analytics
-Page 1 of 2
+Engineering
+Hardware
+Page 1 of 3
 Job Search
 Technology Teams
 Artificial Intelligence
