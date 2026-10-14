@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-22 Items
+29 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,70 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Product Design Engineering Intern
+Sunnyvale, CA
+⋅
+Redmond, WA
+⋅
+Seattle, WA
+Facebook Reality Labs
+Engineering
+Mechanical Engineering Intern, Infrastructure
+Menlo Park, CA
+University Grad - Engineering, Tech & Design
+Infrastructure
+AI Infrastructure
+Internship - Engineering, Tech & Design
+Hardware
+Production Systems Engineering Intern
+Menlo Park, CA
+Internship - Engineering, Tech & Design
+Engineering
+Hardware
+Mechanical Engineering Intern
+Menlo Park, CA
+Internship - Engineering, Tech & Design
+Engineering
+Hardware
+Signal Integrity Intern
+Menlo Park, CA
+Internship - Engineering, Tech & Design
+Engineering
+Hardware
+Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)
+Menlo Park, CA
+AI Infrastructure
+AI Research
+Artificial Intelligence
+Infrastructure
+Internship - PhD
+Research
+Software Engineering
+University Grad - PhD & Postdoc
+Engineering
+Research Scientist Intern, Systems ML - SW/HW Co-Design - CPUSys (PhD)
+Menlo Park, CA
+AI Research
+Artificial Intelligence
+Infrastructure
+Internship - PhD
+Research
+University Grad - PhD & Postdoc
+AI Infrastructure
+Software Engineering
+Engineering
+Hardware
+Research Scientist Intern, AI & System Co-Design (PhD)
+Menlo Park, CA
+AI Research
+AI Infrastructure
+Artificial Intelligence
+Research
+Internship - PhD
+Materials Regulatory Compliance (MRC) Intern
+Menlo Park, CA
+University Grad - Engineering, Tech & Design
+Program Management
 Research Scientist Intern, Language and Agents (PhD)
 Bellevue, WA
 ⋅
@@ -53,87 +117,6 @@ Internship - PhD
 Research
 Engineering
 Machine Learning
-Product Design Engineering Intern
-Sunnyvale, CA
-⋅
-Redmond, WA
-⋅
-Seattle, WA
-Facebook Reality Labs
-Meta Quest
-Engineering
-Signal Integrity Intern
-Menlo Park, CA
-Internship - Engineering, Tech & Design
-Engineering
-Hardware
-Software Engineer Intern, Systems and Infrastructure (PhD)
-Sunnyvale, CA
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-+2 more
-Internship - PhD
-Engineering
-Software Engineer Intern, Machine Learning (PhD)
-Sunnyvale, CA
-⋅
-Bellevue, WA
-⋅
-Redmond, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-+2 more
-Internship - PhD
-Engineering
-Software Engineering Intern
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-New York, NY
-Internship - Engineering, Tech & Design
-Engineering
-Electrical Engineering Intern
-Sunnyvale, CA
-⋅
-New York, NY
-AR/VR
-Facebook Reality Labs
-Internship - Engineering, Tech & Design
-Engineering
-Hardware
-DFX Engineering Intern
-Sunnyvale, CA
-⋅
-Seattle, WA
-AR/VR
-Facebook Reality Labs
-Internship - Engineering, Tech & Design
-Hardware
-Engineering
-Mechanical Engineering Intern
-Menlo Park, CA
-University Grad - Engineering, Tech & Design
-Internship - Engineering, Tech & Design
-Engineering
-Hardware
-Production Systems Engineering Intern
-Menlo Park, CA
-Internship - Engineering, Tech & Design
-Engineering
-Hardware
 Page 1 of 3
 Job Search
 Technology Teams
