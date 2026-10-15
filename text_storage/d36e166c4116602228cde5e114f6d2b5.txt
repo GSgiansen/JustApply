@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-29 Items
+26 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,34 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Research Scientist Intern, Robotics Foundation Models Mid-Training (PhD)
+Menlo Park, CA
+AI Research
+Internship - PhD
+Research
+Artificial Intelligence
+Computer Vision
+Machine Learning
+Structural Design Engineer - FEA (Intern)
+Sunnyvale, CA
+⋅
+Redmond, WA
+⋅
+Seattle, WA
+AR/VR
+Facebook Reality Labs
+Internship - Engineering, Tech & Design
+Engineering
+Hardware
+Electrical Engineering Intern
+Sunnyvale, CA
+⋅
+New York, NY
+AR/VR
+Facebook Reality Labs
+Internship - Engineering, Tech & Design
+Engineering
+Hardware
 Product Design Engineering Intern
 Sunnyvale, CA
 ⋅
@@ -72,6 +100,13 @@ Menlo Park, CA
 Internship - Engineering, Tech & Design
 Engineering
 Hardware
+Research Scientist Intern, AI & System Co-Design (PhD)
+Menlo Park, CA
+AI Research
+AI Infrastructure
+Artificial Intelligence
+Research
+Internship - PhD
 Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)
 Menlo Park, CA
 AI Infrastructure
@@ -83,40 +118,6 @@ Research
 Software Engineering
 University Grad - PhD & Postdoc
 Engineering
-Research Scientist Intern, Systems ML - SW/HW Co-Design - CPUSys (PhD)
-Menlo Park, CA
-AI Research
-Artificial Intelligence
-Infrastructure
-Internship - PhD
-Research
-University Grad - PhD & Postdoc
-AI Infrastructure
-Software Engineering
-Engineering
-Hardware
-Research Scientist Intern, AI & System Co-Design (PhD)
-Menlo Park, CA
-AI Research
-AI Infrastructure
-Artificial Intelligence
-Research
-Internship - PhD
-Materials Regulatory Compliance (MRC) Intern
-Menlo Park, CA
-University Grad - Engineering, Tech & Design
-Program Management
-Research Scientist Intern, Language and Agents (PhD)
-Bellevue, WA
-⋅
-Menlo Park, CA
-AI Research
-Artificial Intelligence
-Generative AI
-Internship - PhD
-Research
-Engineering
-Machine Learning
 Page 1 of 3
 Job Search
 Technology Teams
