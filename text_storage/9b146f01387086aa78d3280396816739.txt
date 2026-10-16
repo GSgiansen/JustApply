@@ -26,11 +26,11 @@ Tel Aviv
 Senior Software Engineer, C++ (Algo)
 Chicago
 Senior Software Engineer, Cumberland/Options Data
-Chicago
-Senior Software Engineer, Cumberland/Options Data
 London
 Senior Software Engineer, Cumberland/Options Data
 New York City
+Senior Software Engineer, Cumberland/Options Data
+Chicago
 Senior Software Engineer - DeFi
 Chicago
 Senior Software Engineer, Low Latency
@@ -58,29 +58,29 @@ London
 Software Developer
 London
 Software Developer
-Chicago
-Software Developer
 Montréal
+Software Developer
+Chicago
 Software Developer - DevOps
+Montréal
+Software Developer Intern
 Montréal
 Software Developer Intern
 Amsterdam
 Software Developer Intern
-Montréal
+London
 Software Developer Intern
 Chicago
-Software Developer Intern
-London
 Software Developer Intern (C++)
 Singapore
 Software Engineer (Commodities Data Team)
 London
 Software Engineer - Cumberland/Options Front Office Systems
-Chicago
-Software Engineer - Cumberland/Options Front Office Systems
 London
 Software Engineer - Cumberland/Options Front Office Systems
 New York City
+Software Engineer - Cumberland/Options Front Office Systems
+Chicago
 Software Engineer, Research – Cumberland Systematic
 Chicago
 Software Engineer, Research – Cumberland Systematic
