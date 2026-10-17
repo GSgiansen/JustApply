@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-26 Items
+25 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,23 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Signal Integrity Intern
+Menlo Park, CA
+Internship - Engineering, Tech & Design
+Hardware
+Engineering
+Production Systems Engineering Intern
+Menlo Park, CA
+Infrastructure
+Internship - Engineering, Tech & Design
+Engineering
+DFX Engineering Intern
+Seattle, WA
+AR/VR
+Facebook Reality Labs
+Internship - Engineering, Tech & Design
+Hardware
+Engineering
 Research Scientist Intern, Robotics Foundation Models Mid-Training (PhD)
 Menlo Park, CA
 AI Research
@@ -84,20 +101,6 @@ University Grad - Engineering, Tech & Design
 Infrastructure
 AI Infrastructure
 Internship - Engineering, Tech & Design
-Hardware
-Production Systems Engineering Intern
-Internship - Engineering, Tech & Design
-Engineering
-Hardware
-Mechanical Engineering Intern
-Menlo Park, CA
-Internship - Engineering, Tech & Design
-Engineering
-Hardware
-Signal Integrity Intern
-Menlo Park, CA
-Internship - Engineering, Tech & Design
-Engineering
 Hardware
 Research Scientist Intern, AI & System Co-Design (PhD)
 Menlo Park, CA
