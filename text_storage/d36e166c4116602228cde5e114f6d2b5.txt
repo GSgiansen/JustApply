@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-25 Items
+26 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,18 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Research Scientist Intern, On-Device AI Model Optimization (PhD)
+Menlo Park, CA
+⋅
+Burlingame, CA
+AI Research
+Artificial Intelligence
+Research Scientist Intern, Smart Glasses in Wearables AI (PhD)
+Menlo Park, CA
+⋅
+Burlingame, CA
+AI Research
+Artificial Intelligence
 Signal Integrity Intern
 Menlo Park, CA
 Internship - Engineering, Tech & Design
@@ -102,24 +114,6 @@ Infrastructure
 AI Infrastructure
 Internship - Engineering, Tech & Design
 Hardware
-Research Scientist Intern, AI & System Co-Design (PhD)
-Menlo Park, CA
-AI Research
-AI Infrastructure
-Artificial Intelligence
-Research
-Internship - PhD
-Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)
-Menlo Park, CA
-AI Infrastructure
-AI Research
-Artificial Intelligence
-Infrastructure
-Internship - PhD
-Research
-Software Engineering
-University Grad - PhD & Postdoc
-Engineering
 Page 1 of 3
 Job Search
 Technology Teams
