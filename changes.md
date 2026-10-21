@@ -1,56 +1,23 @@
 # Latest Scraper Results
 
-## 2026-10-20 08:04:38
+## 2026-10-21 08:09:50
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-- Communications
-- Junior Commercial Associate — Works in Progress
-- London
-+ Software Engineer, Early Career — Immediate Start
-+ Toronto
-+ University
-```
-
----
-### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
-
-**Line changes detected!**
-
-```diff
-- 15 x2
-+ 17 x2
-- 1‑15 of 15
-+ 1‑17 of 17
-+ Ability  to communicate in English fluently as this is a customer-facing role that requires interactions in English with local stakeholders.
-+ Account Executive, Business Intern, 2027 (English)
-+ Account Executive, MBA Intern, 2027
-+ Copy link x2
-+ Currently enrolled in a Bachelor's or Master's program.
-+ Currently enrolled in a MBA program.
-+ Early x2
-+ Email a friend x2
-+ Experience completing work as directed, and collaborating with teammates; developing knowledge of relevant concepts and processes.
-+ Google x2
-+ Google | x2
-+ Intern & Apprentice
-+ Learn more x2
-+ Minimum qualifications x2
-+ Penultimate academic year of the Bachelor’s or Master’s degree.
-+ Share Account Executive, Business Intern, 2027 (English)
-+ Share Account Executive, MBA Intern, 2027
-- Showing 1 to 15 of 15 rows
-+ Showing 1 to 17 of 17 rows
-+ Singapore x4
-+ bar_chart x2
-+ corporate_fare x2
-+ email x2
-+ link x2
-+ place x2
-+ share x2
++ .
++ Continue
++ Enter your company website
++ Get industry insights and updates from Stripe
++ Privacy Policy
++ Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
++ Subscribe
++ Subscribed
++ Thanks for subscribing. Look out for Stripe updates in your inbox.
++ at any time.
++ unsubscribe
 ```
 
 ---
@@ -59,20 +26,48 @@
 **Line changes detected!**
 
 ```diff
-- 25 Items
-+ 26 Items
-- AI Infrastructure x2
-+ Burlingame, CA x2
-- Engineering
-- Infrastructure
-- Internship - PhD x2
-- Research x2
-- Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)
-- Research Scientist Intern, AI & System Co-Design (PhD)
-+ Research Scientist Intern, On-Device AI Model Optimization (PhD)
-+ Research Scientist Intern, Smart Glasses in Wearables AI (PhD)
-- Software Engineering
-- University Grad - PhD & Postdoc
+- 26 Items
++ 35 Items
+- AI Infrastructure
++ AI Research
+- AR/VR x3
++ Artificial Intelligence
++ Burlingame, CA
++ Computer Vision
+- DFX Engineering Intern
++ Detection & Response Security Engineer, Intern (Summer 2027)
+- Electrical Engineering Intern
+- Engineering x5
++ Enterprise Security Engineer, Intern (Summer 2027)
+- Facebook Reality Labs x4
+- Hardware x5
+- Infrastructure x2
+- Internship - Engineering, Tech & Design x3
++ Internship - PhD
++ London, UK
+- Mechanical Engineering Intern, Infrastructure
++ New York, NY x5
+- Page 1 of 3
++ Page 1 of 4
+- Product Design Engineering Intern
++ Product Security Engineer, Intern (Summer 2027)
+- Production Systems Engineering Intern
++ Research x3
++ Research Intern - Self-Improving Agentic Systems and AI Research Agents
++ Research Scientist Intern, AI-Driven Neural Interfaces (PhD)
++ Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)
++ Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)
+- Research Scientist Intern, On-Device AI Model Optimization (PhD)
++ Research Scientist Intern, PhD — Meta Superintelligence Labs
+- Research Scientist Intern, Robotics Foundation Models Mid-Training (PhD)
+- Seattle, WA x3
++ Security x4
++ Security Engineer Posture Management, Intern (Summer 2027)
+- Signal Integrity Intern
+- Structural Design Engineer - FEA (Intern)
+- Sunnyvale, CA x2
++ Technical Security x4
++ University Grad - PhD & Postdoc
 + ⋅ x2
 ```
 
@@ -83,6 +78,36 @@
 
 ```diff
 No line changes.
+```
+
+---
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+
+**Line changes detected!**
+
+```diff
+- Post Trade Operations [EUR & US Coverage]
++ Trade Operations Specialist
++ We are looking for a Trade Operations Specialist who combines hands-on operational experience with strong analytical thinking, sound judgement and a drive to continuously improve how things work.
+- We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions.
+```
+
+---
+### [https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&](https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&)
+
+**Line changes detected!**
+
+```diff
+- Undergraduate Students
+```
+
+---
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
+
+**Line changes detected!**
+
+```diff
++ Cubist Business Team x2
 ```
 
 ---

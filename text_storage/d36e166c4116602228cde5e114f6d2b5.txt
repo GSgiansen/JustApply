@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-26 Items
+35 Items
 Save this search
 Sort by
 Relevance
@@ -42,10 +42,29 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-Research Scientist Intern, On-Device AI Model Optimization (PhD)
+Research Scientist Intern, PhD — Meta Superintelligence Labs
+Menlo Park, CA
+AI Research
+Artificial Intelligence
+University Grad - PhD & Postdoc
+Research
+Engineering
+Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)
+Redmond, WA
+⋅
+Burlingame, CA
+⋅
+New York, NY
+Research
+Internship - PhD
+Computer Vision
+Machine Learning
+Research Scientist Intern, AI-Driven Neural Interfaces (PhD)
 Menlo Park, CA
 ⋅
 Burlingame, CA
+⋅
+New York, NY
 AI Research
 Artificial Intelligence
 Research Scientist Intern, Smart Glasses in Wearables AI (PhD)
@@ -54,67 +73,45 @@ Menlo Park, CA
 Burlingame, CA
 AI Research
 Artificial Intelligence
-Signal Integrity Intern
-Menlo Park, CA
-Internship - Engineering, Tech & Design
-Hardware
-Engineering
-Production Systems Engineering Intern
-Menlo Park, CA
-Infrastructure
-Internship - Engineering, Tech & Design
-Engineering
-DFX Engineering Intern
-Seattle, WA
-AR/VR
-Facebook Reality Labs
-Internship - Engineering, Tech & Design
-Hardware
-Engineering
-Research Scientist Intern, Robotics Foundation Models Mid-Training (PhD)
-Menlo Park, CA
+Research Intern - Self-Improving Agentic Systems and AI Research Agents
+London, UK
 AI Research
+Research
+Enterprise Security Engineer, Intern (Summer 2027)
+Menlo Park, CA
+⋅
+New York, NY
+Security
+Internship - Engineering, Tech & Design
+Technical Security
+Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)
+Sunnyvale, CA
+⋅
+Redmond, WA
+⋅
+Menlo Park, CA
 Internship - PhD
 Research
 Artificial Intelligence
 Computer Vision
-Machine Learning
-Structural Design Engineer - FEA (Intern)
-Sunnyvale, CA
-⋅
-Redmond, WA
-⋅
-Seattle, WA
-AR/VR
-Facebook Reality Labs
+Detection & Response Security Engineer, Intern (Summer 2027)
+New York, NY
 Internship - Engineering, Tech & Design
-Engineering
-Hardware
-Electrical Engineering Intern
-Sunnyvale, CA
+Security
+Technical Security
+Security Engineer Posture Management, Intern (Summer 2027)
+New York, NY
+University Grad - Engineering, Tech & Design
+Security
+Technical Security
+Product Security Engineer, Intern (Summer 2027)
+Menlo Park, CA
 ⋅
 New York, NY
-AR/VR
-Facebook Reality Labs
+Security
 Internship - Engineering, Tech & Design
-Engineering
-Hardware
-Product Design Engineering Intern
-Sunnyvale, CA
-⋅
-Redmond, WA
-⋅
-Seattle, WA
-Facebook Reality Labs
-Engineering
-Mechanical Engineering Intern, Infrastructure
-Menlo Park, CA
-University Grad - Engineering, Tech & Design
-Infrastructure
-AI Infrastructure
-Internship - Engineering, Tech & Design
-Hardware
-Page 1 of 3
+Technical Security
+Page 1 of 4
 Job Search
 Technology Teams
 Artificial Intelligence
