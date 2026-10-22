@@ -1,23 +1,29 @@
 # Latest Scraper Results
 
-## 2026-10-21 08:09:50
+## 2026-10-22 08:09:24
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-+ .
-+ Continue
-+ Enter your company website
-+ Get industry insights and updates from Stripe
-+ Privacy Policy
-+ Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
-+ Subscribe
-+ Subscribed
-+ Thanks for subscribing. Look out for Stripe updates in your inbox.
-+ at any time.
-+ unsubscribe
+- .
++ Communications
+- Continue
+- Enter your company website
+- Get industry insights and updates from Stripe
++ Junior Commercial Associate — Works in Progress
++ London
+- Privacy Policy
+- Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
+- Software Engineer, Early Career — Immediate Start
+- Subscribe
+- Subscribed
+- Thanks for subscribing. Look out for Stripe updates in your inbox.
+- Toronto
+- University
+- at any time.
+- unsubscribe
 ```
 
 ---
@@ -26,49 +32,26 @@
 **Line changes detected!**
 
 ```diff
-- 26 Items
-+ 35 Items
-- AI Infrastructure
-+ AI Research
-- AR/VR x3
-+ Artificial Intelligence
-+ Burlingame, CA
+- 35 Items
++ 37 Items
++ 3D Software Engineering
++ AI Research x2
++ AR/VR
++ Artificial Intelligence x2
 + Computer Vision
-- DFX Engineering Intern
-+ Detection & Response Security Engineer, Intern (Summer 2027)
-- Electrical Engineering Intern
-- Engineering x5
-+ Enterprise Security Engineer, Intern (Summer 2027)
-- Facebook Reality Labs x4
-- Hardware x5
-- Infrastructure x2
-- Internship - Engineering, Tech & Design x3
-+ Internship - PhD
++ Facebook Reality Labs
++ Internship - PhD x2
 + London, UK
-- Mechanical Engineering Intern, Infrastructure
-+ New York, NY x5
-- Page 1 of 3
-+ Page 1 of 4
-- Product Design Engineering Intern
-+ Product Security Engineer, Intern (Summer 2027)
-- Production Systems Engineering Intern
-+ Research x3
-+ Research Intern - Self-Improving Agentic Systems and AI Research Agents
-+ Research Scientist Intern, AI-Driven Neural Interfaces (PhD)
-+ Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)
-+ Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)
-- Research Scientist Intern, On-Device AI Model Optimization (PhD)
-+ Research Scientist Intern, PhD — Meta Superintelligence Labs
-- Research Scientist Intern, Robotics Foundation Models Mid-Training (PhD)
-- Seattle, WA x3
-+ Security x4
-+ Security Engineer Posture Management, Intern (Summer 2027)
-- Signal Integrity Intern
-- Structural Design Engineer - FEA (Intern)
-- Sunnyvale, CA x2
-+ Technical Security x4
-+ University Grad - PhD & Postdoc
-+ ⋅ x2
+- New York, NY x2
+- Product Security Engineer, Intern (Summer 2027)
++ Research x2
++ Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)
++ Research Scientist Intern, Foundational Models for Robotics Research (PhD)
+- Security x2
+- Security Engineer Posture Management, Intern (Summer 2027)
+- Technical Security x2
+- University Grad - Engineering, Tech & Design
+- ⋅
 ```
 
 ---
@@ -77,28 +60,23 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Chicago
++ Senior Software Engineer, Options Execution
 ```
 
 ---
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+### [https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads)
 
 **Line changes detected!**
 
 ```diff
-- Post Trade Operations [EUR & US Coverage]
-+ Trade Operations Specialist
-+ We are looking for a Trade Operations Specialist who combines hands-on operational experience with strong analytical thinking, sound judgement and a drive to continuously improve how things work.
-- We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions.
-```
-
----
-### [https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&](https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&)
-
-**Line changes detected!**
-
-```diff
-- Undergraduate Students
+- , x3
+- 2027 – Internship or Graduate, Quantitative Research and Trading
+- Beijing
+- Hong Kong
+- Shanghai
+- Singapore
+- View opportunity
 ```
 
 ---
@@ -107,7 +85,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Cubist Business Team x2
+- Business Acceleration Team x2
 ```
 
 ---

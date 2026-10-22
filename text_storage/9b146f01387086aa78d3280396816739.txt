@@ -26,23 +26,25 @@ Singapore
 Senior Software Engineer, C++ (Algo)
 Chicago
 Senior Software Engineer, Cumberland/Options Data
-New York City
+Chicago
 Senior Software Engineer, Cumberland/Options Data
 London
 Senior Software Engineer, Cumberland/Options Data
-Chicago
+New York City
 Senior Software Engineer - DeFi
 Chicago
 Senior Software Engineer, Low Latency
 Singapore
 Senior Software Engineer (Options)
 Chicago
+Senior Software Engineer, Options Execution
+Chicago
 Senior Software Engineer - Research Technology
 London
 Senior Software Engineer, Trading Platform, C++
-Chicago
-Senior Software Engineer, Trading Platform, C++
 London
+Senior Software Engineer, Trading Platform, C++
+Chicago
 Senior Software Engineer, Trading Team
 London, Singapore
 Senior Software Engineer, Treasury and Reference Data (Java/Ruby/Python)
@@ -56,33 +58,33 @@ Chicago
 Senior Software Engineer, Unified Platform - Trade Management, Trade & Order Processing, Platform Services
 London
 Software Developer
-London
+Montréal
 Software Developer
 Chicago
 Software Developer
-Montréal
+London
 Software Developer - DevOps
 Montréal
 Software Developer Intern
-Montréal
+Chicago
 Software Developer Intern
-London
+Montréal
 Software Developer Intern
 Amsterdam
 Software Developer Intern
-Chicago
+London
 Software Engineer (Commodities Data Team)
 London
 Software Engineer - Cumberland/Options Front Office Systems
-Chicago
-Software Engineer - Cumberland/Options Front Office Systems
 London
+Software Engineer - Cumberland/Options Front Office Systems
+Chicago
 Software Engineer - Cumberland/Options Front Office Systems
 New York City
 Software Engineer, Research – Cumberland Systematic
-Chicago
-Software Engineer, Research – Cumberland Systematic
 London
+Software Engineer, Research – Cumberland Systematic
+Chicago
 Software Engineer - Research Technology
 Singapore
 Software Engineer, Trading – Cumberland Systematic

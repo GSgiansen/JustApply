@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-35 Items
+37 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,23 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Research Scientist Intern, Foundational Models for Robotics Research (PhD)
+Menlo Park, CA
+AI Research
+Artificial Intelligence
+Research
+Internship - PhD
+Internship - Engineering, Tech & Design
+Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)
+London, UK
+AI Research
+AR/VR
+Artificial Intelligence
+Facebook Reality Labs
+Internship - PhD
+Research
+3D Software Engineering
+Computer Vision
 Research Scientist Intern, PhD — Meta Superintelligence Labs
 Menlo Park, CA
 AI Research
@@ -98,18 +115,6 @@ Detection & Response Security Engineer, Intern (Summer 2027)
 New York, NY
 Internship - Engineering, Tech & Design
 Security
-Technical Security
-Security Engineer Posture Management, Intern (Summer 2027)
-New York, NY
-University Grad - Engineering, Tech & Design
-Security
-Technical Security
-Product Security Engineer, Intern (Summer 2027)
-Menlo Park, CA
-⋅
-New York, NY
-Security
-Internship - Engineering, Tech & Design
 Technical Security
 Page 1 of 4
 Job Search
