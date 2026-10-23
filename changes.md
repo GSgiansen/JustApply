@@ -1,57 +1,60 @@
 # Latest Scraper Results
 
-## 2026-10-22 08:09:24
+## 2026-10-23 08:07:54
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
-
-**Line changes detected!**
-
-```diff
-- .
-+ Communications
-- Continue
-- Enter your company website
-- Get industry insights and updates from Stripe
-+ Junior Commercial Associate — Works in Progress
-+ London
-- Privacy Policy
-- Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
-- Software Engineer, Early Career — Immediate Start
-- Subscribe
-- Subscribed
-- Thanks for subscribing. Look out for Stripe updates in your inbox.
-- Toronto
-- University
-- at any time.
-- unsubscribe
-```
-
----
 ### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
 
 **Line changes detected!**
 
 ```diff
-- 35 Items
-+ 37 Items
-+ 3D Software Engineering
-+ AI Research x2
-+ AR/VR
-+ Artificial Intelligence x2
-+ Computer Vision
-+ Facebook Reality Labs
-+ Internship - PhD x2
-+ London, UK
-- New York, NY x2
-- Product Security Engineer, Intern (Summer 2027)
-+ Research x2
-+ Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)
-+ Research Scientist Intern, Foundational Models for Robotics Research (PhD)
+- 37 Items
++ 46 Items
++ AI Infrastructure
++ AI Research
+- Artificial Intelligence x2
++ Bellevue, WA x4
++ Boston, MA x2
+- Burlingame, CA x3
+- Computer Vision x2
+- Detection & Response Security Engineer, Intern (Summer 2027)
++ Engineering
+- Enterprise Security Engineer, Intern (Summer 2027)
++ Infrastructure x2
+- Internship - Engineering, Tech & Design x2
+- Internship - PhD x2
+- London, UK
+- Machine Learning
++ Menlo Park, CA
++ New York, NY x2
+- Page 1 of 4
++ Page 1 of 5
++ Production Engineer Intern
++ Production Engineering
+- Redmond, WA x2
++ Research
+- Research Intern - Self-Improving Agentic Systems and AI Research Agents
++ Research Scientist Intern, AI Alignment
+- Research Scientist Intern, AI-Driven Neural Interfaces (PhD)
+- Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)
++ Research Scientist Intern, FAIR - Multimodal Foundations (PhD)
++ Research Scientist Intern, FAIR - Physical Engineering AI (PhD)
++ Research Scientist Intern, FAIR - Video Generation (PhD)
++ Research Scientist Intern, FAIR – Multi-Agent Systems and Memory (PhD)
+- Research Scientist Intern, Foundational Models for Robotics Research (PhD)
++ Research Scientist Intern, MSL Agents (PhD)
+- Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)
+- Research Scientist Intern, PhD — Meta Superintelligence Labs
+- Research Scientist Intern, Smart Glasses in Wearables AI (PhD)
++ Research Scientist Intern, Video Recommendations (PhD)
++ San Francisco, CA x2
++ Seattle, WA x4
 - Security x2
-- Security Engineer Posture Management, Intern (Summer 2027)
++ Software Engineering
++ Software Engineering Intern
+- Sunnyvale, CA
 - Technical Security x2
-- University Grad - Engineering, Tech & Design
-- ⋅
++ University Grad - PhD & Postdoc x2
++ ⋅ x8
 ```
 
 ---
@@ -60,8 +63,8 @@
 **Line changes detected!**
 
 ```diff
-+ Chicago
-+ Senior Software Engineer, Options Execution
+- AI Full Stack Software Developer
+- Montréal
 ```
 
 ---
@@ -70,22 +73,13 @@
 **Line changes detected!**
 
 ```diff
-- , x3
-- 2027 – Internship or Graduate, Quantitative Research and Trading
-- Beijing
-- Hong Kong
-- Shanghai
-- Singapore
-- View opportunity
-```
-
----
-### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
-
-**Line changes detected!**
-
-```diff
-- Business Acceleration Team x2
++ , x3
++ 2027 – Internship or Graduate, Quantitative Research and Trading
++ Beijing
++ Hong Kong
++ Shanghai
++ Singapore
++ View opportunity
 ```
 
 ---
