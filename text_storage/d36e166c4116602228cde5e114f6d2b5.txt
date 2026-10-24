@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-46 Items
+50 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,18 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+AI Research
+Research
+Research Scientist Intern, Meta Recommendation Systems (PhD)
+Menlo Park, CA
+AI Research
+Research
 Research Scientist Intern, Video Recommendations (PhD)
 Bellevue, WA
 ⋅
@@ -58,6 +70,8 @@ Engineering
 Software Engineering Intern
 Menlo Park, CA
 ⋅
+Seattle, WA
+⋅
 New York, NY
 Internship - Engineering, Tech & Design
 Engineering
@@ -69,6 +83,19 @@ Menlo Park, CA
 New York, NY
 Infrastructure
 Production Engineering
+Research Scientist Intern, Feed Recommendations (PhD)
+Bellevue, WA
+⋅
+Menlo Park, CA
+AI Infrastructure
+AI Research
+Artificial Intelligence
+Infrastructure
+Internship - PhD
+Research
+Software Engineering
+University Grad - PhD & Postdoc
+Engineering
 Research Scientist Intern, MSL Agents (PhD)
 Menlo Park, CA
 AI Research
@@ -93,42 +120,6 @@ Seattle, WA
 New York, NY
 AI Research
 Research
-Research Scientist Intern, FAIR - Multimodal Foundations (PhD)
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Boston, MA
-⋅
-New York, NY
-⋅
-San Francisco, CA
-University Grad - PhD & Postdoc
-Research
-Research Scientist Intern, AI Alignment
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-Boston, MA
-⋅
-New York, NY
-⋅
-San Francisco, CA
-AI Research
-University Grad - PhD & Postdoc
-Artificial Intelligence
-Research
-Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)
-London, UK
-AI Research
-AR/VR
-Artificial Intelligence
-Facebook Reality Labs
-Internship - PhD
-Research
-3D Software Engineering
-Computer Vision
 Page 1 of 5
 Job Search
 Technology Teams
