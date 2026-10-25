@@ -42,19 +42,7 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-AI Research
-Research
-Research Scientist Intern, Meta Recommendation Systems (PhD)
-Menlo Park, CA
-AI Research
-Research
-Research Scientist Intern, Video Recommendations (PhD)
+Research Scientist Intern, Feed Recommendations (PhD)
 Bellevue, WA
 ⋅
 Menlo Park, CA
@@ -75,15 +63,43 @@ Seattle, WA
 New York, NY
 Internship - Engineering, Tech & Design
 Engineering
-Production Engineer Intern
+Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)
 Bellevue, WA
 ⋅
 Menlo Park, CA
 ⋅
+Seattle, WA
+AI Research
+Research
+Research Scientist Intern, Meta Recommendation Systems (PhD)
+Menlo Park, CA
+AI Research
+Research
+Data Engineer Intern, Product Analytics (Summer 2027)
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
 New York, NY
+Data & Analytics
+Internship - Engineering, Tech & Design
+Data Engineering
+Research Scientist Intern, AI Core Machine Learning (PhD)
+Sunnyvale, CA
+⋅
+Bellevue, WA
+⋅
+Seattle, WA
+AI Research
+Artificial Intelligence
+Internship - PhD
+Research
+Machine Learning
+Network Production Engineer Intern
+Menlo Park, CA
 Infrastructure
-Production Engineering
-Research Scientist Intern, Feed Recommendations (PhD)
+Network Engineering
+Research Scientist Intern, Video Recommendations (PhD)
 Bellevue, WA
 ⋅
 Menlo Park, CA
@@ -96,30 +112,18 @@ Research
 Software Engineering
 University Grad - PhD & Postdoc
 Engineering
+Production Engineer Intern
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+New York, NY
+Infrastructure
+Production Engineering
 Research Scientist Intern, MSL Agents (PhD)
 Menlo Park, CA
 AI Research
 Artificial Intelligence
-Research Scientist Intern, FAIR - Physical Engineering AI (PhD)
-Seattle, WA
-⋅
-New York, NY
-AI Research
-Research
-Research Scientist Intern, FAIR - Video Generation (PhD)
-Menlo Park, CA
-⋅
-Seattle, WA
-AI Research
-Research
-Research Scientist Intern, FAIR – Multi-Agent Systems and Memory (PhD)
-Bellevue, WA
-⋅
-Seattle, WA
-⋅
-New York, NY
-AI Research
-Research
 Page 1 of 5
 Job Search
 Technology Teams
