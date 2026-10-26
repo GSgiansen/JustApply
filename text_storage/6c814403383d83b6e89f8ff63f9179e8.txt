@@ -61,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-17
+16
 jobs matched
 Clear filters
 What do you want to do?
@@ -144,7 +144,7 @@ English
 English
 Français (Canada)
 Jobs search results
-17
+16
 jobs matched
 filter_list
 Associate Product Marketing Manager BS/MS Intern, 2027
@@ -351,26 +351,6 @@ link
 Copy link
 email
 Email a friend
-Software Engineering, Site Reliability Engineering BS/MS Intern, 2027
-corporate_fare
-Google
-place
-London, UK
-bar_chart
-Intern & Apprentice
-Google |
-London, UK
-Minimum qualifications
-Currently enrolled in a Bachelor's or Master's degree in Computer Science or a related technical field in the EMEA region.
-Experience working with data structures or algorithms during coursework/projects, research, internships or practical experience in school or work (e.g., open-source coding).
-Coding experience in one of the following programming languages: Python, C, C++, Java, JavaScript.
-Learn more
-share
-Share Software Engineering, Site Reliability Engineering BS/MS Intern, 2027
-link
-Copy link
-email
-Email a friend
 Product Deployment Engineer BS/MS, Intern - 2027 (English)
 corporate_fare
 Google
@@ -496,8 +476,8 @@ link
 Copy link
 email
 Email a friend
-Showing 1 to 17 of 17 rows
-1‑17 of 17
+Showing 1 to 16 of 16 rows
+1‑16 of 16
 Follow Life at Google on
 More about us
 About us
