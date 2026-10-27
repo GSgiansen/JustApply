@@ -47,8 +47,6 @@ Senior Software Engineer, Trading Team
 London, Singapore
 Senior Software Engineer, Treasury and Reference Data (Java/Ruby/Python)
 Chicago
-Senior Software Engineer, UI (FICCO)
-Singapore
 Senior Software Engineer, Unified Platform - Digital Assets
 London
 Senior Software Engineer, Unified Platform - Trade Management, Trade and Order Processing, Platform Services
@@ -64,9 +62,9 @@ Chicago
 Software Developer - DevOps
 Montréal
 Software Developer Intern
-Amsterdam
-Software Developer Intern
 Chicago
+Software Developer Intern
+Amsterdam
 Software Developer Intern
 London
 Software Developer Intern

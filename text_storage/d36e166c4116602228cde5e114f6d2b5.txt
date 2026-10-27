@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-50 Items
+56 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,20 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Research Scientist Intern, Foundation Model Optimization (PhD)
+Menlo Park, CA
+⋅
+Burlingame, CA
+AI Research
+Computer Vision
+Research Scientist Intern, Search (PhD)
+Menlo Park, CA
+AI Research
+Artificial Intelligence
+Internship - PhD
+Research
+University Grad - PhD & Postdoc
+Engineering
 Research Scientist Intern, Feed Recommendations (PhD)
 Bellevue, WA
 ⋅
@@ -55,50 +69,6 @@ Research
 Software Engineering
 University Grad - PhD & Postdoc
 Engineering
-Software Engineering Intern
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-New York, NY
-Internship - Engineering, Tech & Design
-Engineering
-Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-AI Research
-Research
-Research Scientist Intern, Meta Recommendation Systems (PhD)
-Menlo Park, CA
-AI Research
-Research
-Data Engineer Intern, Product Analytics (Summer 2027)
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-New York, NY
-Data & Analytics
-Internship - Engineering, Tech & Design
-Data Engineering
-Research Scientist Intern, AI Core Machine Learning (PhD)
-Sunnyvale, CA
-⋅
-Bellevue, WA
-⋅
-Seattle, WA
-AI Research
-Artificial Intelligence
-Internship - PhD
-Research
-Machine Learning
-Network Production Engineer Intern
-Menlo Park, CA
-Infrastructure
-Network Engineering
 Research Scientist Intern, Video Recommendations (PhD)
 Bellevue, WA
 ⋅
@@ -112,20 +82,49 @@ Research
 Software Engineering
 University Grad - PhD & Postdoc
 Engineering
-Production Engineer Intern
+Research Scientist Intern, AI Core Machine Learning (PhD)
+London, UK
+AI Research
+Artificial Intelligence
+Research
+Machine Learning
+Research Scientist Intern, Audio AI (PhD)
 Bellevue, WA
 ⋅
 Menlo Park, CA
-⋅
-New York, NY
-Infrastructure
-Production Engineering
+University Grad - PhD & Postdoc
+AI Research
+Research
+Engineering
+Machine Learning
 Research Scientist Intern, MSL Agents (PhD)
 Menlo Park, CA
 AI Research
 Artificial Intelligence
-Page 1 of 5
+Research Scientist Intern, AI Core Machine Learning (PhD)
+Sunnyvale, CA
+⋅
+Bellevue, WA
+⋅
+Seattle, WA
+AI Research
+Artificial Intelligence
+Internship - PhD
+Research
+Machine Learning
+Research Scientist Intern, Generative AI (PhD) (multiple locations)
+Zurich, Switzerland
+⋅
+London, UK
+AI Research
+Computer Vision
+Research Scientist Intern, Generative Recommendation Systems (PhD)
+Menlo Park, CA
+AI Research
+Research
+Page 1 of 6
 Job Search
+Technology Teams
 Technology Teams
 Artificial Intelligence
 Creative
@@ -136,19 +135,23 @@ Research and Data
 Security
 Software Engineering
 Business Teams
+Business Teams
 Business Operations
 Partnerships
 Sales and Marketing
+Career Programs
 Career Programs
 Research
 Accelerate Eng Talent
 Students and Grads
 Rotational Programs
 Working at Meta
+Working at Meta
 Accessiblity and Engagement
 Benefits
 Culture
 Hiring Process
+My account
 My account
 Career profile
 Account settings
@@ -156,41 +159,6 @@ Messages
 Meta Careers Blog
 Meta Tech Podcasts
 About us
-About Meta
-Media gallery
-Brand resources
-For investors
-Looking for contractor roles?
-Job Search
-Technology Teams
-Artificial Intelligence
-Creative
-Infrastructure
-Metaverse and Wearables
-Product and Program Management
-Research and Data
-Security
-Software Engineering
-Business Teams
-Business Operations
-Partnerships
-Sales and Marketing
-Career Programs
-Research
-Accelerate Eng Talent
-Students and Grads
-Rotational Programs
-Working at Meta
-Accessiblity and Engagement
-Benefits
-Culture
-Hiring Process
-My account
-Career profile
-Account settings
-Messages
-Meta Careers Blog
-Meta Tech Podcasts
 About us
 About Meta
 Media gallery
