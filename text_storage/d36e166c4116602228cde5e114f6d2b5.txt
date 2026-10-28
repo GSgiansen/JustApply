@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-56 Items
+59 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,69 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Research Scientist Intern, Ads Recommendations (PhD)
+Menlo Park, CA
+AI Research
+Artificial Intelligence
+Research
+Machine Learning
+Research Scientist Intern, User Modeling and Reinforcement Learning (PhD)
+Bellevue, WA
+⋅
+Menlo Park, CA
+AI Research
+Artificial Intelligence
+Research
+Machine Learning
+Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
+Bellevue, WA
+⋅
+Menlo Park, CA
+Artificial Intelligence
+AI Research
+Internship - PhD
+Research
+Engineering
+Research Scientist Intern, FAIR - Video Generation Self-Improvement (PhD)
+Menlo Park, CA
+⋅
+Seattle, WA
+AI Research
+Research
+Research Scientist Intern, Ranking & Recommendations (PhD)
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+New York, NY
+AI Infrastructure
+AI Research
+Generative AI
+Artificial Intelligence
+Machine Learning
+Research
+Research Scientist Intern, AI Research - Speech & Audio (PhD)
+Menlo Park, CA
+⋅
+New York, NY
+AI Infrastructure
+AI Research
+Artificial Intelligence
+Generative AI
+Internship - PhD
+Research
+University Grad - PhD & Postdoc
+Engineering
+Machine Learning
+Research Scientist Intern, AI Research - Speech & Audio (PhD)
+London, UK
+AI Research
+Artificial Intelligence
+Generative AI
+Internship - PhD
+Research
+University Grad - PhD & Postdoc
+Engineering
 Research Scientist Intern, Foundation Model Optimization (PhD)
 Menlo Park, CA
 ⋅
@@ -69,59 +132,6 @@ Research
 Software Engineering
 University Grad - PhD & Postdoc
 Engineering
-Research Scientist Intern, Video Recommendations (PhD)
-Bellevue, WA
-⋅
-Menlo Park, CA
-AI Infrastructure
-AI Research
-Artificial Intelligence
-Infrastructure
-Internship - PhD
-Research
-Software Engineering
-University Grad - PhD & Postdoc
-Engineering
-Research Scientist Intern, AI Core Machine Learning (PhD)
-London, UK
-AI Research
-Artificial Intelligence
-Research
-Machine Learning
-Research Scientist Intern, Audio AI (PhD)
-Bellevue, WA
-⋅
-Menlo Park, CA
-University Grad - PhD & Postdoc
-AI Research
-Research
-Engineering
-Machine Learning
-Research Scientist Intern, MSL Agents (PhD)
-Menlo Park, CA
-AI Research
-Artificial Intelligence
-Research Scientist Intern, AI Core Machine Learning (PhD)
-Sunnyvale, CA
-⋅
-Bellevue, WA
-⋅
-Seattle, WA
-AI Research
-Artificial Intelligence
-Internship - PhD
-Research
-Machine Learning
-Research Scientist Intern, Generative AI (PhD) (multiple locations)
-Zurich, Switzerland
-⋅
-London, UK
-AI Research
-Computer Vision
-Research Scientist Intern, Generative Recommendation Systems (PhD)
-Menlo Park, CA
-AI Research
-Research
 Page 1 of 6
 Job Search
 Technology Teams
