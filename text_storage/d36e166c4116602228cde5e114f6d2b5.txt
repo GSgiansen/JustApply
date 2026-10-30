@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-60 Items
+67 Items
 Save this search
 Sort by
 Relevance
@@ -42,19 +42,28 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-ML Innovation for Products, PhD Research Intern
-Sunnyvale, CA
-⋅
-Menlo Park, CA
+Research Scientist Intern, Generative AI (PhD)
+Singapore
 AI Research
+Facebook
+Generative AI
+Internship - PhD
+Internship - Engineering, Tech & Design
 Research
-Research Scientist Intern, Ads Recommendations (PhD)
-Menlo Park, CA
-⋅
-New York, NY
-AI Research
+Software Engineering
 Artificial Intelligence
+Engineering
+Machine Learning
+Research Scientist Intern, Agent for Recommendation (PhD)
+Singapore
+Artificial Intelligence
+AI Research
+Generative AI
+Internship - PhD
+Internship - Engineering, Tech & Design
 Research
+Software Engineering
+Engineering
 Machine Learning
 Research Scientist Intern, Feed Recommendations (PhD)
 Bellevue, WA
@@ -69,28 +78,38 @@ Research
 Software Engineering
 University Grad - PhD & Postdoc
 Engineering
-Research Scientist Intern, AI Research - Speech & Audio (PhD)
+Software Engineering Intern
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+New York, NY
+Internship - Engineering, Tech & Design
+Engineering
+Research Scientist Intern, Ads Recommendations (PhD)
 Menlo Park, CA
 ⋅
 New York, NY
-AI Infrastructure
 AI Research
 Artificial Intelligence
-Generative AI
-Internship - PhD
 Research
-University Grad - PhD & Postdoc
-Engineering
 Machine Learning
-Research Scientist Intern, AI Research - Speech & Audio (PhD)
+Research Scientist Intern, User Modeling and Reinforcement Learning (PhD)
+Bellevue, WA
+⋅
+Menlo Park, CA
+AI Research
+Artificial Intelligence
+Research
+Machine Learning
+Research Scientist Intern, AI Core Machine Learning (PhD)
 London, UK
 AI Research
 Artificial Intelligence
-Generative AI
-Internship - PhD
 Research
-University Grad - PhD & Postdoc
-Engineering
+Machine Learning
 Research Scientist Intern, Ranking & Recommendations (PhD)
 Bellevue, WA
 ⋅
@@ -103,39 +122,18 @@ Generative AI
 Artificial Intelligence
 Machine Learning
 Research
-Research Scientist Intern, Video Recommendations (PhD)
-Bellevue, WA
-⋅
+Research Scientist Intern, MSL Agents (PhD)
 Menlo Park, CA
-AI Infrastructure
 AI Research
 Artificial Intelligence
-Infrastructure
-Internship - PhD
-Research
-Software Engineering
-University Grad - PhD & Postdoc
-Engineering
-Research Scientist Intern, Video Intelligence for GenAI/Computer Vision (Phd)
+Research Scientist Intern, Integrity (Trust and Safety) AI (PhD)
 Bellevue, WA
-⋅
-Menlo Park, CA
-Artificial Intelligence
-AI Research
-Internship - PhD
-Research
-Engineering
-Technical Program Manager Intern, Reality Labs — 2027
-Sunnyvale, CA
 ⋅
 Seattle, WA
-University Grad - Engineering, Tech & Design
-Program Management
-Production Engineer Intern
-London, UK
-Infrastructure
-Production Engineering
-Page 1 of 6
+AI Research
+Internship - PhD
+Research
+Page 1 of 7
 Job Search
 Technology Teams
 Technology Teams
