@@ -1,23 +1,28 @@
 # Latest Scraper Results
 
-## 2026-10-30 09:20:04
+## 2026-10-31 09:06:40
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-+ .
-+ Continue
-+ Enter your company website
-+ Get industry insights and updates from Stripe
-+ Privacy Policy
-+ Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
-+ Subscribe
-+ Subscribed
-+ Thanks for subscribing. Look out for Stripe updates in your inbox.
-+ at any time.
-+ unsubscribe
+- .
+- Continue
+- Dublin HQ
+- Enter your company website
+- Get industry insights and updates from Stripe
++ Master's Machine Learning Engineer, Intern x4
+- Privacy Policy
+- Product Manager: New Grad Accelerator x3
+- Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
+- Security Engineer, New Grad
+- Subscribe
+- Subscribed
+- Thanks for subscribing. Look out for Stripe updates in your inbox.
++ Toronto
+- at any time.
+- unsubscribe
 ```
 
 ---
@@ -26,43 +31,21 @@
 **Line changes detected!**
 
 ```diff
-- 60 Items
-+ 67 Items
-- AI Infrastructure x2
-+ AI Research
+- 67 Items
++ 70 Items
++ AI Infrastructure
 + Artificial Intelligence
-+ Bellevue, WA
-- Engineering
-+ Facebook
-- Infrastructure x2
-+ Internship - Engineering, Tech & Design x3
-- Internship - PhD
-- London, UK
-- ML Innovation for Products, PhD Research Intern
-+ Machine Learning x3
-- Menlo Park, CA
-- Page 1 of 6
-+ Page 1 of 7
-- Production Engineer Intern
-- Production Engineering
-- Program Management
-+ Research Scientist Intern, AI Core Machine Learning (PhD)
-- Research Scientist Intern, AI Research - Speech & Audio (PhD) x2
-+ Research Scientist Intern, Agent for Recommendation (PhD)
-+ Research Scientist Intern, Generative AI (PhD)
-+ Research Scientist Intern, Integrity (Trust and Safety) AI (PhD)
-+ Research Scientist Intern, MSL Agents (PhD)
-+ Research Scientist Intern, User Modeling and Reinforcement Learning (PhD)
-- Research Scientist Intern, Video Intelligence for GenAI/Computer Vision (Phd)
-- Research Scientist Intern, Video Recommendations (PhD)
-+ Seattle, WA
-+ Singapore x2
-+ Software Engineering
-+ Software Engineering Intern
-- Sunnyvale, CA x2
-- Technical Program Manager Intern, Reality Labs — 2027
-- University Grad - Engineering, Tech & Design
-- University Grad - PhD & Postdoc x3
++ Facebook x2
++ Generative AI
++ Machine Learning
++ Menlo Park, CA
++ Research
++ Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
+- Research Scientist Intern, Integrity (Trust and Safety) AI (PhD)
+- Research Scientist Intern, MSL Agents (PhD)
++ Research Scientist Intern, Video RecSys (PhD)
+- Seattle, WA
++ University Grad - PhD & Postdoc
 ```
 
 ---
@@ -71,7 +54,11 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Chicago
++ Global Delta1 - Software Developer
+- Greenwich
++ London x2
++ Remote
 ```
 
 ---

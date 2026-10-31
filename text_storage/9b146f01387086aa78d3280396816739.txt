@@ -15,6 +15,8 @@ Sort by:
 All
 Category
 Location
+Global Delta1 - Software Developer
+London
 Python Software Engineer, Trading Platform
 New York City
 Senior Software Engineer
@@ -56,33 +58,33 @@ London
 Software Developer
 Chicago
 Software Developer
-Montréal
-Software Developer
 London
+Software Developer
+Montréal
 Software Developer - DevOps
 Montréal
 Software Developer Intern
-Amsterdam
+Montréal
 Software Developer Intern
 London
 Software Developer Intern
-Chicago
+Amsterdam
 Software Developer Intern
-Montréal
+Chicago
 Software Engineer (Commodities Data Team)
 London
 Software Engineer - Cumberland/FICCO Front Office Systems
-Greenwich
+Remote
+Software Engineer - Cumberland/Options Front Office Systems
+London
+Software Engineer - Cumberland/Options Front Office Systems
+Chicago
 Software Engineer - Cumberland/Options Front Office Systems
 New York City
-Software Engineer - Cumberland/Options Front Office Systems
-Chicago
-Software Engineer - Cumberland/Options Front Office Systems
-London
 Software Engineer, Research – Cumberland Systematic
 London
 Software Engineer, Research – Cumberland Systematic
-Chicago
+London
 Software Engineer - Research Technology
 Singapore
 Software Engineer, Trading – Cumberland Systematic
