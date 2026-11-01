@@ -42,49 +42,7 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
-Bellevue, WA
-⋅
-Menlo Park, CA
-AI Research
-Artificial Intelligence
-Facebook
-Internship - PhD
-Research
-Research Scientist Intern, Video RecSys (PhD)
-Menlo Park, CA
-AI Infrastructure
-AI Research
-Artificial Intelligence
-Facebook
-Generative AI
-University Grad - PhD & Postdoc
-Machine Learning
-Research
-Research Scientist Intern, Generative AI (PhD)
-Singapore
-AI Research
-Facebook
-Generative AI
-Internship - PhD
-Internship - Engineering, Tech & Design
-Research
-Software Engineering
-Artificial Intelligence
-Engineering
-Machine Learning
-Research Scientist Intern, Agent for Recommendation (PhD)
-Singapore
-Artificial Intelligence
-AI Research
-Generative AI
-Internship - PhD
-Internship - Engineering, Tech & Design
-Research
-Software Engineering
-Engineering
-Machine Learning
-Research Scientist Intern, Feed Recommendations (PhD)
+Research Scientist Intern, Video Recommendations (PhD)
 Bellevue, WA
 ⋅
 Menlo Park, CA
@@ -97,6 +55,37 @@ Research
 Software Engineering
 University Grad - PhD & Postdoc
 Engineering
+Research Scientist Intern, Video RecSys (PhD)
+Menlo Park, CA
+AI Infrastructure
+AI Research
+Artificial Intelligence
+Facebook
+Generative AI
+University Grad - PhD & Postdoc
+Machine Learning
+Research
+Research Scientist Intern, On-Device AI Model Optimization (PhD)
+Menlo Park, CA
+⋅
+Burlingame, CA
+AI Research
+Artificial Intelligence
+Research Scientist Intern, Smart Glasses in Wearables AI (PhD)
+Menlo Park, CA
+⋅
+Burlingame, CA
+AI Research
+Artificial Intelligence
+Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
+Bellevue, WA
+⋅
+Menlo Park, CA
+AI Research
+Artificial Intelligence
+Facebook
+Internship - PhD
+Research
 Software Engineering Intern
 Bellevue, WA
 ⋅
@@ -107,40 +96,45 @@ Seattle, WA
 New York, NY
 Internship - Engineering, Tech & Design
 Engineering
-Research Scientist Intern, Ads Recommendations (PhD)
-Menlo Park, CA
-⋅
-New York, NY
-AI Research
-Artificial Intelligence
-Research
-Machine Learning
-Research Scientist Intern, User Modeling and Reinforcement Learning (PhD)
+Research Scientist Intern, FAIR - Multimodal Foundations (PhD)
 Bellevue, WA
 ⋅
 Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+Boston, MA
+⋅
+New York, NY
+⋅
++1 more
+University Grad - PhD & Postdoc
+Research
+Research Scientist Intern, MSL - Agentic Post-Training (PhD)
+Menlo Park, CA
 AI Research
 Artificial Intelligence
-Research
-Machine Learning
-Research Scientist Intern, AI Core Machine Learning (PhD)
-London, UK
-AI Research
-Artificial Intelligence
-Research
-Machine Learning
-Research Scientist Intern, Ranking & Recommendations (PhD)
+Engineering
+Production Engineer Intern
 Bellevue, WA
 ⋅
 Menlo Park, CA
 ⋅
 New York, NY
-AI Infrastructure
+Infrastructure
+Production Engineering
+Research Scientist Intern, Generative AI (PhD)
+Singapore
 AI Research
+Facebook
 Generative AI
-Artificial Intelligence
-Machine Learning
+Internship - PhD
+Internship - Engineering, Tech & Design
 Research
+Software Engineering
+Artificial Intelligence
+Engineering
+Machine Learning
 Page 1 of 7
 Job Search
 Technology Teams

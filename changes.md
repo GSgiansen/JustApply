@@ -1,28 +1,23 @@
 # Latest Scraper Results
 
-## 2026-10-31 09:06:40
+## 2026-11-01 09:56:41
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-- .
-- Continue
-- Dublin HQ
-- Enter your company website
-- Get industry insights and updates from Stripe
-+ Master's Machine Learning Engineer, Intern x4
-- Privacy Policy
-- Product Manager: New Grad Accelerator x3
-- Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
-- Security Engineer, New Grad
-- Subscribe
-- Subscribed
-- Thanks for subscribing. Look out for Stripe updates in your inbox.
-+ Toronto
-- at any time.
-- unsubscribe
++ .
++ Continue
++ Enter your company website
++ Get industry insights and updates from Stripe
++ Privacy Policy
++ Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
++ Subscribe
++ Subscribed
++ Thanks for subscribing. Look out for Stripe updates in your inbox.
++ at any time.
++ unsubscribe
 ```
 
 ---
@@ -31,34 +26,38 @@
 **Line changes detected!**
 
 ```diff
-- 67 Items
-+ 70 Items
-+ AI Infrastructure
-+ Artificial Intelligence
-+ Facebook x2
-+ Generative AI
-+ Machine Learning
-+ Menlo Park, CA
-+ Research
-+ Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
-- Research Scientist Intern, Integrity (Trust and Safety) AI (PhD)
-- Research Scientist Intern, MSL Agents (PhD)
-+ Research Scientist Intern, Video RecSys (PhD)
-- Seattle, WA
++ +1 more
+- AI Infrastructure
+- AI Research x2
+- Artificial Intelligence x2
++ Boston, MA
++ Burlingame, CA x2
+- Generative AI x2
++ Infrastructure
+- Internship - Engineering, Tech & Design
+- Internship - PhD
+- London, UK
+- Machine Learning x5
++ Menlo Park, CA x2
++ Production Engineer Intern
++ Production Engineering
+- Research x4
+- Research Scientist Intern, AI Core Machine Learning (PhD)
+- Research Scientist Intern, Ads Recommendations (PhD)
+- Research Scientist Intern, Agent for Recommendation (PhD)
++ Research Scientist Intern, FAIR - Multimodal Foundations (PhD)
+- Research Scientist Intern, Feed Recommendations (PhD)
++ Research Scientist Intern, MSL - Agentic Post-Training (PhD)
++ Research Scientist Intern, On-Device AI Model Optimization (PhD)
+- Research Scientist Intern, Ranking & Recommendations (PhD)
++ Research Scientist Intern, Smart Glasses in Wearables AI (PhD)
+- Research Scientist Intern, User Modeling and Reinforcement Learning (PhD)
++ Research Scientist Intern, Video Recommendations (PhD)
++ Seattle, WA
+- Singapore
+- Software Engineering
 + University Grad - PhD & Postdoc
-```
-
----
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
-
-**Line changes detected!**
-
-```diff
-- Chicago
-+ Global Delta1 - Software Developer
-- Greenwich
-+ London x2
-+ Remote
++ ⋅ x5
 ```
 
 ---
