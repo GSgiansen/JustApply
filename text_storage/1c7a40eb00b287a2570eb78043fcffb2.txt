@@ -79,13 +79,8 @@ We hire in engineering, quantitative trading, partnerships, and operations. If y
 Team
 All Teams
 Trading & Sales
-Technology
-Operations
 Location
 All Locations
-Ho Chi Minh City
-Kraków
-Kuala Lumpur
 New York
 Singapore
 Trading & Sales
@@ -96,24 +91,6 @@ View Details
 Quantitative Trader
 Singapore
 Caladan is seeking a Quant Trader to design, implement and manage systematic trading strategies across digital asset markets.
-View Details
-Technology
-Senior Software Engineer
-Singapore
-As a Senior Engineer you’ll be surrounded by smart and motivated colleagues with complimentary skillsets, offering a great platform for you to contribute ideas, commit code and help the team achieve tangible results.
-View Details
-Software Engineer (Ho Chi Minh)
-Ho Chi Minh City
-As a Software Engineer at Caladan you will be part of a team responsible for owning a business area or application end to end.
-View Details
-Software Engineer (Kraków)
-Kraków
-As a Software Engineer you'll keep the systems that carry our orders to market fast, observable and dependable.
-View Details
-Operations
-Trade Operations Specialist
-Kuala Lumpur
-We are looking for a Trade Operations Specialist who combines hands-on operational experience with strong analytical thinking, sound judgement and a drive to continuously improve how things work.
 View Details
 Loading...
 Jobs not found
