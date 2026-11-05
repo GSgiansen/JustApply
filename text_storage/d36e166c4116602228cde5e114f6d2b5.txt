@@ -42,84 +42,79 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
-Singapore
-AI Research
-Internship - PhD
-Research
-Research Scientist Intern, Generative Recommendation (PhD)
-Singapore
-AI Research
-Internship - PhD
-Research
-Research Scientist Intern, GenAI Safety (PhD)
-Menlo Park, CA
-⋅
-San Francisco, CA
-AI Research
-Artificial Intelligence
-Generative AI
-Internship - PhD
-Research
-Engineering
-Machine Learning
-Research Scientist Intern, Ads Quality (PhD)
-Menlo Park, CA
-AI Research
-Research
-University Grad - PhD & Postdoc
-Research Scientist Intern, FM Quality ML (PhD)
-Menlo Park, CA
-AI Research
-Research
-University Grad - PhD & Postdoc
-Research Scientist Intern PhD, PAR Safety Evals and Red Teaming
-Menlo Park, CA
-⋅
-New York, NY
-Internship - PhD
-Research
-Research Scientist Intern, Video Recommendations (PhD)
-Bellevue, WA
-⋅
-Menlo Park, CA
-AI Infrastructure
-AI Research
-Artificial Intelligence
-Infrastructure
-Internship - PhD
-Research
-Software Engineering
-University Grad - PhD & Postdoc
-Engineering
-Research Scientist Intern PhD, PAR Safety Evals and Red Teaming
-Menlo Park, CA
-Internship - PhD
-Research
-Research Scientist Intern, FAIR - Multimodal Foundations (PhD)
+Software Engineering Intern
 Bellevue, WA
 ⋅
 Menlo Park, CA
 ⋅
 Seattle, WA
 ⋅
-Boston, MA
-⋅
 New York, NY
+Internship - Engineering, Tech & Design
+Engineering
+Research Scientist Intern, Monetization Ranking & AI Foundations (PhD)
+Sunnyvale, CA
 ⋅
-+1 more
-University Grad - PhD & Postdoc
-Research
-Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)
-London, UK
+Menlo Park, CA
 AI Research
-AR/VR
-Artificial Intelligence
-Facebook Reality Labs
 Internship - PhD
 Research
-3D Software Engineering
+Research Scientist Intern, ML Innovation for Products (PhD)
+Sunnyvale, CA
+⋅
+Menlo Park, CA
+AI Research
+Research
+Research Scientist Intern, Generative AI (PhD) (multiple locations)
+Zurich, Switzerland
+⋅
+London, UK
+AI Research
 Computer Vision
+Technical Program Manager Intern, Reality Labs — 2027
+Sunnyvale, CA
+⋅
+Seattle, WA
+⋅
+New York, NY
+University Grad - Engineering, Tech & Design
+Program Management
+Research Scientist Intern, AI Research - Speech & Audio (PhD)
+London, UK
+AI Research
+Artificial Intelligence
+Generative AI
+Internship - PhD
+Research
+University Grad - PhD & Postdoc
+Engineering
+Research Scientist Intern, AI Research - Speech & Audio (PhD)
+Menlo Park, CA
+⋅
+New York, NY
+Artificial Intelligence
+AI Research
+Generative AI
+Internship - PhD
+Research
+Engineering
+Research Scientist Intern, AI Maps (PhD)
+Seattle, WA
+Artificial Intelligence
+AI Research
+Production Engineer Intern
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+New York, NY
+Infrastructure
+Production Engineering
+Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
+Singapore
+AI Research
+Internship - PhD
+Research
 Page 1 of 8
 Job Search
 Technology Teams

@@ -44,9 +44,9 @@ Chicago
 Senior Software Engineer, Platform Services
 Chicago
 Senior Software Engineer, Trading Platform, C++
-London
-Senior Software Engineer, Trading Platform, C++
 Chicago
+Senior Software Engineer, Trading Platform, C++
+London
 Senior Software Engineer, Trading Team
 London, Singapore
 Senior Software Engineer, Treasury and Reference Data (Java/Ruby/Python)
@@ -60,19 +60,19 @@ London
 Software Developer
 Chicago
 Software Developer
-London
-Software Developer
 Montréal
+Software Developer
+London
 Software Developer - DevOps
 Montréal
 Software Developer Intern
-London
-Software Developer Intern
-Montréal
+Amsterdam
 Software Developer Intern
 Chicago
 Software Developer Intern
-Amsterdam
+Montréal
+Software Developer Intern
+London
 Software Engineer (Commodities Data Team)
 London
 Software Engineer - Cumberland/FICCO Front Office Systems
