@@ -17,6 +17,9 @@ Role type
 filters
 selected
 Clear all filters
+Controllership Intern
+Controllership
+Seattle
 Data Analyst, Intern
 University
 New York
@@ -74,9 +77,6 @@ New York
 PhD Data Scientist, Intern
 University
 Seattle
-PhD Data Scientist, Intern
-University
-South San Francisco HQ
 1
 2
 3

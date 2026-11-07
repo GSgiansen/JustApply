@@ -253,7 +253,37 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-1 Open Roles
+6 Open Roles
+ROLE
+2027 Economist Summer Intern
+FOCUS
+Data Sourcing & Strategy
+LOCATION
+Singapore
+ROLE
+2027 Long/Short Equity Support Research Intern, Hong Kong
+FOCUS
+Trading Research
+LOCATION
+Hong Kong
+ROLE
+2027 Corporate Access Intern
+FOCUS
+Corporate Access
+LOCATION
+Hong Kong
+ROLE
+2027 MI Data Research Intern
+FOCUS
+Data Sourcing & Strategy
+LOCATION
+Hong Kong   |   Tokyo   |   Singapore
+ROLE
+2027 Trader Summer Intern (12-week program)
+FOCUS
+Trading
+LOCATION
+Hong Kong   |   Tokyo
 ROLE
 Quantitative Researcher - Intern
 FOCUS
