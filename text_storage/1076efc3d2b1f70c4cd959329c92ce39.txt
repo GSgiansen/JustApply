@@ -255,7 +255,7 @@ Cubist Business Team
 Find Open Roles
 6 Open Roles
 ROLE
-2027 Economist Summer Intern
+2027 Economist Intern
 FOCUS
 Data Sourcing & Strategy
 LOCATION
@@ -273,7 +273,7 @@ Corporate Access
 LOCATION
 Hong Kong
 ROLE
-2027 MI Data Research Intern
+2027 MI Data Research & AI Intern
 FOCUS
 Data Sourcing & Strategy
 LOCATION
