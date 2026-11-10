@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-77 Items
+80 Items
 Save this search
 Sort by
 Relevance
@@ -42,6 +42,13 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Research Scientist Intern,  AI Core Machine Learning (PhD)
+Sunnyvale, CA
+⋅
+Menlo Park, CA
+AI Research
+Research
+Internship - PhD
 Research Scientist Intern, Muse Post-Training & Flywheel (PhD)
 Singapore
 AI Research
@@ -84,6 +91,10 @@ Research
 Software Engineering
 University Grad - PhD & Postdoc
 Engineering
+Research Scientist Intern, Generative AI & 3D Generation (PhD)
+Seattle, WA
+Artificial Intelligence
+AI Research
 Research Scientist Intern, Robotics Foundation Models, Agentic RL (PhD)
 Menlo Park, CA
 Research
@@ -107,24 +118,6 @@ New York, NY
 University Grad - PhD & Postdoc
 AI Research
 Research
-Production Engineer Intern
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-New York, NY
-Infrastructure
-Production Engineering
-Software Engineering Intern
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-⋅
-New York, NY
-Internship - Engineering, Tech & Design
-Engineering
 Page 1 of 8
 Job Search
 Technology Teams
