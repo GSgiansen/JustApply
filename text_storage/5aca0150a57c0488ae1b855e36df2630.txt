@@ -71,12 +71,12 @@ Mexico City
 PhD Data Scientist, Intern
 University
 Toronto
-PhD Machine Learning Engineer, Intern
-University
-Toronto
-PhD Machine Learning Engineer, Intern
+PhD Data Scientist, Intern
 University
 New York
+PhD Data Scientist, Intern
+University
+Seattle
 1
 2
 3
