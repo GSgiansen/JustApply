@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-82 Items
+83 Items
 Save this search
 Sort by
 Relevance
@@ -42,22 +42,26 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-Research Scientist Intern, TPU(PhD)
+Strategic Sourcing Manager, Intern
 Menlo Park, CA
+Internship - Engineering, Tech & Design
+Internship - Business
+Program Management
+Research Scientist Intern, Video Recommendations (PhD)
+Singapore
 AI Research
-Artificial Intelligence
-Research Scientist Intern, LLM Memory and Skills (PhD)
-Bellevue, WA
-⋅
-Seattle, WA
-⋅
-New York, NY
-AI Research
-Artificial Intelligence
-Internship - PhD
-Computer Vision
-Machine Learning
 Research
+Research Scientist Intern, GenAI Safety (PhD)
+Menlo Park, CA
+⋅
+San Francisco, CA
+AI Research
+Artificial Intelligence
+Generative AI
+Internship - PhD
+Research
+Engineering
+Machine Learning
 Research Scientist Intern, MSL - Multimodal Interaction and Generation (PhD)
 Singapore
 AI Research
@@ -65,17 +69,15 @@ Internship - PhD
 University Grad - PhD & Postdoc
 Artificial Intelligence
 Machine Learning
-Production Engineer Intern
-London, UK
-Infrastructure
-Production Engineering
-Data Scientist Intern, Product Analytics (PhD) (Summer 2027)
+Research Scientist Intern, Monetization Ranking & AI Foundations (PhD)
+Sunnyvale, CA
+⋅
+Bellevue, WA
+⋅
 Menlo Park, CA
-Data & Analytics
-Internship - Engineering, Tech & Design
+AI Research
 Internship - PhD
-Data Science
-Analytics
+Research
 Data Scientist Intern, Product Analytics (Summer 2027)
 Menlo Park, CA
 ⋅
@@ -84,23 +86,28 @@ Data & Analytics
 Internship - Engineering, Tech & Design
 Analytics
 Data Science
-Data Engineer Intern, Product Analytics (Summer 2027)
+Software Engineering Intern
+Bellevue, WA
+⋅
 Menlo Park, CA
 ⋅
 Seattle, WA
 ⋅
 New York, NY
-Data & Analytics
 Internship - Engineering, Tech & Design
-Data Engineering
-Research Scientist Intern, Foundation Model Optimization (PhD)
-Sunnyvale, CA
+Engineering
+Research Scientist Intern, Ranking & Recommendations (PhD)
+Bellevue, WA
 ⋅
 Menlo Park, CA
 ⋅
-Burlingame, CA
+New York, NY
+AI Infrastructure
 AI Research
+Generative AI
 Artificial Intelligence
+Machine Learning
+Research
 Technical Program Manager Intern, Reality Labs — 2027
 Sunnyvale, CA
 ⋅
@@ -111,14 +118,10 @@ Seattle, WA
 New York, NY
 University Grad - Engineering, Tech & Design
 Program Management
-Research Scientist Intern, Search (PhD)
+Research Scientist Intern, TPU(PhD)
 Menlo Park, CA
 AI Research
 Artificial Intelligence
-Internship - PhD
-Research
-University Grad - PhD & Postdoc
-Engineering
 Page 1 of 9
 Job Search
 Technology Teams
