@@ -52,6 +52,59 @@ University Grad - PhD & Postdoc
 Engineering
 Machine Learning
 Research
+Technical Program Manager Intern, Reality Labs — 2027
+Sunnyvale, CA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+New York, NY
+AR/VR
+Technical Program Management
+Program Management
+Detection & Response Security Engineer, Intern (Summer 2027)
+New York, NY
+Internship - Engineering, Tech & Design
+Security
+Technical Security
+Enterprise Security Engineer, Intern (Summer 2027)
+Menlo Park, CA
+⋅
+New York, NY
+Security
+Internship - Engineering, Tech & Design
+Technical Security
+Security Engineer Posture Management, Intern (Summer 2027)
+New York, NY
+University Grad - Engineering, Tech & Design
+Security
+Technical Security
+Product Security Engineer, Intern (Summer 2027)
+Menlo Park, CA
+⋅
+New York, NY
+Security
+Internship - Engineering, Tech & Design
+Technical Security
+Software Engineer Intern, Machine Learning (PhD)
+Menlo Park, CA
+⋅
+New York, NY
+Internship - PhD
+Engineering
+Research Scientist Intern, Systems ML - SW/HW Co-Design - CPUSys (PhD)
+Menlo Park, CA
+AI Research
+Artificial Intelligence
+Infrastructure
+Internship - PhD
+Research
+University Grad - PhD & Postdoc
+AI Infrastructure
+Software Engineering
+Engineering
+Hardware
 Software Engineering Intern
 Bellevue, WA
 ⋅
@@ -62,57 +115,13 @@ Seattle, WA
 New York, NY
 Internship - Engineering, Tech & Design
 Engineering
-Research Scientist Intern, Central Applied Science (PhD)
-Menlo Park, CA
-⋅
-New York, NY
-Research
-Research Scientist Intern, FM Quality ML (PhD)
+Research Scientist Intern, PhD — Meta Superintelligence Labs
 Menlo Park, CA
 AI Research
-Research
+Artificial Intelligence
 University Grad - PhD & Postdoc
-Research Scientist Intern, Ads Quality (PhD)
-Menlo Park, CA
-AI Research
 Research
-University Grad - PhD & Postdoc
-Research Scientist Intern, ML Innovation for Products (PhD)
-Sunnyvale, CA
-⋅
-Menlo Park, CA
-AI Research
-Research
-Research Scientist Intern, AI Agents and Machine Learning (PhD)
-Sunnyvale, CA
-⋅
-Menlo Park, CA
-AI Research
-Internship - PhD
-Research
-Research Scientist Intern,  AI Core Machine Learning (PhD)
-Sunnyvale, CA
-⋅
-Menlo Park, CA
-AI Research
-Research
-Internship - PhD
-Research Scientist Intern, Monetization Ranking & AI Foundations (PhD)
-Sunnyvale, CA
-⋅
-Bellevue, WA
-⋅
-Menlo Park, CA
-AI Research
-Internship - PhD
-Research
-Research Scientist Intern, Integrity (Trust and Safety) AI (PhD)
-Bellevue, WA
-⋅
-Seattle, WA
-AI Research
-Internship - PhD
-Research
+Engineering
 Page 1 of 9
 Job Search
 Technology Teams

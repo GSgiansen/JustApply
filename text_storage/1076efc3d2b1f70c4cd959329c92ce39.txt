@@ -253,7 +253,7 @@ Finance & Accounting
 Fundamental Equities
 Cubist Business Team
 Find Open Roles
-6 Open Roles
+7 Open Roles
 ROLE
 2027 Economist Intern
 FOCUS
@@ -272,6 +272,12 @@ FOCUS
 Corporate Access
 LOCATION
 Hong Kong
+ROLE
+2027 Asia Investment Services Internship
+FOCUS
+Human Capital  |  Operations  |  Trade Support & Reporting
+LOCATION
+Hong Kong   |   Singapore
 ROLE
 2027 MI Data Research & AI Intern
 FOCUS
