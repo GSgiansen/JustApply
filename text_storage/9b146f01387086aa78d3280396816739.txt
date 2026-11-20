@@ -22,17 +22,17 @@ Chicago
 Python Software Engineer, Trading Platform
 New York City
 Senior Software Engineer
-Singapore
-Senior Software Engineer
 Tel Aviv
+Senior Software Engineer
+Singapore
 Senior Software Engineer, C++ (Algo)
 Chicago
 Senior Software Engineer, Cumberland/Options Data
-London
+Chicago
 Senior Software Engineer, Cumberland/Options Data
 New York City
 Senior Software Engineer, Cumberland/Options Data
-Chicago
+London
 Senior Software Engineer - DeFi
 Chicago
 Senior Software Engineer, Low Latency
@@ -54,19 +54,19 @@ London
 Senior Software Engineer, Unified Platform - Trade Management and Trade & Order Processing
 London
 Software Developer
-Montréal
-Software Developer
-Montréal
-Software Developer
 London
+Software Developer
+Montréal
+Software Developer
+Montréal
 Software Developer - DevOps
 Montréal
 Software Developer Intern
 London
 Software Developer Intern
-Amsterdam
-Software Developer Intern
 Montréal
+Software Developer Intern
+Amsterdam
 Software Engineer (Commodities Data Team)
 London
 Software Engineer - Cumberland/FICCO Front Office Systems
@@ -74,9 +74,9 @@ Greenwich
 Software Engineer - Cumberland/Options Front Office Systems
 New York City
 Software Engineer - Cumberland/Options Front Office Systems
-London
-Software Engineer - Cumberland/Options Front Office Systems
 Chicago
+Software Engineer - Cumberland/Options Front Office Systems
+London
 Software Engineer, Research – Cumberland Systematic
 Chicago
 Software Engineer, Research – Cumberland Systematic
@@ -86,9 +86,9 @@ Singapore
 Software Engineer, Trading – Cumberland Systematic
 London
 Software Engineer - Trading Operations
-Chicago
-Software Engineer - Trading Operations
 New York City
+Software Engineer - Trading Operations
+Chicago
 Unified Platform - Business Experience - Software Engineer
 London
 Who we are

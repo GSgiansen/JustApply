@@ -29,6 +29,9 @@ South San Francisco HQ
 Data Analyst, Intern
 University
 Toronto
+Financial Data Analyst Intern, Technical Operations
+Payments
+Singapore
 High School Internship, Software Engineering (Summer 2027)
 University
 Seattle
@@ -74,9 +77,6 @@ South San Francisco HQ
 PhD Machine Learning Engineer, Intern
 University
 Toronto
-PhD Machine Learning Engineer, Intern
-University
-New York
 1
 2
 3

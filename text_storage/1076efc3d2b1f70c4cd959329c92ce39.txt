@@ -255,7 +255,7 @@ Cubist Business Team
 Find Open Roles
 7 Open Roles
 ROLE
-2027 Economist Intern
+2027 Asia Economist Intern
 FOCUS
 Data Sourcing & Strategy
 LOCATION
@@ -285,7 +285,7 @@ Data Sourcing & Strategy
 LOCATION
 Hong Kong   |   Tokyo   |   Singapore
 ROLE
-2027 Trader Summer Intern (12-week program)
+2027 Trader Intern (12-week program)
 FOCUS
 Trading
 LOCATION
