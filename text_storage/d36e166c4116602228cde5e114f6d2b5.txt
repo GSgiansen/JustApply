@@ -42,6 +42,11 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Software Engineer Intern, Machine Learning (PhD)
+Singapore
+Internship - PhD
+Machine Learning
+Engineering
 Software Engineering Intern
 Bellevue, WA
 ⋅
@@ -51,12 +56,6 @@ Seattle, WA
 ⋅
 New York, NY
 Internship - Engineering, Tech & Design
-Engineering
-Software Engineer Intern, Machine Learning (PhD)
-Menlo Park, CA
-⋅
-New York, NY
-Internship - PhD
 Engineering
 Data Scientist Intern, Product Analytics (Summer 2027)
 Menlo Park, CA

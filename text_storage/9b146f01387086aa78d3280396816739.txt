@@ -15,12 +15,6 @@ Sort by:
 All
 Category
 Location
-FICC Options Execution - Senior Software Engineer (Crypto)
-London
-Pricing & Derived Data - Senior Software Engineer
-Chicago
-Python Software Engineer, Trading Platform
-New York City
 Senior Software Engineer
 Tel Aviv
 Senior Software Engineer
@@ -35,6 +29,8 @@ Senior Software Engineer, Cumberland/Options Data
 London
 Senior Software Engineer - DeFi
 Chicago
+Senior Software Engineer - FICC Options Execution (Crypto)
+London
 Senior Software Engineer, Low Latency
 Singapore
 Senior Software Engineer (Options)
@@ -51,20 +47,20 @@ Senior Software Engineer, Treasury and Reference Data (Java/Ruby/Python)
 Chicago
 Senior Software Engineer, Unified Platform - Platform Services
 London
+Senior Software Engineer - Unified Platform - Pricing & Derived Data
+Chicago
 Senior Software Engineer, Unified Platform - Trade Management and Trade & Order Processing
 London
 Software Developer
-London
-Software Developer
 Montréal
+Software Developer
+London
 Software Developer
 Montréal
 Software Developer - DevOps
 Montréal
 Software Developer Intern
 London
-Software Developer Intern
-Montréal
 Software Developer Intern
 Amsterdam
 Software Engineer (Commodities Data Team)
@@ -74,9 +70,9 @@ Greenwich
 Software Engineer - Cumberland/Options Front Office Systems
 New York City
 Software Engineer - Cumberland/Options Front Office Systems
-Chicago
-Software Engineer - Cumberland/Options Front Office Systems
 London
+Software Engineer - Cumberland/Options Front Office Systems
+Chicago
 Software Engineer, Research – Cumberland Systematic
 Chicago
 Software Engineer, Research – Cumberland Systematic
@@ -86,10 +82,8 @@ Singapore
 Software Engineer, Trading – Cumberland Systematic
 London
 Software Engineer - Trading Operations
-New York City
-Software Engineer - Trading Operations
 Chicago
-Unified Platform - Business Experience - Software Engineer
+Software Engineer - Unified Platform - Business Experience
 London
 Who we are
 Work at DRW
