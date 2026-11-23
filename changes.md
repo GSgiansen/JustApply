@@ -1,41 +1,42 @@
 # Latest Scraper Results
 
-## 2026-11-22 10:33:08
+## 2026-11-23 11:33:12
 
-### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
 
 **Line changes detected!**
 
 ```diff
-+ AI Infrastructure
-+ Artificial Intelligence
-+ Computer Vision
-+ Data Scientist Intern, Product Analytics (PhD) (Summer 2027)
-- Data Scientist Intern, Product Analytics (Summer 2027)
-- Generative AI
-+ Internship - Engineering, Tech & Design
-- Internship - PhD
-+ London, UK
-- New York, NY
-+ Product Security Engineer, Intern (Summer 2027)
-- Program Management
-+ Research Scientist Intern, Feed Recommendations (PhD)
-- Research Scientist Intern, LLM-Native Recommendation Systems (PhD)
-+ Research Scientist Intern, MSL - Agentic Post-Training (PhD)
-- Research Scientist Intern, MSL Agents (PhD)
-- Research Scientist Intern, Monetization Ranking & AI Foundations (PhD)
-+ Research Scientist Intern, Photorealistic Telepresence (PhD)
-+ Research Scientist Intern, User Modeling and Reinforcement Learning (PhD)
-- Research Scientist Intern, Video Recommendations (PhD)
-- Seattle, WA
-+ Security
-- Singapore
-- Sunnyvale, CA x2
-- Technical Program Management
-- Technical Program Manager Intern, Reality Labs — 2027
-+ Technical Security
-- University Grad - PhD & Postdoc
-- ⋅ x4
++ 1‑5 of 5
+- 1‑7 of 7
++ 5 x2
+- 7 x2
+- Ability to communicate in English to support client relationship management in this region.
+- Business Program Manager MBA Intern, 2027
+- Copy link x2
+- Currently enrolled in a Bachelor's or Master's degree in Computer Science, Engineering, Mathematics, Statistics, Economics, Business Information Systems, or a related technical/quantitative field in the EMEA region.
+- Currently enrolled in a MBA degree program in the EMEA region
+- Email a friend x2
+- Google x2
+- Google | x2
+- Intern & Apprentice x2
+- Learn more x2
+- London, UK x4
+- Minimum qualifications x2
+- Product Deployment Engineer BS/MS, Intern - 2027 (English)
+- Programming or scripting experience with at least one language (e.g., Python, JavaScript) and experience with SQL or data analysis.
+- Relevant practical or internship experience in program or project management.
+- Relevant practical or internship experience in technical project delivery, technical consulting, software development, or a customer-facing role.
+- Share Business Program Manager MBA Intern, 2027
+- Share Product Deployment Engineer BS/MS, Intern - 2027 (English)
++ Showing 1 to 5 of 5 rows
+- Showing 1 to 7 of 7 rows
+- bar_chart x2
+- corporate_fare x2
+- email x2
+- link x2
+- place x2
+- share x2
 ```
 
 ---
