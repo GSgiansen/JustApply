@@ -79,18 +79,32 @@ We hire in engineering, quantitative trading, partnerships, and operations. If y
 Team
 All Teams
 Trading & Sales
+Technology
 Location
 All Locations
 New York
 Singapore
 Trading & Sales
-Institutional Partnerships Manager
-New York
-At Caladan, we believe that accessing digital asset liquidity should be seamless, fast, and tailored.
-View Details
-Quantitative Trader
+Quantitative Researcher, Machine Learning
 Singapore
-Caladan is seeking a Quant Trader to design, implement and manage systematic trading strategies across digital asset markets.
+Work closely with researchers who own live strategies, and together, turn models into P&L.
+View Details
+Senior Quantitative Researcher, Medium-Frequency Alpha
+Singapore
+Alpha is the centre of gravity, but you will own the path from signal to P&L.
+View Details
+Systematic Trader
+New York
+Turn live trading data into better execution, smarter risk decisions, and stronger systematic strategies across multiple crypto exchanges.
+View Details
+Technology
+Algo Developer
+Singapore
+Translate a researcher's model and a trader's instinct into production strategy code that holds up when markets don't.
+View Details
+Head of Algo Development
+Singapore
+Lead the team turning validated trading strategies into high-performance production code, accelerating the path from research to live trading.
 View Details
 Loading...
 Jobs not found
