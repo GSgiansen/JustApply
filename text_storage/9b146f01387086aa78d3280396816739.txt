@@ -16,17 +16,17 @@ All
 Category
 Location
 Senior Software Engineer
-Tel Aviv
-Senior Software Engineer
 Singapore
+Senior Software Engineer
+Tel Aviv
 Senior Software Engineer, C++ (Algo)
 Chicago
-Senior Software Engineer, Cumberland/Options Data
-London
 Senior Software Engineer, Cumberland/Options Data
 New York City
 Senior Software Engineer, Cumberland/Options Data
 Chicago
+Senior Software Engineer, Cumberland/Options Data
+London
 Senior Software Engineer - DeFi
 Chicago
 Senior Software Engineer - FICC Options Execution (Crypto)
@@ -44,7 +44,7 @@ London
 Senior Software Engineer, Trading Team
 London, Singapore
 Senior Software Engineer, Treasury (Java/Ruby/Python)
-Chicago
+Chicago, New York City
 Senior Software Engineer, Unified Platform - Platform Services
 London
 Senior Software Engineer - Unified Platform - Pricing & Derived Data
@@ -60,19 +60,19 @@ London
 Software Developer - DevOps
 Montréal
 Software Developer Intern
-London
-Software Developer Intern
 Amsterdam
+Software Developer Intern
+London
 Software Engineer (Commodities Data Team)
 London
 Software Engineer - Cumberland/FICCO Front Office Systems
 Greenwich
 Software Engineer - Cumberland/Options Front Office Systems
-London
-Software Engineer - Cumberland/Options Front Office Systems
 New York City
 Software Engineer - Cumberland/Options Front Office Systems
 Chicago
+Software Engineer - Cumberland/Options Front Office Systems
+London
 Software Engineer, Research – Cumberland Systematic
 Chicago
 Software Engineer, Research – Cumberland Systematic

@@ -56,9 +56,6 @@ Seattle
 Master's Machine Learning Engineer, Intern
 University
 South San Francisco HQ
-Operations Associate, Apprenticeship
-Operations
-Bengaluru
 Operations Associate, New Grad (Mexico)
 Operations
 Mexico City
@@ -77,6 +74,9 @@ South San Francisco HQ
 PhD Machine Learning Engineer, Intern
 University
 Toronto
+PhD Machine Learning Engineer, Intern
+University
+New York
 1
 2
 3
@@ -104,7 +104,6 @@ Connect
 Crypto
 Crypto Onramp
 Data Pipeline
-Elements
 Financial Connections
 Global Payouts
 Identity

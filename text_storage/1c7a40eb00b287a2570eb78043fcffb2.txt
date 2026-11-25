@@ -82,6 +82,7 @@ Trading & Sales
 Technology
 Location
 All Locations
+Kraków
 New York
 Singapore
 Trading & Sales
@@ -105,6 +106,10 @@ View Details
 Head of Algo Development
 Singapore
 Lead the team turning validated trading strategies into high-performance production code, accelerating the path from research to live trading.
+View Details
+Software Engineer, Trading Infrastructure & Projects
+Kraków
+Keep market data flowing, deployments seamless, and trading systems resilient when every millisecond counts.
 View Details
 Loading...
 Jobs not found
