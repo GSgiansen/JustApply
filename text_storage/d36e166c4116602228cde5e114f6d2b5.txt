@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-83 Items
+82 Items
 Save this search
 Sort by
 Relevance
@@ -43,72 +43,37 @@ Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
 Software Engineer Intern, Machine Learning (PhD)
-Menlo Park, CA
-⋅
-New York, NY
-Internship - Engineering, Tech & Design
-Engineering
-Product Security Engineer, Intern (Summer 2027)
-Menlo Park, CA
-⋅
-New York, NY
-Security
-Internship - Engineering, Tech & Design
-Technical Security
-Research Scientist Intern, MSL - Agentic Post-Training (PhD)
-Menlo Park, CA
-⋅
-New York, NY
-AI Research
-Artificial Intelligence
-Engineering
-Software Engineer Intern, Machine Learning (PhD)
 Singapore
 Internship - PhD
-Machine Learning
+Software Engineering
 Engineering
-Software Engineering Intern
-Bellevue, WA
-⋅
+Machine Learning
+Research Scientist Intern, Generative Recommendation (PhD)
+Singapore
+AI Research
+Research
+Data Engineer Intern, Product Analytics (Summer 2027)
 Menlo Park, CA
 ⋅
 Seattle, WA
 ⋅
 New York, NY
+Data & Analytics
 Internship - Engineering, Tech & Design
-Engineering
-Research Scientist Intern, Photorealistic Telepresence (PhD)
+Data Engineering
+Research Intern - Self-Improving Agentic Systems and AI Research Agents
 London, UK
-AI Infrastructure
 AI Research
-AR/VR
-Artificial Intelligence
+Research
+Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)
+Redmond, WA
+⋅
+Burlingame, CA
+⋅
+New York, NY
+Research
+Internship - PhD
 Computer Vision
-Research
-UX Research Intern, Quantitative (Summer 2027)
-Menlo Park, CA
-Internship - PhD
-Research
-Research Scientist Intern, User Modeling and Reinforcement Learning (PhD)
-Bellevue, WA
-⋅
-Menlo Park, CA
-AI Research
-Artificial Intelligence
-Research
-Machine Learning
-Research Scientist Intern, AI Core Machine Learning (PhD)
-Sunnyvale, CA
-⋅
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-Seattle, WA
-AI Research
-Artificial Intelligence
-Internship - PhD
-Research
 Machine Learning
 Research Scientist Intern, Feed Recommendations (PhD)
 Bellevue, WA
@@ -123,6 +88,41 @@ Research
 Software Engineering
 University Grad - PhD & Postdoc
 Engineering
+Research Scientist Intern, Ranking & Recommendations (PhD)
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+New York, NY
+AI Infrastructure
+AI Research
+Generative AI
+Artificial Intelligence
+Machine Learning
+Research
+Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
+Bellevue, WA
+⋅
+Menlo Park, CA
+AI Research
+Artificial Intelligence
+Facebook
+Internship - PhD
+Research
+Research Scientist Intern, MSL - Agentic Post-Training (PhD)
+Menlo Park, CA
+⋅
+New York, NY
+AI Research
+Artificial Intelligence
+Engineering
+Research Scientist Intern, AI & System Co-Design (PhD)
+Menlo Park, CA
+AI Research
+AI Infrastructure
+Artificial Intelligence
+Research
+Internship - PhD
 Page 1 of 9
 Job Search
 Technology Teams
