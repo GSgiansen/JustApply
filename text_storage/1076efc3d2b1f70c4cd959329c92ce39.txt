@@ -50,6 +50,7 @@ Investment Services
 Proprietary Research
 Your submission is processing
 Browse Open Roles
+Filters
 Filter by:
 Remove All Filters
 Experienced Professionals
@@ -252,6 +253,8 @@ Private Equity & Venture Capital
 Finance & Accounting
 Fundamental Equities
 Cubist Business Team
+Clear selection
+Apply
 Find Open Roles
 7 Open Roles
 ROLE
@@ -277,25 +280,39 @@ ROLE
 FOCUS
 Human Capital  |  Operations  |  Trade Support & Reporting
 LOCATION
-Hong Kong   |   Singapore
+Hong Kong
+|
+Singapore
 ROLE
 2027 MI Data Research & AI Intern
 FOCUS
 Data Sourcing & Strategy
 LOCATION
-Hong Kong   |   Tokyo   |   Singapore
+Hong Kong
+|
+Tokyo
+|
+Singapore
 ROLE
 2027 Trader Intern (12-week program)
 FOCUS
 Trading
 LOCATION
-Hong Kong   |   Tokyo
+Hong Kong
+|
+Tokyo
 ROLE
 Quantitative Researcher - Intern
 FOCUS
 Systematic Investing
 LOCATION
-London   |   Hong Kong   |   Tokyo   |   Paris
+London
+|
+Hong Kong
+|
+Tokyo
+|
+Paris
 P72 Careers - Footer
 Point72
 About Us

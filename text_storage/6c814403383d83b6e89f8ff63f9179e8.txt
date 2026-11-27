@@ -61,7 +61,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-5
+4
 jobs matched
 Clear filters
 What do you want to do?
@@ -144,7 +144,7 @@ English
 English
 Français (Canada)
 Jobs search results
-5
+4
 jobs matched
 filter_list
 Student Researcher, 2027
@@ -212,26 +212,6 @@ link
 Copy link
 email
 Email a friend
-Account Executive, Business Intern, 2027 (English)
-corporate_fare
-Google
-place
-Singapore
-bar_chart
-Intern & Apprentice
-Google |
-Singapore
-Minimum qualifications
-Currently enrolled in a Bachelor's or Master's program.
-Penultimate academic year of the Bachelor’s or Master’s degree.
-Ability  to communicate in English fluently as this is a customer-facing role that requires interactions in English with local stakeholders.
-Learn more
-share
-Share Account Executive, Business Intern, 2027 (English)
-link
-Copy link
-email
-Email a friend
 Account Executive, MBA Intern, 2027
 corporate_fare
 Google
@@ -252,8 +232,8 @@ link
 Copy link
 email
 Email a friend
-Showing 1 to 5 of 5 rows
-1‑5 of 5
+Showing 1 to 4 of 4 rows
+1‑4 of 4
 Follow Life at Google on
 More about us
 About us
