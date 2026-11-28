@@ -54,8 +54,6 @@ Chicago
 Senior Software Engineer, Unified Platform - Trade Management and Trade & Order Processing
 London
 Software Developer
-Montréal
-Software Developer
 London
 Software Developer
 Montréal
@@ -72,9 +70,9 @@ Greenwich
 Software Engineer - Cumberland/Options Front Office Systems
 Chicago
 Software Engineer - Cumberland/Options Front Office Systems
-New York City
-Software Engineer - Cumberland/Options Front Office Systems
 London
+Software Engineer - Cumberland/Options Front Office Systems
+New York City
 Software Engineer, Research – Cumberland Systematic
 London
 Software Engineer, Research – Cumberland Systematic

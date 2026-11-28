@@ -42,16 +42,17 @@ Seattle, WA
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-Software Engineer Intern, Machine Learning (PhD)
-Singapore
-Internship - PhD
-Software Engineering
-Engineering
-Machine Learning
-Research Scientist Intern, Generative Recommendation (PhD)
-Singapore
+Research Scientist Intern, MSL Agents (PhD)
+Menlo Park, CA
 AI Research
-Research
+Artificial Intelligence
+Product Security Engineer, Intern (Summer 2027)
+Menlo Park, CA
+⋅
+New York, NY
+Security
+Internship - Engineering, Tech & Design
+Technical Security
 Data Engineer Intern, Product Analytics (Summer 2027)
 Menlo Park, CA
 ⋅
@@ -61,6 +62,48 @@ New York, NY
 Data & Analytics
 Internship - Engineering, Tech & Design
 Data Engineering
+Software Engineering Intern
+Bellevue, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
+New York, NY
+Internship - Engineering, Tech & Design
+Engineering
+Software Engineer Intern, Machine Learning (PhD)
+Singapore
+Internship - PhD
+Software Engineering
+Engineering
+Machine Learning
+Data Scientist Intern, Product Analytics (Summer 2027)
+Menlo Park, CA
+⋅
+New York, NY
+Data & Analytics
+Internship - Engineering, Tech & Design
+Analytics
+Data Science
+Software Engineer Intern, Systems and Infrastructure (PhD)
+Sunnyvale, CA
+⋅
+Bellevue, WA
+⋅
+Redmond, WA
+⋅
+Menlo Park, CA
+⋅
+Seattle, WA
+⋅
++2 more
+Internship - PhD
+Engineering
+Research Scientist Intern, Generative Recommendation (PhD)
+Singapore
+AI Research
+Research
 Research Intern - Self-Improving Agentic Systems and AI Research Agents
 London, UK
 AI Research
@@ -75,54 +118,6 @@ Research
 Internship - PhD
 Computer Vision
 Machine Learning
-Research Scientist Intern, Feed Recommendations (PhD)
-Bellevue, WA
-⋅
-Menlo Park, CA
-AI Infrastructure
-AI Research
-Artificial Intelligence
-Infrastructure
-Internship - PhD
-Research
-Software Engineering
-University Grad - PhD & Postdoc
-Engineering
-Research Scientist Intern, Ranking & Recommendations (PhD)
-Bellevue, WA
-⋅
-Menlo Park, CA
-⋅
-New York, NY
-AI Infrastructure
-AI Research
-Generative AI
-Artificial Intelligence
-Machine Learning
-Research
-Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
-Bellevue, WA
-⋅
-Menlo Park, CA
-AI Research
-Artificial Intelligence
-Facebook
-Internship - PhD
-Research
-Research Scientist Intern, MSL - Agentic Post-Training (PhD)
-Menlo Park, CA
-⋅
-New York, NY
-AI Research
-Artificial Intelligence
-Engineering
-Research Scientist Intern, AI & System Co-Design (PhD)
-Menlo Park, CA
-AI Research
-AI Infrastructure
-Artificial Intelligence
-Research
-Internship - PhD
 Page 1 of 9
 Job Search
 Technology Teams
